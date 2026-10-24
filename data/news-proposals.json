@@ -28,6 +28,71 @@
       "status": "approved",
       "createdAt": "2026-10-24T02:20:34.000Z",
       "reviewedAt": "2026-10-24T02:30:21.936Z"
+    },
+    {
+      "id": "news-d035ec0b9f40085582d2",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "title": "PHP vulnerability triggers global cyber response",
+      "importance": "high",
+      "summary": "A major PHP vulnerability that prompted a global cyber response is likely to cause small, short-lived disruptions to Square Country's digital economy. Immediate effects are modest: minor drag on GDP growth, a small rise in unemployment, reduced digital trade receipts and a small hit to government revenue from lower activity. Inflation and direct fiscal spending effects are judged uncertain and set to zero for the first stage.",
+      "reasoning": "Headlines indicate wide, rapid mitigation actions (sites taken down, urgent patching). For Square Country (large, trade-exposed, GDP ~ SC$1.092tn) the first-stage channel is temporary business interruption (e‑commerce, hosted services, online payments), direct firm costs for patching and slower transactions, and short-term delays in digital exports/imports. Conservatively: assume a small annualised growth drag of 0.05 percentage points from lost/shifted economic activity while firms patch systems and some web services are offline. This implies an annualised output shortfall ≈ 0.0005 * GDP ≈ SC$546m; applying Square Country's historical revenue/GDP ratio (~0.225) yields an approximate government revenue loss of SC$123m. Digital-export disruptions are estimated conservatively at ~0.08% of exports (≈ SC$193m); imports see a smaller disruption (≈ SC$150m) from delayed cross-border digital services and temporary reductions in online commerce. Unemployment may tick up slightly as activity slows (≈ +0.02 percentage points). There is insufficient verified evidence in headlines to conclude a material change in inflation or to identify explicit fiscal responses, so those are set to zero. Estimates are first-stage, short-term, and conservative given headline-only evidence.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": 0,
+        "unemployment": 0.02,
+        "governmentRevenue": -123000000,
+        "governmentExpenditure": 0,
+        "exports": -193000000,
+        "imports": -150000000
+      },
+      "sources": [
+        {
+          "title": "What is PHP and why did it spark a global cyber-security scramble?",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-23T12:24:17.000Z",
+          "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+        },
+        {
+          "title": "Websites taken down worldwide as critical cyber-security update issued",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-21T19:54:57.000Z",
+          "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-10-24T04:31:00.460Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-2f964328fd1393fd1cb3",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta $25bn privacy fine",
+      "importance": "medium",
+      "summary": "Headlines report a large (USD 25bn) fine against Meta for privacy breaches. Based on headlines-only evidence and no verified details linking the fine to Square Country, there is insufficient basis to assign a measurable, immediate first-stage macro or fiscal impact for Square Country. I therefore estimate no first-stage effects at this time.",
+      "reasoning": "1) Evidence level: single headline/RSS summary only — not enough verified detail on scope, timing, jurisdiction, or whether the fine affects Meta’s operations or payments related to Square Country. 2) Likely destination of funds: fines of this type are normally paid to the fining jurisdiction (or settled with that authority); there is no indication funds flow to Square Country government coffers. 3) Indirect channels (reduced Meta capex, advertising spend, asset-price effects) are possible but uncertain and likely small relative to Square Country’s large, trade-exposed economy; headlines do not quantify these channels. 4) Conservative approach per instructions: use zero when effects are genuinely uncertain. If later information shows material reductions in Meta’s local activity or advertising purchases from Square Country firms, a small negative GDP impulse and revenue loss could be considered, but that is not supported by the present evidence.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Meta fined $25bn for 'lies' over user data privacy",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-21T21:49:07.000Z",
+          "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-10-24T04:31:16.490Z",
+      "reviewedAt": null
     }
   ]
 }
