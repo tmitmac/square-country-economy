@@ -11,7 +11,7 @@
         "unemployment": -0.03,
         "governmentExpenditure": 10000000000
       },
-      "appliedOn": "2026-11-05"
+      "appliedOn": "2026-09-12"
     },
     {
       "id": "d0fc8348-ad8a-4932-9edf-2820ed2d0fbd",
@@ -25,7 +25,7 @@
         "governmentRevenue": -5000000000
       },
       "createdAt": "2026-10-24T01:04:47.334Z",
-      "appliedOn": "2026-11-07"
+      "appliedOn": "2026-09-14"
     },
     {
       "id": "f0dbd477-0a4c-4985-8844-bdc43b6ee826",
@@ -40,7 +40,7 @@
         "imports": 1400000000
       },
       "createdAt": "2026-10-24T01:52:34.552Z",
-      "appliedOn": "2026-11-08"
+      "appliedOn": "2026-09-15"
     },
     {
       "id": "44368930-b10d-4d2f-abed-01a513c4d30b",
@@ -55,7 +55,7 @@
         "imports": 1500000000
       },
       "createdAt": "2026-10-24T02:04:05.419Z",
-      "appliedOn": "2026-11-10"
+      "appliedOn": "2026-09-17"
     },
     {
       "id": "news-97c227bfaa08472768aa",
@@ -67,7 +67,7 @@
       },
       "sourceType": "international_news",
       "createdAt": "2026-10-24T02:30:21.926Z",
-      "appliedOn": "2026-11-11"
+      "appliedOn": "2026-09-18"
     },
     {
       "id": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
@@ -81,7 +81,7 @@
         "governmentExpenditure": 10000000000
       },
       "createdAt": "2026-10-24T02:37:59.150Z",
-      "appliedOn": "2026-11-13"
+      "appliedOn": "2026-09-20"
     }
   ]
 }

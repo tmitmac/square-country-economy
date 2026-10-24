@@ -1,7 +1,7 @@
 {
   "country": "Square Country",
   "currency": "SC$",
-  "lastUpdated": "2026-12-17",
+  "lastUpdated": "2026-10-24",
   "economy": {
     "population": 12713122,
     "gdp": 1092539876995,
@@ -24,7 +24,7 @@
       {
         "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
         "title": "Infrastructure investment",
-        "startDate": "2026-11-13",
+        "startDate": "2026-09-20",
         "effects": {
           "gdpGrowth": 0.4,
           "inflation": 0.1,
