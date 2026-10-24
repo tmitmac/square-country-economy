@@ -1,0 +1,799 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>News Intelligence | Square Country Economy</title>
+
+<style>
+:root {
+    --navy: #122238;
+    --blue: #2563eb;
+    --bg: #f4f6fa;
+    --border: #e3e7ef;
+    --text: #172337;
+    --muted: #718096;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+}
+
+.layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 245px;
+    flex-shrink: 0;
+    background: var(--navy);
+    padding: 30px 20px;
+    color: white;
+}
+
+.brand {
+    font-size: 21px;
+    font-weight: bold;
+    padding: 5px 10px 35px;
+}
+
+.brand span {
+    display: block;
+    font-size: 12px;
+    font-weight: normal;
+    color: #93a3bc;
+    margin-top: 7px;
+}
+
+.nav {
+    display: block;
+    color: #c4d1e3;
+    text-decoration: none;
+    padding: 14px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.nav:hover, .nav.active {
+    background: #263c59;
+    color: white;
+}
+
+.main {
+    flex: 1;
+    min-width: 0;
+    padding: 38px;
+    max-width: 1550px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    letter-spacing: -0.7px;
+    margin: 0 0 9px;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    margin: 0;
+    line-height: 1.6;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+button {
+    background: var(--blue);
+    color: white;
+    border: 0;
+    padding: 12px 17px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+button:hover { background: #1d4ed8; }
+button:disabled { opacity: .5; cursor: wait; }
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 17px;
+    margin-bottom: 30px;
+}
+
+.stat, .panel {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 23px;
+}
+
+.stat-label {
+    color: var(--muted);
+    font-size: 13px;
+}
+
+.stat-value {
+    font-size: 29px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.content-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 22px;
+    align-items: start;
+}
+
+h2 { font-size: 19px; margin: 0 0 12px; }
+
+.section-subtitle {
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--muted);
+    margin: 0 0 20px;
+}
+
+.article, .proposal {
+    border: 1px solid var(--border);
+    border-radius: 9px;
+    padding: 17px;
+    margin-bottom: 13px;
+}
+
+.article h3, .proposal h3 {
+    margin: 0 0 10px;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.article a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.article a:hover {
+    color: var(--blue);
+    text-decoration: underline;
+}
+
+.meta {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.6;
+}
+
+.description {
+    font-size: 13px;
+    color: #566278;
+    line-height: 1.65;
+    margin: 12px 0;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
+.badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 5px 9px;
+    border-radius: 20px;
+    background: #f1f5f9;
+    color: #475569;
+    text-transform: capitalize;
+}
+
+.high { background: #fee2e2; color: #991b1b; }
+.medium { background: #fef3c7; color: #92400e; }
+.low { background: #e0f2fe; color: #075985; }
+.none { background: #f1f5f9; color: #64748b; }
+
+.pending_review { background: #dbeafe; color: #1d4ed8; }
+.approved { background: #dcfce7; color: #166534; }
+.rejected { background: #fee2e2; color: #991b1b; }
+
+.assessment {
+    border-left: 3px solid #d6e2f8;
+    padding: 9px 12px;
+    background: #f8fafc;
+    margin-top: 12px;
+    font-size: 12px;
+    line-height: 1.7;
+    color: #475569;
+}
+
+.effects {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+}
+
+.effects td {
+    border-bottom: 1px solid var(--border);
+    font-size: 13px;
+    padding: 10px 0;
+}
+
+.effects td:last-child {
+    text-align: right;
+    font-weight: bold;
+}
+
+.actions {
+    display: flex;
+    gap: 9px;
+    margin-top: 17px;
+}
+
+.approve { background: #16803c; }
+.approve:hover { background: #11632f; }
+
+.reject {
+    background: #fff1f2;
+    color: #be123c;
+}
+.reject:hover { background: #ffe4e6; }
+
+.message {
+    padding: 13px;
+    border-radius: 8px;
+    font-size: 13px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    background: #e0f2fe;
+    color: #075985;
+}
+
+.message.error {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.empty {
+    padding: 35px 10px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 13px;
+}
+
+select {
+    padding: 9px;
+    border: 1px solid #cbd5e1;
+    background: white;
+    border-radius: 7px;
+    font-size: 13px;
+    max-width: 100%;
+}
+
+.filters {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.source-link {
+    font-size: 12px;
+    color: var(--blue);
+    overflow-wrap: anywhere;
+}
+
+.footer {
+    color: var(--muted);
+    font-size: 12px;
+    margin-top: 25px;
+    line-height: 1.7;
+}
+
+@media(max-width: 1100px) {
+    .content-grid { grid-template-columns: 1fr; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media(max-width: 700px) {
+    .layout { display: block; }
+    .sidebar { width: 100%; padding: 20px; }
+    .brand { padding-bottom: 18px; }
+    .main { padding: 22px; }
+    .topbar { align-items: flex-start; flex-direction: column; }
+    .stats { gap: 9px; }
+    .stat { padding: 16px; }
+}
+</style>
+</head>
+
+<body>
+<div class="layout">
+    <aside class="sidebar">
+        <div class="brand">
+            SQUARE COUNTRY
+            <span>Economic Simulation System</span>
+        </div>
+
+        <a class="nav" href="/">Economic Overview</a>
+        <a class="nav" href="/events.html">Economic Events</a>
+        <a class="nav active" href="/news.html">News Intelligence</a>
+    </aside>
+
+    <main class="main">
+        <div class="topbar">
+            <div>
+                <h1>News Intelligence</h1>
+                <p class="subtitle">
+                    International economic news, AI assessments
+                    and economic impact proposals.
+                </p>
+            </div>
+
+            <button id="generateBtn">
+                ✦ Generate AI Proposals
+            </button>
+        </div>
+
+        <div id="message" role="status"></div>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-label">Collected Articles</div>
+                <div class="stat-value" id="articleCount">—</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">AI Reviewed</div>
+                <div class="stat-value" id="reviewCount">—</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Pending Proposals</div>
+                <div class="stat-value" id="pendingCount">—</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Approved Proposals</div>
+                <div class="stat-value" id="approvedCount">—</div>
+            </div>
+        </div>
+
+        <div class="content-grid">
+            <section class="panel">
+                <h2>International News</h2>
+                <p class="section-subtitle">
+                    Collected articles and AI relevance assessments.
+                </p>
+
+                <div class="filters">
+                    <select id="relevanceFilter">
+                        <option value="all">All relevance levels</option>
+                        <option value="high">High relevance</option>
+                        <option value="medium">Medium relevance</option>
+                        <option value="low">Low relevance</option>
+                        <option value="none">Not relevant</option>
+                        <option value="unreviewed">Not assessed</option>
+                    </select>
+                </div>
+
+                <div id="articleList">
+                    <div class="empty">Loading news...</div>
+                </div>
+            </section>
+
+            <section class="panel">
+                <h2>Economic Impact Proposals</h2>
+                <p class="section-subtitle">
+                    Review AI estimates before allowing any event
+                    to affect the simulated economy.
+                </p>
+
+                <div class="filters">
+                    <select id="proposalFilter">
+                        <option value="pending_review">Pending approval</option>
+                        <option value="approved">Approved</option>
+                        <option value="rejected">Rejected</option>
+                        <option value="all">All proposals</option>
+                    </select>
+                </div>
+
+                <div id="proposalList">
+                    <div class="empty">Loading proposals...</div>
+                </div>
+            </section>
+        </div>
+
+        <p class="footer">
+            Square Country Economic Intelligence |
+            Development Environment<br>
+            AI-generated economic effects are hypothetical estimates.
+            News analysis and proposal generation do not directly
+            change official economic figures.
+        </p>
+    </main>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+
+let articles = [];
+let reviews = [];
+let proposals = [];
+let busy = false;
+
+const labels = {
+    gdpGrowth: "GDP growth",
+    inflation: "Inflation",
+    unemployment: "Unemployment",
+    governmentRevenue: "Government revenue",
+    governmentExpenditure: "Government expenditure",
+    exports: "Exports",
+    imports: "Imports"
+};
+
+const monetary = new Set([
+    "governmentRevenue",
+    "governmentExpenditure",
+    "exports",
+    "imports"
+]);
+
+function el(tag, className, content) {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (content !== undefined) node.textContent = content;
+    return node;
+}
+
+function showMessage(text, error = false) {
+    const message = $("message");
+    message.textContent = text;
+    message.className = "message" + (error ? " error" : "");
+}
+
+function formatEffect(key, value) {
+    if (monetary.has(key)) {
+        const sign = value > 0 ? "+" : value < 0 ? "−" : "";
+        return sign + "SC$" +
+            (Math.abs(value) / 1e9).toFixed(3) + "B";
+    }
+
+    const sign = value > 0 ? "+" : "";
+    return sign + value + " pp";
+}
+
+function safeLink(url, title) {
+    const link = el("a", "source-link", title);
+
+    try {
+        const parsed = new URL(url);
+        if (["https:", "http:"].includes(parsed.protocol)) {
+            link.href = parsed.href;
+            link.target = "_blank";
+            link.rel = "noopener noreferrer";
+        }
+    } catch {}
+
+    return link;
+}
+
+async function requestJSON(url, options = {}) {
+    const response = await fetch(url, options);
+    const data = await response.json();
+
+    if (!response.ok) {
+        throw new Error(data.error || "Request failed.");
+    }
+
+    return data;
+}
+
+function setBusy(value) {
+    busy = value;
+    $("generateBtn").disabled = value;
+    $("generateBtn").textContent = value
+        ? "✦ Generating proposals..."
+        : "✦ Generate AI Proposals";
+}
+
+async function loadData() {
+    const data = await requestJSON("/api/news-dashboard");
+
+    articles = data.articles;
+    reviews = data.reviews;
+    proposals = data.proposals;
+
+    $("articleCount").textContent = articles.length;
+    $("reviewCount").textContent = reviews.length;
+    $("pendingCount").textContent = proposals.filter(
+        p => p.status === "pending_review"
+    ).length;
+    $("approvedCount").textContent = proposals.filter(
+        p => p.status === "approved"
+    ).length;
+
+    renderArticles();
+    renderProposals();
+}
+
+function renderArticles() {
+    const list = $("articleList");
+    const filter = $("relevanceFilter").value;
+
+    list.replaceChildren();
+
+    const reviewMap = new Map(
+        reviews.map(r => [r.articleId, r])
+    );
+
+    const visible = [...articles].reverse().filter(article => {
+        const relevance =
+            reviewMap.get(article.id)?.relevance || "unreviewed";
+
+        return filter === "all" || relevance === filter;
+    }).slice(0, 50);
+
+    if (!visible.length) {
+        list.appendChild(
+            el("div", "empty", "No articles match this filter.")
+        );
+        return;
+    }
+
+    for (const article of visible) {
+        const review = reviewMap.get(article.id);
+        const card = el("div", "article");
+
+        const heading = el("h3");
+        heading.appendChild(
+            safeLink(article.url, article.title)
+        );
+        card.appendChild(heading);
+
+        card.appendChild(el(
+            "div",
+            "meta",
+            `${article.source || "Unknown source"} · ` +
+            `${article.publishedAt || "Unknown date"}`
+        ));
+
+        const relevance = review?.relevance || "unreviewed";
+
+        card.appendChild(el(
+            "span",
+            "badge " + relevance,
+            relevance
+        ));
+
+        if (review) {
+            const assessment = el("div", "assessment");
+
+            assessment.appendChild(
+                el("strong", "", "AI Assessment")
+            );
+            assessment.appendChild(
+                el("p", "", review.reason)
+            );
+
+            if (review.duplicateOf) {
+                assessment.appendChild(el(
+                    "p",
+                    "",
+                    "Possible duplicate of: " +
+                    review.duplicateOf
+                ));
+            }
+
+            card.appendChild(assessment);
+        }
+
+        list.appendChild(card);
+    }
+}
+
+function renderProposals() {
+    const list = $("proposalList");
+    const filter = $("proposalFilter").value;
+
+    list.replaceChildren();
+
+    const visible = [...proposals].reverse().filter(p =>
+        filter === "all" || p.status === filter
+    );
+
+    if (!visible.length) {
+        list.appendChild(el(
+            "div",
+            "empty",
+            "No economic impact proposals in this category."
+        ));
+        return;
+    }
+
+    for (const proposal of visible) {
+        const card = el("div", "proposal");
+
+        card.appendChild(
+            el("h3", "", proposal.title)
+        );
+
+        card.appendChild(
+            el("span", "badge " + proposal.status,
+                proposal.status.replaceAll("_", " "))
+        );
+
+        card.appendChild(
+            el("p", "description", proposal.summary)
+        );
+
+        const reasoning = el("div", "assessment");
+        reasoning.appendChild(
+            el("strong", "", "AI Economic Reasoning")
+        );
+        reasoning.appendChild(
+            el("p", "", proposal.reasoning)
+        );
+        card.appendChild(reasoning);
+
+        const table = el("table", "effects");
+
+        for (const [key, value] of Object.entries(
+            proposal.effects || {}
+        )) {
+            if (value === 0) continue;
+
+            const row = document.createElement("tr");
+            row.appendChild(el("td", "", labels[key] || key));
+            row.appendChild(el("td", "", formatEffect(key, value)));
+            table.appendChild(row);
+        }
+
+        if (table.rows.length === 0) {
+            card.appendChild(el(
+                "p", "description",
+                "No measurable immediate economic effects proposed."
+            ));
+        } else {
+            card.appendChild(table);
+        }
+
+        if (proposal.sources?.length) {
+            const sources = el("div", "description");
+            sources.appendChild(
+                el("strong", "", "News sources")
+            );
+
+            for (const source of proposal.sources) {
+                const line = el("p");
+                line.appendChild(
+                    safeLink(source.url, source.title || source.url)
+                );
+                sources.appendChild(line);
+            }
+
+            card.appendChild(sources);
+        }
+
+        if (proposal.status === "pending_review") {
+            const actions = el("div", "actions");
+
+            const approve = el("button", "approve", "Approve");
+            const reject = el("button", "reject", "Reject");
+
+            approve.disabled = busy;
+            reject.disabled = busy;
+
+            approve.addEventListener("click", () =>
+                decide(proposal, "approve")
+            );
+
+            reject.addEventListener("click", () =>
+                decide(proposal, "reject")
+            );
+
+            actions.append(approve, reject);
+            card.appendChild(actions);
+        }
+
+        list.appendChild(card);
+    }
+}
+
+async function decide(proposal, decision) {
+    if (busy) return;
+
+    if (!confirm(
+        `${decision === "approve" ? "Approve" : "Reject"} ` +
+        `"${proposal.title}"?` +
+        (decision === "approve"
+            ? "\n\nApproval creates a pending economic event."
+            : "")
+    )) return;
+
+    setBusy(true);
+
+    try {
+        await requestJSON("/api/news/decision", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                id: proposal.id,
+                decision
+            })
+        });
+
+        await loadData();
+
+        showMessage(
+            decision === "approve"
+                ? "Proposal approved and added to pending economic events."
+                : "Proposal rejected."
+        );
+
+    } catch (error) {
+        showMessage(error.message, true);
+    } finally {
+        setBusy(false);
+        renderProposals();
+    }
+}
+
+$("generateBtn").addEventListener("click", async () => {
+    if (busy) return;
+
+    setBusy(true);
+    showMessage(
+        "Analysing new developments. This uses your OpenAI API credits."
+    );
+
+    try {
+        const result = await requestJSON("/api/news/generate", {
+            method: "POST"
+        });
+
+        await loadData();
+
+        const noNew = result.output.includes(
+            "No new economic developments"
+        );
+
+        showMessage(
+            noNew
+                ? "No new eligible developments to analyse."
+                : "AI proposal generation completed. Review the results."
+        );
+
+    } catch (error) {
+        showMessage(error.message, true);
+    } finally {
+        setBusy(false);
+        renderProposals();
+    }
+});
+
+$("relevanceFilter").addEventListener(
+    "change", renderArticles
+);
+
+$("proposalFilter").addEventListener(
+    "change", renderProposals
+);
+
+loadData().catch(error => {
+    showMessage(error.message, true);
+});
+</script>
+</body>
+</html>

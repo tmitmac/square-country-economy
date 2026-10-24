@@ -1,0 +1,21 @@
+
+# Node.js dependencies
+node_modules/
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# Local backups
+backup-step-12/
+
+# Logs
+*.log
+npm-debug.log*

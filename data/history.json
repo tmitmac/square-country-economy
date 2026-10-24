@@ -1,0 +1,2730 @@
+[
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-24",
+    "economy": {
+      "population": 12700000,
+      "gdp": 1080000000000,
+      "gdpGrowth": 2.4,
+      "inflation": 2.7,
+      "unemployment": 4.6,
+      "interestRate": 3.75,
+      "governmentRevenue": 261100000000,
+      "governmentExpenditure": 261100000000,
+      "governmentDebt": 382000000000,
+      "exports": 240000000000,
+      "imports": 225000000000,
+      "exchangeRateUSD": 0.71
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-25",
+    "economy": {
+      "population": 12700243,
+      "gdp": 1080148611505,
+      "gdpGrowth": 2.386,
+      "inflation": 2.7,
+      "unemployment": 4.6,
+      "interestRate": 3.75,
+      "governmentRevenue": 261138566552,
+      "governmentExpenditure": 261138413400,
+      "governmentDebt": 381999999580,
+      "exports": 240015372476,
+      "imports": 225046033676,
+      "exchangeRateUSD": 0.70999
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-26",
+    "economy": {
+      "population": 12700486,
+      "gdp": 1080296462952,
+      "gdpGrowth": 2.36,
+      "inflation": 2.699,
+      "unemployment": 4.603,
+      "interestRate": 3.75,
+      "governmentRevenue": 261172353595,
+      "governmentExpenditure": 261175651170,
+      "governmentDebt": 382000008614,
+      "exports": 240031167021,
+      "imports": 225075625357,
+      "exchangeRateUSD": 0.71027
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-27",
+    "economy": {
+      "population": 12700729,
+      "gdp": 1080444364024,
+      "gdpGrowth": 2.366,
+      "inflation": 2.694,
+      "unemployment": 4.6,
+      "interestRate": 3.75,
+      "governmentRevenue": 261204128353,
+      "governmentExpenditure": 261216593897,
+      "governmentDebt": 382000042766,
+      "exports": 240077227709,
+      "imports": 225108689073,
+      "exchangeRateUSD": 0.71034
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-28",
+    "economy": {
+      "population": 12700972,
+      "gdp": 1080591996590,
+      "gdpGrowth": 2.361,
+      "inflation": 2.689,
+      "unemployment": 4.596,
+      "interestRate": 3.75,
+      "governmentRevenue": 261237075594,
+      "governmentExpenditure": 261257243102,
+      "governmentDebt": 382000098019,
+      "exports": 240122329271,
+      "imports": 225146844152,
+      "exchangeRateUSD": 0.71061
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-29",
+    "economy": {
+      "population": 12701215,
+      "gdp": 1080738723541,
+      "gdpGrowth": 2.329,
+      "inflation": 2.689,
+      "unemployment": 4.598,
+      "interestRate": 3.75,
+      "governmentRevenue": 261267565364,
+      "governmentExpenditure": 261296824591,
+      "governmentDebt": 382000178181,
+      "exports": 240143062849,
+      "imports": 225172607802,
+      "exchangeRateUSD": 0.71042
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-30",
+    "economy": {
+      "population": 12701458,
+      "gdp": 1080885210463,
+      "gdpGrowth": 2.325,
+      "inflation": 2.684,
+      "unemployment": 4.599,
+      "interestRate": 3.75,
+      "governmentRevenue": 261302245722,
+      "governmentExpenditure": 261327127261,
+      "governmentDebt": 382000246350,
+      "exports": 240164988585,
+      "imports": 225215647769,
+      "exchangeRateUSD": 0.71024
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-10-31",
+    "economy": {
+      "population": 12701701,
+      "gdp": 1081031514623,
+      "gdpGrowth": 2.318,
+      "inflation": 2.684,
+      "unemployment": 4.601,
+      "interestRate": 3.75,
+      "governmentRevenue": 261341556856,
+      "governmentExpenditure": 261365586121,
+      "governmentDebt": 382000312184,
+      "exports": 240185903332,
+      "imports": 225229419377,
+      "exchangeRateUSD": 0.70998
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-01",
+    "economy": {
+      "population": 12701944,
+      "gdp": 1081178244542,
+      "gdpGrowth": 2.339,
+      "inflation": 2.677,
+      "unemployment": 4.597,
+      "interestRate": 3.75,
+      "governmentRevenue": 261372315335,
+      "governmentExpenditure": 261397451233,
+      "governmentDebt": 382000381049,
+      "exports": 240231999833,
+      "imports": 225276652368,
+      "exchangeRateUSD": 0.71018
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-02",
+    "economy": {
+      "population": 12702187,
+      "gdp": 1081325168523,
+      "gdpGrowth": 2.35,
+      "inflation": 2.672,
+      "unemployment": 4.597,
+      "interestRate": 3.75,
+      "governmentRevenue": 261412529390,
+      "governmentExpenditure": 261436584401,
+      "governmentDebt": 382000446953,
+      "exports": 240254115871,
+      "imports": 225291835032,
+      "exchangeRateUSD": 0.71034
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-03",
+    "economy": {
+      "population": 12702430,
+      "gdp": 1081473182816,
+      "gdpGrowth": 2.38,
+      "inflation": 2.679,
+      "unemployment": 4.594,
+      "interestRate": 3.75,
+      "governmentRevenue": 261447324144,
+      "governmentExpenditure": 261470381743,
+      "governmentDebt": 382000510125,
+      "exports": 240290098703,
+      "imports": 225331030424,
+      "exchangeRateUSD": 0.71049
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-04",
+    "economy": {
+      "population": 12702673,
+      "gdp": 1081621015091,
+      "gdpGrowth": 2.377,
+      "inflation": 2.675,
+      "unemployment": 4.592,
+      "interestRate": 3.75,
+      "governmentRevenue": 261483314424,
+      "governmentExpenditure": 261510012262,
+      "governmentDebt": 382000583270,
+      "exports": 240316367979,
+      "imports": 225367632948,
+      "exchangeRateUSD": 0.71059
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-05",
+    "economy": {
+      "population": 12702916,
+      "gdp": 1081769099241,
+      "gdpGrowth": 2.5060000000000002,
+      "inflation": 2.714,
+      "unemployment": 4.561,
+      "interestRate": 3.75,
+      "governmentRevenue": 261517567729,
+      "governmentExpenditure": 271543200132,
+      "governmentDebt": 382000653496,
+      "exports": 240345574155,
+      "imports": 225399045136,
+      "exchangeRateUSD": 0.71035
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-06",
+    "economy": {
+      "population": 12703159,
+      "gdp": 1081922523903,
+      "gdpGrowth": 2.524,
+      "inflation": 2.72,
+      "unemployment": 4.561,
+      "interestRate": 3.75,
+      "governmentRevenue": 261557269520,
+      "governmentExpenditure": 271579802171,
+      "governmentDebt": 382028112490,
+      "exports": 240377869028,
+      "imports": 225419244473,
+      "exchangeRateUSD": 0.71027
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-07",
+    "economy": {
+      "population": 12703402,
+      "gdp": 1082076433192,
+      "gdpGrowth": 2.645,
+      "inflation": 2.7449999999999997,
+      "unemployment": 4.537000000000001,
+      "interestRate": 3.75,
+      "governmentRevenue": 256596662257,
+      "governmentExpenditure": 271617245210,
+      "governmentDebt": 382055566142,
+      "exports": 240426974806,
+      "imports": 225453294553,
+      "exchangeRateUSD": 0.71019
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-08",
+    "economy": {
+      "population": 12703645,
+      "gdp": 1082234900206,
+      "gdpGrowth": 2.878,
+      "inflation": 2.889,
+      "unemployment": 4.433000000000001,
+      "interestRate": 3.75,
+      "governmentRevenue": 248634050692,
+      "governmentExpenditure": 271655055502,
+      "governmentDebt": 382096719580,
+      "exports": 240480554092,
+      "imports": 226891122820,
+      "exchangeRateUSD": 0.71029
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-09",
+    "economy": {
+      "population": 12703888,
+      "gdp": 1082403919869,
+      "gdpGrowth": 2.899,
+      "inflation": 2.883,
+      "unemployment": 4.432,
+      "interestRate": 3.75,
+      "governmentRevenue": 248671555192,
+      "governmentExpenditure": 271697092135,
+      "governmentDebt": 382159803243,
+      "exports": 240524411739,
+      "imports": 226927528098,
+      "exchangeRateUSD": 0.71041
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-10",
+    "economy": {
+      "population": 12704131,
+      "gdp": 1082573427035,
+      "gdpGrowth": 3.169,
+      "inflation": 2.979,
+      "unemployment": 4.332000000000001,
+      "interestRate": 3.75,
+      "governmentRevenue": 244706544258,
+      "governmentExpenditure": 271738445969,
+      "governmentDebt": 382222904344,
+      "exports": 240549537654,
+      "imports": 228452498715,
+      "exchangeRateUSD": 0.71034
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-11",
+    "economy": {
+      "population": 12704374,
+      "gdp": 1082751716578,
+      "gdpGrowth": 3.129,
+      "inflation": 2.973,
+      "unemployment": 4.334,
+      "interestRate": 3.75,
+      "governmentRevenue": 244749735717,
+      "governmentExpenditure": 271784685784,
+      "governmentDebt": 382296972700,
+      "exports": 240089812970,
+      "imports": 228487987171,
+      "exchangeRateUSD": 0.71042
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-12",
+    "economy": {
+      "population": 12704617,
+      "gdp": 1082929701460,
+      "gdpGrowth": 3.1241,
+      "inflation": 2.9663,
+      "unemployment": 4.3309,
+      "interestRate": 3.75,
+      "governmentRevenue": 244789968166,
+      "governmentExpenditure": 271829362292,
+      "governmentDebt": 382371053232,
+      "exports": 240129279411,
+      "imports": 228525546481,
+      "exchangeRateUSD": 0.71059
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.00800896843747,
+      "realGDP": 1082842976907.9467,
+      "activeShocks": [],
+      "processedEventIds": []
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-13",
+    "economy": {
+      "population": 12704860,
+      "gdp": 1083108069722,
+      "gdpGrowth": 3.1319,
+      "inflation": 2.9708,
+      "unemployment": 4.3319,
+      "interestRate": 3.75,
+      "governmentRevenue": 244830287275,
+      "governmentExpenditure": 271874135033,
+      "governmentDebt": 382445145966,
+      "exports": 240168830863,
+      "imports": 228563186694,
+      "exchangeRateUSD": 0.71038
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.01603055356213,
+      "realGDP": 1082934469332.1063,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ]
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-14",
+    "economy": {
+      "population": 12705103,
+      "gdp": 1083286050048,
+      "gdpGrowth": 3.1176,
+      "inflation": 2.9706,
+      "unemployment": 4.3269,
+      "interestRate": 3.75,
+      "governmentRevenue": 244870518694,
+      "governmentExpenditure": 272085477063,
+      "governmentDebt": 382519707496,
+      "exports": 240208296294,
+      "imports": 228600745043,
+      "exchangeRateUSD": 0.71039
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.02405224982853,
+      "realGDP": 1083025558034.8342,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ]
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-15",
+    "economy": {
+      "population": 12705346,
+      "gdp": 1083463904141,
+      "gdpGrowth": 3.1129,
+      "inflation": 2.9699,
+      "unemployment": 4.3226,
+      "interestRate": 3.75,
+      "governmentRevenue": 244910721579,
+      "governmentExpenditure": 272296814771,
+      "governmentDebt": 382594737888,
+      "exports": 240247733734,
+      "imports": 228638276753,
+      "exchangeRateUSD": 0.71044
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.03207272638285,
+      "realGDP": 1083116519143.0552,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ]
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-16",
+    "economy": {
+      "population": 12705589,
+      "gdp": 1083641652223,
+      "gdpGrowth": 3.1051,
+      "inflation": 2.973,
+      "unemployment": 4.3186,
+      "interestRate": 3.75,
+      "governmentRevenue": 244950900500,
+      "governmentExpenditure": 272508153195,
+      "governmentDebt": 382670237210,
+      "exports": 240287147667,
+      "imports": 228675786092,
+      "exchangeRateUSD": 0.71046
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.04010209743385,
+      "realGDP": 1083207263390.6935,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ]
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-17",
+    "economy": {
+      "population": 12705832,
+      "gdp": 1083919210845,
+      "gdpGrowth": 6.628194700073431,
+      "inflation": 2.9733,
+      "unemployment": 4.311,
+      "interestRate": 3.75,
+      "governmentRevenue": 244975245909,
+      "governmentExpenditure": 272701904157,
+      "governmentDebt": 382746200657,
+      "exports": 240321408495,
+      "imports": 228708194676,
+      "exchangeRateUSD": 0.71058
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.04813291155683,
+      "realGDP": 1083397739969.012,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639435363052,
+        "investment": 218552630400,
+        "governmentPurchases": 214318003574,
+        "exports": 240321408495,
+        "imports": 228708194676
+      },
+      "outputGap": 0.011085889720097164,
+      "growthWindow": [
+        0.0001758295380602762
+      ],
+      "potentialRealGDP": 1083277649003.1218
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-18",
+    "economy": {
+      "population": 12706075,
+      "gdp": 1084201127764,
+      "gdpGrowth": 6.704911920923573,
+      "inflation": 2.9738,
+      "unemployment": 4.3034,
+      "interestRate": 3.75,
+      "governmentRevenue": 244999596997,
+      "governmentExpenditure": 272895678004,
+      "governmentDebt": 382822628276,
+      "exports": 240355677405,
+      "imports": 228741694820,
+      "exchangeRateUSD": 0.71057
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.05616570141392,
+      "realGDP": 1083592520424.4349,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639522192459,
+        "investment": 218594661160,
+        "governmentPurchases": 214470291560,
+        "exports": 240355677405,
+        "imports": 228741694820
+      },
+      "outputGap": 0.02256719235087523,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372
+      ],
+      "potentialRealGDP": 1083348039189.1295
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-19",
+    "economy": {
+      "population": 12706318,
+      "gdp": 1084483445049,
+      "gdpGrowth": 6.734585382390779,
+      "inflation": 2.9733,
+      "unemployment": 4.2954,
+      "interestRate": 3.75,
+      "governmentRevenue": 245023947246,
+      "governmentExpenditure": 273089467482,
+      "governmentDebt": 382899520112,
+      "exports": 240389948004,
+      "imports": 228775225689,
+      "exchangeRateUSD": 0.71057
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.06419780505796,
+      "realGDP": 1083787677148.7819,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639609046030,
+        "investment": 218637084872,
+        "governmentPurchases": 214622591832,
+        "exports": 240389948004,
+        "imports": 228775225689
+      },
+      "outputGap": 0.03408131032898165,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048
+      ],
+      "potentialRealGDP": 1083418433949.0138
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-20",
+    "economy": {
+      "population": 12706561,
+      "gdp": 1084766243799,
+      "gdpGrowth": 6.752025973480724,
+      "inflation": 2.9774,
+      "unemployment": 4.2896,
+      "interestRate": 3.75,
+      "governmentRevenue": 245048326646,
+      "governmentExpenditure": 273283306013,
+      "governmentDebt": 382976876220,
+      "exports": 240424249715,
+      "imports": 228808801189,
+      "exchangeRateUSD": 0.71043
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.07224146968261,
+      "realGDP": 1083983158434.2351,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639696003159,
+        "investment": 218679861460,
+        "governmentPurchases": 214774930654,
+        "exports": 240424249715,
+        "imports": 228808801189
+      },
+      "outputGap": 0.045623465246702466,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156
+      ],
+      "potentialRealGDP": 1083488833283.0719
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-21",
+    "economy": {
+      "population": 12706804,
+      "gdp": 1085049323185,
+      "gdpGrowth": 6.764413215110232,
+      "inflation": 2.9753,
+      "unemployment": 4.2813,
+      "interestRate": 3.75,
+      "governmentRevenue": 245072694779,
+      "governmentExpenditure": 273477148560,
+      "governmentDebt": 383054696641,
+      "exports": 240458542886,
+      "imports": 228842378285,
+      "exchangeRateUSD": 0.71048
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.08028018927999,
+      "realGDP": 1084178942278.0054,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639782952304,
+        "investment": 218722933647,
+        "governmentPurchases": 214927272633,
+        "exports": 240458542886,
+        "imports": 228842378285
+      },
+      "outputGap": 0.05719162057600258,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616
+      ],
+      "potentialRealGDP": 1083559237191.6011
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-22",
+    "economy": {
+      "population": 12707047,
+      "gdp": 1085332695726,
+      "gdpGrowth": 6.774295580301537,
+      "inflation": 2.9735,
+      "unemployment": 4.273,
+      "interestRate": 3.75,
+      "governmentRevenue": 245097053598,
+      "governmentExpenditure": 273670997285,
+      "governmentDebt": 383132981418,
+      "exports": 240492829431,
+      "imports": 228875959031,
+      "exchangeRateUSD": 0.71047
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.08831476133044,
+      "realGDP": 1084375032504.1171,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639869905437,
+        "investment": 218766300422,
+        "governmentPurchases": 215079619467,
+        "exports": 240492829431,
+        "imports": 228875959031
+      },
+      "outputGap": 0.06878612381198135,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998
+      ],
+      "potentialRealGDP": 1083629645674.8984
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-23",
+    "economy": {
+      "population": 12707290,
+      "gdp": 1085616503160,
+      "gdpGrowth": 6.782731847884338,
+      "inflation": 2.9767,
+      "unemployment": 4.2643,
+      "interestRate": 3.75,
+      "governmentRevenue": 245121435707,
+      "governmentExpenditure": 273864888580,
+      "governmentDebt": 383211730604,
+      "exports": 240527141343,
+      "imports": 228909573111,
+      "exchangeRateUSD": 0.71026
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.09635850043833,
+      "realGDP": 1084571426397.3411,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 639956947688,
+        "investment": 218809987483,
+        "governmentPurchases": 215231999757,
+        "exports": 240527141343,
+        "imports": 228909573111
+      },
+      "outputGap": 0.08040671926712317,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745
+      ],
+      "potentialRealGDP": 1083700058733.2614
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-24",
+    "economy": {
+      "population": 12707533,
+      "gdp": 1085900757179,
+      "gdpGrowth": 6.790263606925384,
+      "inflation": 2.9803,
+      "unemployment": 4.2593,
+      "interestRate": 3.75,
+      "governmentRevenue": 245145843721,
+      "governmentExpenditure": 274058825395,
+      "governmentDebt": 383290944252,
+      "exports": 240561481191,
+      "imports": 228943222816,
+      "exchangeRateUSD": 0.71012
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.1044124737333,
+      "realGDP": 1084768123946.5172,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640044087000,
+        "investment": 218853995982,
+        "governmentPurchases": 215384415822,
+        "exports": 240561481191,
+        "imports": 228943222816
+      },
+      "outputGap": 0.09205340069962098,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112
+      ],
+      "potentialRealGDP": 1083770476366.987
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-25",
+    "economy": {
+      "population": 12707776,
+      "gdp": 1086185370855,
+      "gdpGrowth": 6.797132621369095,
+      "inflation": 2.9814,
+      "unemployment": 4.2527,
+      "interestRate": 3.75,
+      "governmentRevenue": 245170261340,
+      "governmentExpenditure": 274252789543,
+      "governmentDebt": 383370622411,
+      "exports": 240595832983,
+      "imports": 228976890026,
+      "exchangeRateUSD": 0.71005
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.11247002482514,
+      "realGDP": 1084965110326.072,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640131270658,
+        "investment": 218898303873,
+        "governmentPurchases": 215536853367,
+        "exports": 240595832983,
+        "imports": 228976890026
+      },
+      "outputGap": 0.10372479503248933,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776
+      ],
+      "potentialRealGDP": 1083840898576.3729
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-26",
+    "economy": {
+      "population": 12708019,
+      "gdp": 1086470395939,
+      "gdpGrowth": 6.8035566294479155,
+      "inflation": 2.9841,
+      "unemployment": 4.2462,
+      "interestRate": 3.75,
+      "governmentRevenue": 245194699004,
+      "governmentExpenditure": 274446792712,
+      "governmentDebt": 383450765133,
+      "exports": 240630206964,
+      "imports": 229010585428,
+      "exchangeRateUSD": 0.70985
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.12053541614797,
+      "realGDP": 1085162390935.2048,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640218530328,
+        "investment": 218942922495,
+        "governmentPurchases": 215689321580,
+        "exports": 240630206964,
+        "imports": 229010585428
+      },
+      "outputGap": 0.11542139515658967,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836
+      ],
+      "potentialRealGDP": 1083911325361.7162
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-27",
+    "economy": {
+      "population": 12708262,
+      "gdp": 1086755727741,
+      "gdpGrowth": 6.809654131419274,
+      "inflation": 2.9832,
+      "unemployment": 4.2389,
+      "interestRate": 3.75,
+      "governmentRevenue": 245219133232,
+      "governmentExpenditure": 274640808647,
+      "governmentDebt": 383531372463,
+      "exports": 240664580094,
+      "imports": 229044286889,
+      "exchangeRateUSD": 0.70992
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.12859905985084,
+      "realGDP": 1085359965029.9741,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640305804439,
+        "investment": 218987830272,
+        "governmentPurchases": 215841799825,
+        "exports": 240664580094,
+        "imports": 229044286889
+      },
+      "outputGap": 0.12714312745405465,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427
+      ],
+      "potentialRealGDP": 1083981756723.3143
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-28",
+    "economy": {
+      "population": 12708505,
+      "gdp": 1087041438496,
+      "gdpGrowth": 6.815514655922761,
+      "inflation": 2.9847,
+      "unemployment": 4.232,
+      "interestRate": 3.75,
+      "governmentRevenue": 245243579682,
+      "governmentExpenditure": 274834854877,
+      "governmentDebt": 383612444450,
+      "exports": 240698967739,
+      "imports": 229078009506,
+      "exchangeRateUSD": 0.70981
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.13666734896215,
+      "realGDP": 1085557835380.9341,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640393136082,
+        "investment": 219033042302,
+        "governmentPurchases": 215994301879,
+        "exports": 240698967739,
+        "imports": 229078009506
+      },
+      "outputGap": 0.13889024263178396,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021
+      ],
+      "potentialRealGDP": 1084052192661.4646
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-29",
+    "economy": {
+      "population": 12708748,
+      "gdp": 1087327445684,
+      "gdpGrowth": 6.821188007280465,
+      "inflation": 2.9834,
+      "unemployment": 4.2234,
+      "interestRate": 3.75,
+      "governmentRevenue": 245268020086,
+      "governmentExpenditure": 275028910946,
+      "governmentDebt": 383693981137,
+      "exports": 240733351972,
+      "imports": 229111735863,
+      "exchangeRateUSD": 0.70997
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.14473282476254,
+      "realGDP": 1085756000354.6578,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640480476467,
+        "investment": 219078541442,
+        "governmentPurchases": 216146811666,
+        "exports": 240733351972,
+        "imports": 229111735863
+      },
+      "outputGap": 0.15066258460139093,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086
+      ],
+      "potentialRealGDP": 1084122633176.4644
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-11-30",
+    "economy": {
+      "population": 12708991,
+      "gdp": 1087613833805,
+      "gdpGrowth": 6.82673016435833,
+      "inflation": 2.9848,
+      "unemployment": 4.2172,
+      "interestRate": 3.75,
+      "governmentRevenue": 245292472062,
+      "governmentExpenditure": 275222996598,
+      "governmentDebt": 383775982574,
+      "exports": 240767750085,
+      "imports": 229145483570,
+      "exchangeRateUSD": 0.71009
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.15280268035951,
+      "realGDP": 1085954466273.051,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640567876283,
+        "investment": 219124346304,
+        "governmentPurchases": 216299344703,
+        "exports": 240767750085,
+        "imports": 229145483570
+      },
+      "outputGap": 0.16246073132648586,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075
+      ],
+      "potentialRealGDP": 1084193078268.6111
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-01",
+    "economy": {
+      "population": 12709234,
+      "gdp": 1087900648875,
+      "gdpGrowth": 6.83214535152894,
+      "inflation": 2.9881,
+      "unemployment": 4.2087,
+      "interestRate": 3.75,
+      "governmentRevenue": 245316948012,
+      "governmentExpenditure": 275417125763,
+      "governmentDebt": 383858448814,
+      "exports": 240802174252,
+      "imports": 229179262472,
+      "exchangeRateUSD": 0.71009
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.16088197928222,
+      "realGDP": 1086153224070.0785,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640655361328,
+        "investment": 219170463830,
+        "governmentPurchases": 216451911937,
+        "exports": 240802174252,
+        "imports": 229179262472
+      },
+      "outputGap": 0.1742838418509418,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673
+      ],
+      "potentialRealGDP": 1084263527938.2021
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-02",
+    "economy": {
+      "population": 12709477,
+      "gdp": 1088187853390,
+      "gdpGrowth": 6.837476486356597,
+      "inflation": 2.9898,
+      "unemployment": 4.2026,
+      "interestRate": 3.75,
+      "governmentRevenue": 245341437499,
+      "governmentExpenditure": 275611286756,
+      "governmentDebt": 383941379908,
+      "exports": 240836614233,
+      "imports": 229213064422,
+      "exchangeRateUSD": 0.71028
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.168966459964,
+      "realGDP": 1086352282395.6979,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640742910690,
+        "investment": 219216888706,
+        "governmentPurchases": 216604504183,
+        "exports": 240836614233,
+        "imports": 229213064422
+      },
+      "outputGap": 0.1861327085536324,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054
+      ],
+      "potentialRealGDP": 1084333982185.5349
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-03",
+    "economy": {
+      "population": 12709720,
+      "gdp": 1088475340011,
+      "gdpGrowth": 6.842719136917275,
+      "inflation": 2.9881,
+      "unemployment": 4.1968,
+      "interestRate": 3.75,
+      "governmentRevenue": 245365918335,
+      "governmentExpenditure": 275805454666,
+      "governmentDebt": 384024775898,
+      "exports": 240871048246,
+      "imports": 229246866961,
+      "exchangeRateUSD": 0.71052
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.17704706281434,
+      "realGDP": 1086551632260.1222,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640830459825,
+        "investment": 219263597034,
+        "governmentPurchases": 216757101867,
+        "exports": 240871048246,
+        "imports": 229246866961
+      },
+      "outputGap": 0.19800649724948105,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663
+      ],
+      "potentialRealGDP": 1084404441010.907
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-04",
+    "economy": {
+      "population": 12709963,
+      "gdp": 1088763182977,
+      "gdpGrowth": 6.8478855963395535,
+      "inflation": 2.989,
+      "unemployment": 4.1906,
+      "interestRate": 3.75,
+      "governmentRevenue": 245390407489,
+      "governmentExpenditure": 275999648555,
+      "governmentDebt": 384108636832,
+      "exports": 240905492950,
+      "imports": 229280685706,
+      "exchangeRateUSD": 0.71068
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.18513071615857,
+      "realGDP": 1086751272563.2412,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 640918052233,
+        "investment": 219310603533,
+        "governmentPurchases": 216909719967,
+        "exports": 240905492950,
+        "imports": 229280685706
+      },
+      "outputGap": 0.20990510151563946,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918
+      ],
+      "potentialRealGDP": 1084474904414.6157
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-05",
+    "economy": {
+      "population": 12710206,
+      "gdp": 1089051282555,
+      "gdpGrowth": 6.852990607559928,
+      "inflation": 2.9864,
+      "unemployment": 4.1848,
+      "interestRate": 3.75,
+      "governmentRevenue": 245414882112,
+      "governmentExpenditure": 276193842734,
+      "governmentDebt": 384192962752,
+      "exports": 240939925915,
+      "imports": 229314499572,
+      "exchangeRateUSD": 0.71044
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.19320809179943,
+      "realGDP": 1086951204873.2734,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641005629346,
+        "investment": 219357888570,
+        "governmentPurchases": 217062338296,
+        "exports": 240939925915,
+        "imports": 229314499572
+      },
+      "outputGap": 0.22182866082280928,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523
+      ],
+      "potentialRealGDP": 1084545372396.9586
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-06",
+    "economy": {
+      "population": 12710449,
+      "gdp": 1089339840150,
+      "gdpGrowth": 6.858040537131793,
+      "inflation": 2.9908,
+      "unemployment": 4.1784,
+      "interestRate": 3.75,
+      "governmentRevenue": 245439387905,
+      "governmentExpenditure": 276388088613,
+      "governmentDebt": 384277753713,
+      "exports": 240974392008,
+      "imports": 229348350961,
+      "exchangeRateUSD": 0.71028
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.20129784721533,
+      "realGDP": 1087151427730.0089,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641093309435,
+        "investment": 219405492413,
+        "governmentPurchases": 217214997255,
+        "exports": 240974392008,
+        "imports": 229348350961
+      },
+      "outputGap": 0.2337770358269653,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676
+      ],
+      "potentialRealGDP": 1084615844958.2333
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-07",
+    "economy": {
+      "population": 12710692,
+      "gdp": 1089628713351,
+      "gdpGrowth": 6.863047025641711,
+      "inflation": 2.9902,
+      "unemployment": 4.1714,
+      "interestRate": 3.75,
+      "governmentRevenue": 245463892227,
+      "governmentExpenditure": 276582349476,
+      "governmentDebt": 384363009760,
+      "exports": 241008859184,
+      "imports": 229382209788,
+      "exchangeRateUSD": 0.71017
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.2093866563645,
+      "realGDP": 1087351943473.6461,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641181008908,
+        "investment": 219453387056,
+        "governmentPurchases": 217367667991,
+        "exports": 241008859184,
+        "imports": 229382209788
+      },
+      "outputGap": 0.2457504369258512,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955
+      ],
+      "potentialRealGDP": 1084686322098.7372
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-08",
+    "economy": {
+      "population": 12710935,
+      "gdp": 1089918017636,
+      "gdpGrowth": 6.868019589751007,
+      "inflation": 2.9935,
+      "unemployment": 4.1661,
+      "interestRate": 3.75,
+      "governmentRevenue": 245488420546,
+      "governmentExpenditure": 276776654016,
+      "governmentDebt": 384448730948,
+      "exports": 241043352450,
+      "imports": 229416100269,
+      "exchangeRateUSD": 0.71041
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.21748491603663,
+      "realGDP": 1087552754441.1498,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641268795950,
+        "investment": 219501596452,
+        "governmentPurchases": 217520373053,
+        "exports": 241043352450,
+        "imports": 229416100269
+      },
+      "outputGap": 0.25774907450539786,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788
+      ],
+      "potentialRealGDP": 1084756803818.7678
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-09",
+    "economy": {
+      "population": 12711178,
+      "gdp": 1090207706227,
+      "gdpGrowth": 6.872952602944715,
+      "inflation": 2.9954,
+      "unemployment": 4.1602,
+      "interestRate": 3.75,
+      "governmentRevenue": 245512963724,
+      "governmentExpenditure": 276970991962,
+      "governmentDebt": 384534917327,
+      "exports": 241077862837,
+      "imports": 229450012650,
+      "exchangeRateUSD": 0.71035
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.22558889569385,
+      "realGDP": 1087753854319.1742,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641356642025,
+        "investment": 219550109646,
+        "governmentPurchases": 217673104369,
+        "exports": 241077862837,
+        "imports": 229450012650
+      },
+      "outputGap": 0.26977236159941853,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532
+      ],
+      "potentialRealGDP": 1084827290118.6229
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-10",
+    "economy": {
+      "population": 12711421,
+      "gdp": 1090497822197,
+      "gdpGrowth": 6.877854312189169,
+      "inflation": 2.9987,
+      "unemployment": 4.1516,
+      "interestRate": 3.75,
+      "governmentRevenue": 245537530909,
+      "governmentExpenditure": 277165373653,
+      "governmentDebt": 384621568951,
+      "exports": 241112399330,
+      "imports": 229483955901,
+      "exchangeRateUSD": 0.71021
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.23370232919915,
+      "realGDP": 1087955245447.7443,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641444572693,
+        "investment": 219598936012,
+        "governmentPurchases": 217825870063,
+        "exports": 241112399330,
+        "imports": 229483955901
+      },
+      "outputGap": 0.28182050905742884,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643
+      ],
+      "potentialRealGDP": 1084897780998.6
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-11",
+    "economy": {
+      "population": 12711664,
+      "gdp": 1090788416603,
+      "gdpGrowth": 6.882743003719871,
+      "inflation": 3.0034,
+      "unemployment": 4.1461,
+      "interestRate": 3.75,
+      "governmentRevenue": 245562131252,
+      "governmentExpenditure": 277359809448,
+      "governmentDebt": 384708685878,
+      "exports": 241146970918,
+      "imports": 229517940492,
+      "exchangeRateUSD": 0.71001
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.24182895126738,
+      "realGDP": 1088156938091.4701,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641532619312,
+        "investment": 219648088586,
+        "governmentPurchases": 217978678279,
+        "exports": 241146970918,
+        "imports": 229517940492
+      },
+      "outputGap": 0.2938944577012492,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973
+      ],
+      "potentialRealGDP": 1084968276458.9966
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-12",
+    "economy": {
+      "population": 12711907,
+      "gdp": 1091079324231,
+      "gdpGrowth": 6.887604056774466,
+      "inflation": 3.0028,
+      "unemployment": 4.1378,
+      "interestRate": 3.75,
+      "governmentRevenue": 245586730140,
+      "governmentExpenditure": 277554260296,
+      "governmentDebt": 384796268152,
+      "exports": 241181543614,
+      "imports": 229551931868,
+      "exchangeRateUSD": 0.71005
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.24995463231772,
+      "realGDP": 1088358920692.486,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641620682932,
+        "investment": 219697531227,
+        "governmentPurchases": 218131498326,
+        "exports": 241181543614,
+        "imports": 229551931868
+      },
+      "outputGap": 0.3059931372104252,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973,
+        0.00018560177318932385
+      ],
+      "potentialRealGDP": 1085038776500.1104
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-13",
+    "economy": {
+      "population": 12712150,
+      "gdp": 1091370605175,
+      "gdpGrowth": 6.8924545141828775,
+      "inflation": 3.0039,
+      "unemployment": 4.1326,
+      "interestRate": 3.75,
+      "governmentRevenue": 245611338678,
+      "governmentExpenditure": 277748738745,
+      "governmentDebt": 384884315823,
+      "exports": 241216128324,
+      "imports": 229585942397,
+      "exchangeRateUSD": 0.71026
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.25808390541901,
+      "realGDP": 1088561203907.0803,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641708800289,
+        "investment": 219747278896,
+        "governmentPurchases": 218284340063,
+        "exports": 241216128324,
+        "imports": 229585942397
+      },
+      "outputGap": 0.3181175246740997,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973,
+        0.00018560177318932385,
+        0.00018584348884843953
+      ],
+      "potentialRealGDP": 1085109281122.239
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-14",
+    "economy": {
+      "population": 12712393,
+      "gdp": 1091662329237,
+      "gdpGrowth": 6.89728052791212,
+      "inflation": 3.0078,
+      "unemployment": 4.1269,
+      "interestRate": 3.75,
+      "governmentRevenue": 245635975162,
+      "governmentExpenditure": 277943265495,
+      "governmentDebt": 384972828947,
+      "exports": 241250743018,
+      "imports": 229619986975,
+      "exchangeRateUSD": 0.71007
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.26622423846942,
+      "realGDP": 1088763776165.1733,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641797010655,
+        "investment": 219797342778,
+        "governmentPurchases": 218437219761,
+        "exports": 241250743018,
+        "imports": 229619986975
+      },
+      "outputGap": 0.33026654861494364,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973,
+        0.00018560177318932385,
+        0.00018584348884843953,
+        0.00018607443612112415
+      ],
+      "potentialRealGDP": 1085179790325.6802
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-15",
+    "economy": {
+      "population": 12712636,
+      "gdp": 1091954443393,
+      "gdpGrowth": 6.902086920588424,
+      "inflation": 3.0098,
+      "unemployment": 4.1191,
+      "interestRate": 3.75,
+      "governmentRevenue": 245660627185,
+      "governmentExpenditure": 278137826544,
+      "governmentDebt": 385061807575,
+      "exports": 241285375515,
+      "imports": 229654054359,
+      "exchangeRateUSD": 0.71025
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.27437056646087,
+      "realGDP": 1088966639455.7554,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641885283003,
+        "investment": 219847712819,
+        "governmentPurchases": 218590126415,
+        "exports": 241285375515,
+        "imports": 229654054359
+      },
+      "outputGap": 0.3424403872911652,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973,
+        0.00018560177318932385,
+        0.00018584348884843953,
+        0.00018607443612112415,
+        0.0001863070737914729
+      ],
+      "potentialRealGDP": 1085250304110.7316
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-16",
+    "economy": {
+      "population": 12712879,
+      "gdp": 1092246958719,
+      "gdpGrowth": 6.90688508245878,
+      "inflation": 3.0119,
+      "unemployment": 4.1132,
+      "interestRate": 3.75,
+      "governmentRevenue": 245685295404,
+      "governmentExpenditure": 278332422656,
+      "governmentDebt": 385151251759,
+      "exports": 241320026462,
+      "imports": 229688146657,
+      "exchangeRateUSD": 0.71024
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.28252315735722,
+      "realGDP": 1089169801805.9564,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 641973624851,
+        "investment": 219898393439,
+        "governmentPurchases": 218743060624,
+        "exports": 241320026462,
+        "imports": 229688146657
+      },
+      "outputGap": 0.35463977539520464,
+      "growthWindow": [
+        0.0001758295380602762,
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973,
+        0.00018560177318932385,
+        0.00018584348884843953,
+        0.00018607443612112415,
+        0.0001863070737914729,
+        0.00018654694520353087
+      ],
+      "potentialRealGDP": 1085320822477.6909
+    }
+  },
+  {
+    "country": "Square Country",
+    "currency": "SC$",
+    "lastUpdated": "2026-12-17",
+    "economy": {
+      "population": 12713122,
+      "gdp": 1092539876995,
+      "gdpGrowth": 6.921129579746443,
+      "inflation": 3.0143,
+      "unemployment": 4.1067,
+      "interestRate": 3.75,
+      "governmentRevenue": 245709981784,
+      "governmentExpenditure": 278527056076,
+      "governmentDebt": 385241161552,
+      "exports": 241354697790,
+      "imports": 229722264356,
+      "exchangeRateUSD": 0.71049
+    },
+    "simulation": {
+      "version": 2,
+      "priceIndex": 100.29068281265226,
+      "realGDP": 1089373256173.673,
+      "activeShocks": [
+        {
+          "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+          "title": "Infrastructure investment",
+          "startDate": "2026-11-13",
+          "effects": {
+            "gdpGrowth": 0.4,
+            "inflation": 0.1,
+            "unemployment": -0.15,
+            "governmentRevenue": 0,
+            "governmentExpenditure": 10000000000,
+            "exports": 0,
+            "imports": 0
+          }
+        }
+      ],
+      "processedEventIds": [
+        "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
+      ],
+      "sectors": {
+        "consumption": 642062036108,
+        "investment": 219949383298,
+        "governmentPurchases": 218896024155,
+        "exports": 241354697790,
+        "imports": 229722264356
+      },
+      "outputGap": 0.3668640591337313,
+      "growthWindow": [
+        0.00017977049554413372,
+        0.00018008536200557048,
+        0.00018035235359377156,
+        0.00018059890031685616,
+        0.00018084883239697998,
+        0.00018109611954549745,
+        0.00018134325668669112,
+        0.0001815765899805776,
+        0.0001818147644002836,
+        0.00018205211721657427,
+        0.0001822918883832021,
+        0.0001825300168140086,
+        0.00018277382874180075,
+        0.0001830091563771673,
+        0.0001832523105053054,
+        0.0001834870507503663,
+        0.00018372064348252918,
+        0.0001839555430980523,
+        0.00018418896603712676,
+        0.00018442440493271955,
+        0.00018466185517194788,
+        0.0001848933635968532,
+        0.00018512688960614643,
+        0.00018536971180571973,
+        0.00018560177318932385,
+        0.00018584348884843953,
+        0.00018607443612112415,
+        0.0001863070737914729,
+        0.00018654694520353087,
+        0.00018678021356055693
+      ],
+      "potentialRealGDP": 1085391345426.856
+    }
+  }
+]

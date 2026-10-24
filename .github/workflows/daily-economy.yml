@@ -1,0 +1,91 @@
+
+name: Square Country Daily Economy
+
+on:
+  schedule:
+    - cron: "17 7 * * *"
+      timezone: "Pacific/Auckland"
+
+  workflow_dispatch:
+
+concurrency:
+  group: square-country-daily-economy
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Update economic simulation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run daily economic simulation
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node daily-update.js
+
+      - name: Save updated economic data
+        run: |
+          git config user.name "Square Country Economic AI"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for file in \
+            data/economy.json \
+            data/history.json \
+            data/events.json \
+            data/national-accounts.json \
+            data/news.json \
+            data/news-reviews.json \
+            data/news-proposals.json \
+            data/automation-state.json
+          do
+            if [ -f "$file" ]; then
+              git add -- "$file"
+            fi
+          done
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated economic update"
+            git push
+          else
+            echo "No economic data changes to commit."
+          fi
+
+      - name: Upload public economic data
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public/
+
+  deploy:
+    name: Publish economic statistics
+    needs: update
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

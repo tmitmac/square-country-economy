@@ -1,0 +1,43 @@
+{
+  "date": "2026-12-17",
+  "currency": "SC$",
+  "gdp": {
+    "consumption": 642062036108,
+    "investment": 219949383298,
+    "governmentPurchases": 218896024155,
+    "exports": 241354697790,
+    "imports": 229722264356,
+    "nominalGDP": 1092539876995,
+    "realGDP": 1089373256173.673,
+    "priceIndex": 100.29068281265226,
+    "estimatedRealGrowth": 6.921129579746443
+  },
+  "fiscal": {
+    "revenue": 245709981784,
+    "expenditure": 278527056076,
+    "balance": -32817074292,
+    "debt": 385241161552,
+    "debtToGDPPercent": 35.26106183067614
+  },
+  "trade": {
+    "exports": 241354697790,
+    "imports": 229722264356,
+    "balance": 11632433434
+  },
+  "population": 12713122,
+  "nominalGDPPerCapita": 85937.96842309859,
+  "checks": {
+    "gdpIdentity": true,
+    "realNominalGDP": true,
+    "governmentPurchases": true,
+    "tradeConsistency": true,
+    "positiveOutput": true,
+    "positiveSectors": true
+  },
+  "assumptions": {
+    "modelStage": "independent_sector_model",
+    "governmentPurchasesShare": 0.785905783224818,
+    "investmentIsResidual": false,
+    "growthEstimateWindowDays": 30
+  }
+}

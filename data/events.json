@@ -1,0 +1,87 @@
+{
+  "events": [
+    {
+      "id": "infrastructure-001",
+      "title": "Government infrastructure investment",
+      "description": "The government announces an annual increase of SC$10 billion in infrastructure expenditure.",
+      "status": "applied",
+      "effects": {
+        "gdpGrowth": 0.12,
+        "inflation": 0.04,
+        "unemployment": -0.03,
+        "governmentExpenditure": 10000000000
+      },
+      "appliedOn": "2026-11-05"
+    },
+    {
+      "id": "d0fc8348-ad8a-4932-9edf-2820ed2d0fbd",
+      "title": "Government announces income tax reductions",
+      "description": "The Square Country Government announces a reduction in personal income taxes worth SC$5 billion annually, intended to increase household disposable income and consumer spending.",
+      "status": "applied",
+      "effects": {
+        "gdpGrowth": 0.1,
+        "inflation": 0.03,
+        "unemployment": -0.02,
+        "governmentRevenue": -5000000000
+      },
+      "createdAt": "2026-10-24T01:04:47.334Z",
+      "appliedOn": "2026-11-07"
+    },
+    {
+      "id": "f0dbd477-0a4c-4985-8844-bdc43b6ee826",
+      "title": "Government announces major income tax reduction",
+      "description": "The Square Country Government announces a reduction in personal income taxes worth SC$8 billion annually, intended to increase household disposable income, stimulate consumer spending, and support economic growth.",
+      "status": "applied",
+      "effects": {
+        "gdpGrowth": 0.2,
+        "inflation": 0.15,
+        "unemployment": -0.1,
+        "governmentRevenue": -8000000000,
+        "imports": 1400000000
+      },
+      "createdAt": "2026-10-24T01:52:34.552Z",
+      "appliedOn": "2026-11-08"
+    },
+    {
+      "id": "44368930-b10d-4d2f-abed-01a513c4d30b",
+      "title": "Government announces tax cuts",
+      "description": "The government has announced tax cuts for low to middle income workers",
+      "status": "applied",
+      "effects": {
+        "gdpGrowth": 0.25,
+        "inflation": 0.1,
+        "unemployment": -0.1,
+        "governmentRevenue": -4000000000,
+        "imports": 1500000000
+      },
+      "createdAt": "2026-10-24T02:04:05.419Z",
+      "appliedOn": "2026-11-10"
+    },
+    {
+      "id": "news-97c227bfaa08472768aa",
+      "title": "US tariff adjustments on Canadian goods (Oct 2026)",
+      "description": "Limited immediate impact expected for Square Country. Headlines indicate US is easing tariffs on some Canadian goods (e.g., machinery) while imposing or raising tariffs on others (e.g., carpets). This likely causes small trade diversion toward Canada for the eased categories and possibly small opportunities where US raises tariffs on Canadian goods, but headline-level uncertainty makes immediate effects for Square Country modest and asymmetric. First-stage effect: a small net reduction in exports as some US demand shifts to Canadian suppliers; other macro variables show no clear immediate change.\n\nBasis and uncertainty: source is headline/RSS only — article details not verified; product-level exposure of Square Country to the affected categories is unknown, so use conservative assumptions. Mechanism: US tariff easing on some Canadian goods tends to divert some US imports away from other suppliers (including Square Country) toward Canada; tariffs placed on other Canadian goods (e.g., carpets) could create limited substitution in favour of non-Canadian suppliers but direction and magnitude for Square Country are uncertain. Immediate (first-stage) view: effects will be small and concentrated in trade flows because tariff changes are targeted and announced to take effect in the US market; spillovers to domestic demand, prices and labour are unlikely to be measurable in the very short run. Delayed/medium-run risks: if tariff changes persist and affect sectors where Square Country is a close competitor to Canada (e.g., machinery), exports could decline further, feeding modestly into GDP, revenue and employment. Given headline uncertainty, do not assume compensating fiscal measures or sector-specific shocks.\n\nSources:\nhttps://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "status": "applied",
+      "effects": {
+        "exports": -500000000
+      },
+      "sourceType": "international_news",
+      "createdAt": "2026-10-24T02:30:21.926Z",
+      "appliedOn": "2026-11-11"
+    },
+    {
+      "id": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
+      "title": "Infrastructure investment",
+      "description": "The Square Country Government announces a permanent increase in annual infrastructure spending of SC$10 billion to expand road, rail and port capacity.",
+      "status": "applied",
+      "effects": {
+        "gdpGrowth": 0.4,
+        "inflation": 0.1,
+        "unemployment": -0.15,
+        "governmentExpenditure": 10000000000
+      },
+      "createdAt": "2026-10-24T02:37:59.150Z",
+      "appliedOn": "2026-11-13"
+    }
+  ]
+}

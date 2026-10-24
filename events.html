@@ -1,0 +1,938 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Economic Events | Square Country</title>
+
+<style>
+:root {
+    --navy: #122238;
+    --blue: #2563eb;
+    --bg: #f4f6fa;
+    --border: #e3e7ef;
+    --text: #172337;
+    --muted: #718096;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.layout { display: flex; min-height: 100vh; }
+
+.sidebar {
+    width: 245px;
+    flex-shrink: 0;
+    background: var(--navy);
+    color: white;
+    padding: 30px 20px;
+}
+
+.brand {
+    font-weight: bold;
+    font-size: 21px;
+    padding: 5px 10px 35px;
+}
+
+.brand span {
+    display: block;
+    font-size: 12px;
+    color: #93a3bc;
+    font-weight: normal;
+    margin-top: 7px;
+}
+
+.nav {
+    display: block;
+    padding: 14px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #c4d1e3;
+    font-size: 14px;
+    margin-bottom: 6px;
+}
+
+.nav:hover, .nav.active {
+    background: #263c59;
+    color: white;
+}
+
+.main {
+    flex: 1;
+    min-width: 0;
+    max-width: 1500px;
+    padding: 38px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    letter-spacing: -0.7px;
+    margin: 0 0 9px;
+}
+
+h2 { font-size: 19px; margin: 0 0 20px; }
+
+.subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    margin: 0;
+}
+
+.topbar { margin-bottom: 30px; }
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+    margin-bottom: 28px;
+}
+
+.stat, .panel {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 24px;
+}
+
+.stat-label {
+    font-size: 13px;
+    color: var(--muted);
+}
+
+.stat-number {
+    font-size: 29px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    align-items: start;
+    gap: 22px;
+}
+
+label {
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.field { margin-bottom: 19px; }
+
+input, textarea {
+    width: 100%;
+    padding: 12px 13px;
+    font: inherit;
+    font-size: 14px;
+    color: var(--text);
+    border: 1px solid #cbd5e1;
+    border-radius: 7px;
+    background: white;
+}
+
+input:focus, textarea:focus {
+    outline: 2px solid #bfdbfe;
+    border-color: var(--blue);
+}
+
+textarea { min-height: 110px; resize: vertical; }
+
+.hint {
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.6;
+    margin-top: 7px;
+}
+
+.effect-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+}
+
+.effect-box {
+    background: #f8fafc;
+    padding: 14px;
+    border-radius: 8px;
+    border: 1px solid #edf0f4;
+}
+
+.effect-box .field { margin: 0; }
+
+button {
+    border: 0;
+    border-radius: 8px;
+    font: inherit;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 13px 18px;
+    cursor: pointer;
+}
+
+.primary {
+    background: var(--blue);
+    color: white;
+    width: 100%;
+    margin-top: 22px;
+}
+
+.primary:hover { background: #174dc6; }
+button:disabled { opacity: .55; cursor: not-allowed; }
+
+.danger {
+    background: #fff1f2;
+    color: #be123c;
+    padding: 9px 13px;
+    font-size: 12px;
+}
+
+.danger:hover { background: #ffe4e6; }
+
+.event-card {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 12px;
+}
+
+.event-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: flex-start;
+}
+
+.event-title { font-size: 15px; font-weight: bold; }
+
+.event-desc {
+    font-size: 13px;
+    line-height: 1.65;
+    color: #596579;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    margin: 12px 0;
+}
+
+.badge {
+    display: inline-block;
+    padding: 5px 9px;
+    border-radius: 30px;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.pending { background: #fff3d6; color: #935900; }
+.applied { background: #dcfce7; color: #166534; }
+
+.event-effects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin: 12px 0;
+}
+
+.effect-tag {
+    padding: 6px 8px;
+    border-radius: 5px;
+    background: #f1f5f9;
+    color: #475569;
+    font-size: 11px;
+}
+
+.empty {
+    text-align: center;
+    color: var(--muted);
+    font-size: 14px;
+    padding: 45px 12px;
+}
+
+.message {
+    font-size: 13px;
+    padding: 12px;
+    border-radius: 7px;
+    margin-bottom: 18px;
+    line-height: 1.5;
+    display: none;
+}
+
+.message.success { display: block; background: #dcfce7; color: #166534; }
+.message.error { display: block; background: #fee2e2; color: #991b1b; }
+
+.small {
+    color: var(--muted);
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+@media(max-width: 1000px) {
+    .content { grid-template-columns: 1fr; }
+}
+
+@media(max-width: 700px) {
+    .layout { display: block; }
+    .sidebar { width: 100%; padding: 18px; }
+    .brand { padding-bottom: 15px; }
+    .main { padding: 22px; }
+    .stats { gap: 8px; }
+    .stat { padding: 15px; }
+    .effect-grid { grid-template-columns: 1fr; }
+}
+
+
+/* AI Economic Analyst */
+
+.ai-panel {
+    border: 1px solid #c7d7fa;
+    background: #f0f5ff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0 28px;
+}
+
+.ai-heading {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.ai-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #2563eb;
+    color: white;
+    height: 36px;
+    width: 36px;
+    flex-shrink: 0;
+    border-radius: 9px;
+    font-size: 22px;
+}
+
+.ai-heading strong {
+    font-size: 15px;
+}
+
+.ai-heading p {
+    font-size: 12px;
+    color: #64748b;
+    line-height: 1.6;
+    margin: 7px 0 0;
+}
+
+.ai-button {
+    display: block;
+    width: 100%;
+    background: #2563eb;
+    color: white;
+}
+
+.ai-button:hover {
+    background: #1d4ed8;
+}
+
+.ai-button:disabled {
+    opacity: 0.6;
+    cursor: wait;
+}
+
+.ai-results {
+    background: white;
+    border: 1px solid #dbe4f0;
+    border-radius: 8px;
+    padding: 18px;
+    margin-top: 20px;
+}
+
+.ai-results[hidden] {
+    display: none;
+}
+
+.ai-results-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+
+.ai-draft-label {
+    color: #1d4ed8;
+    background: #dbeafe;
+    padding: 5px 9px;
+    font-size: 11px;
+    border-radius: 20px;
+}
+
+.ai-results h4 {
+    font-size: 12px;
+    margin: 16px 0 6px;
+}
+
+.ai-results p {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #475569;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    margin: 0;
+}
+
+.ai-notice {
+    background: #eff6ff;
+    color: #1d4ed8;
+    font-size: 12px;
+    line-height: 1.6;
+    padding: 12px;
+    border-radius: 6px;
+    margin-top: 18px;
+}
+
+.ai-status {
+    color: #475569;
+    font-size: 12px;
+    line-height: 1.6;
+    margin: 12px 0 0;
+}
+
+.ai-status:empty {
+    display: none;
+}
+
+</style>
+</head>
+
+<body>
+<div class="layout">
+    <aside class="sidebar">
+        <div class="brand">
+            SQUARE COUNTRY
+            <span>Economic Simulation System</span>
+        </div>
+        <a class="nav" href="/">Economic Overview</a>
+        <a class="nav active" href="/events.html">Economic Events</a>
+        <a class="nav" href="/news.html">News Intelligence</a>
+    </aside>
+
+    <main class="main">
+        <div class="topbar">
+            <h1>Economic Events</h1>
+            <p class="subtitle">
+                Submit and manage events affecting Square Country's economy.
+            </p>
+        </div>
+
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-label">Total Events</div>
+                <div class="stat-number" id="total">—</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Pending</div>
+                <div class="stat-number" id="pending">—</div>
+            </div>
+            <div class="stat">
+                <div class="stat-label">Applied</div>
+                <div class="stat-number" id="applied">—</div>
+            </div>
+        </div>
+
+        <div class="content">
+            <section class="panel">
+                <h2>Create Economic Event</h2>
+
+                <div id="message" class="message" role="status"></div>
+
+                <form id="eventForm">
+                    <div class="field">
+                        <label for="title">Event title</label>
+                        <input id="title" maxlength="160" required
+                            placeholder="e.g. Government announces tax cuts">
+                    </div>
+
+                    <div class="field">
+                        <label for="description">Description</label>
+                        <textarea id="description" maxlength="5000" required
+                            placeholder="Describe what has happened, where, and the expected economic consequences..."></textarea>
+                    </div>
+
+
+<div class="ai-panel">
+    <div class="ai-heading">
+        <span class="ai-icon">✦</span>
+        <div>
+            <strong>Square Country AI Analyst</strong>
+            <p>
+                Let AI evaluate this event and suggest
+                its likely economic effects.
+            </p>
+        </div>
+    </div>
+
+    <button
+        type="button"
+        class="ai-button"
+        id="analyseBtn"
+    >
+        ✦ Analyse with AI
+    </button>
+
+    <div id="aiResults" class="ai-results" hidden>
+        <div class="ai-results-title">
+            <span>AI Economic Assessment</span>
+            <span class="ai-draft-label">Draft only</span>
+        </div>
+
+        <h4>Summary</h4>
+        <p id="aiSummary"></p>
+
+        <h4>Economic reasoning</h4>
+        <p id="aiReasoning"></p>
+
+        <div class="ai-notice">
+            The estimated effects have been entered below.
+            Review and adjust them before submitting.
+            AI estimates are not guaranteed forecasts.
+        </div>
+    </div>
+
+    <p id="aiStatus" class="ai-status" role="status"></p>
+</div>
+
+
+                    <h2>Estimated economic effects</h2>
+                    <p class="hint" style="margin-bottom:20px">
+                        Enter the changes you want to apply.
+                        Positive values increase an indicator;
+                        negative values decrease it.
+                        Leave unaffected indicators at zero.
+                    </p>
+
+                    <div class="effect-grid">
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="gdpGrowth">GDP growth (pp)</label>
+                                <input type="number" id="gdpGrowth"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="inflation">Inflation (pp)</label>
+                                <input type="number" id="inflation"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="unemployment">Unemployment (pp)</label>
+                                <input type="number" id="unemployment"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="governmentRevenue">
+                                    Government revenue (SC$ billions)
+                                </label>
+                                <input type="number" id="governmentRevenue"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="governmentExpenditure">
+                                    Government expenditure (SC$ billions)
+                                </label>
+                                <input type="number" id="governmentExpenditure"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="exports">Exports (SC$ billions)</label>
+                                <input type="number" id="exports"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+
+                        <div class="effect-box">
+                            <div class="field">
+                                <label for="imports">Imports (SC$ billions)</label>
+                                <input type="number" id="imports"
+                                    step="any" value="0">
+                            </div>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="primary" id="submitBtn">
+                        Submit Economic Event
+                    </button>
+                </form>
+            </section>
+
+            <section class="panel">
+                <h2>Event History</h2>
+                <div class="small">
+                    Pending events will be processed during the next
+                    simulation run.
+                </div>
+                <div id="eventList">
+                    <div class="empty">Loading events...</div>
+                </div>
+            </section>
+        </div>
+    </main>
+</div>
+
+<script>
+const indicatorNames = {
+    gdpGrowth: "GDP growth",
+    inflation: "Inflation",
+    unemployment: "Unemployment",
+    governmentRevenue: "Gov. revenue",
+    governmentExpenditure: "Gov. expenditure",
+    exports: "Exports",
+    imports: "Imports"
+};
+
+const billionFields = [
+    "governmentRevenue",
+    "governmentExpenditure",
+    "exports",
+    "imports"
+];
+
+function showMessage(text, type) {
+    const element = document.getElementById("message");
+    element.textContent = text;
+    element.className = "message " + type;
+}
+
+async function requestJSON(url, options) {
+    const response = await fetch(url, options);
+
+    let result;
+
+    try {
+        result = await response.json();
+    } catch {
+        throw new Error("Unexpected server response.");
+    }
+
+    if (!response.ok) {
+        throw new Error(result.error || "Request failed.");
+    }
+
+    return result;
+}
+
+function formatEffect(key, value) {
+    if (billionFields.includes(key)) {
+        const sign = value > 0 ? "+" : "";
+        return `${indicatorNames[key]}: ${sign}SC$${(value / 1e9).toFixed(2)}B`;
+    }
+
+    const sign = value > 0 ? "+" : "";
+    return `${indicatorNames[key]}: ${sign}${value} pp`;
+}
+
+function makeElement(tag, className, text) {
+    const el = document.createElement(tag);
+    if (className) el.className = className;
+    if (text !== undefined) el.textContent = text;
+    return el;
+}
+
+async function loadEvents() {
+    const data = await requestJSON("/api/events");
+    const events = data.events;
+
+    document.getElementById("total").textContent = events.length;
+    document.getElementById("pending").textContent =
+        events.filter(e => e.status === "pending").length;
+    document.getElementById("applied").textContent =
+        events.filter(e => e.status === "applied").length;
+
+    const list = document.getElementById("eventList");
+    list.replaceChildren();
+
+    if (!events.length) {
+        list.appendChild(
+            makeElement("div", "empty", "No events recorded yet.")
+        );
+        return;
+    }
+
+    for (const event of [...events].reverse()) {
+        const card = makeElement("div", "event-card");
+        const head = makeElement("div", "event-head");
+
+        head.appendChild(
+            makeElement("div", "event-title", event.title)
+        );
+
+        head.appendChild(
+            makeElement(
+                "span",
+                "badge " + (event.status === "pending" ? "pending" : "applied"),
+                event.status
+            )
+        );
+
+        card.appendChild(head);
+        card.appendChild(
+            makeElement("p", "event-desc", event.description)
+        );
+
+        const tags = makeElement("div", "event-effects");
+
+        for (const [key, value] of Object.entries(event.effects || {})) {
+            if (value === 0) continue;
+            tags.appendChild(
+                makeElement("span", "effect-tag", formatEffect(key, value))
+            );
+        }
+
+        card.appendChild(tags);
+
+        if (event.status === "pending") {
+            const button = makeElement("button", "danger", "Delete Pending Event");
+
+            button.addEventListener("click", async () => {
+                if (!confirm(`Delete "${event.title}"?`)) return;
+
+                button.disabled = true;
+
+                try {
+                    await requestJSON(
+                        `/api/events/${encodeURIComponent(event.id)}`,
+                        { method: "DELETE" }
+                    );
+                    await loadEvents();
+                } catch (error) {
+                    alert(error.message);
+                    button.disabled = false;
+                }
+            });
+
+            card.appendChild(button);
+        } else if (event.appliedOn) {
+            card.appendChild(
+                makeElement("div", "small", "Applied: " + event.appliedOn)
+            );
+        }
+
+        list.appendChild(card);
+    }
+}
+
+
+// AI economic event analysis
+
+const analyseButton = document.getElementById("analyseBtn");
+const aiResults = document.getElementById("aiResults");
+const aiStatus = document.getElementById("aiStatus");
+
+let analysing = false;
+let aiAnalysisVersion = 0;
+
+const aiFieldNames = [
+    "gdpGrowth",
+    "inflation",
+    "unemployment",
+    "governmentRevenue",
+    "governmentExpenditure",
+    "exports",
+    "imports"
+];
+
+// Changes to the event invalidate the previous AI analysis.
+function invalidateAnalysis() {
+    aiAnalysisVersion++;
+    aiResults.hidden = true;
+    aiStatus.textContent = "";
+}
+
+document.getElementById("title")
+    .addEventListener("input", invalidateAnalysis);
+
+document.getElementById("description")
+    .addEventListener("input", invalidateAnalysis);
+
+analyseButton.addEventListener("click", async () => {
+    if (analysing) return;
+
+    const title = document.getElementById("title").value.trim();
+    const description = document.getElementById("description").value.trim();
+
+    if (!title || !description) {
+        showMessage(
+            "Enter an event title and description before analysing.",
+            "error"
+        );
+        return;
+    }
+
+    analysing = true;
+    const version = ++aiAnalysisVersion;
+
+    analyseButton.disabled = true;
+    analyseButton.textContent = "✦ Analysing event...";
+    aiResults.hidden = true;
+    aiStatus.textContent =
+        "The AI is examining the event and Square Country's economy.";
+
+    try {
+        const result = await requestJSON("/api/analyse", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ title, description })
+        });
+
+        // Ignore a response if the event changed while AI was working.
+        if (version !== aiAnalysisVersion) return;
+
+        const analysis = result.analysis;
+
+        if (
+            !analysis ||
+            typeof analysis.summary !== "string" ||
+            typeof analysis.reasoning !== "string"
+        ) {
+            throw new Error("Invalid AI assessment received.");
+        }
+
+        // Validate every proposed number before changing any field.
+        const proposed = {};
+
+        for (const key of aiFieldNames) {
+            const value = analysis.effects?.[key];
+
+            if (
+                typeof value !== "number" ||
+                !Number.isFinite(value)
+            ) {
+                throw new Error(
+                    "The AI returned an invalid value for " + key
+                );
+            }
+
+            proposed[key] = billionFields.includes(key)
+                ? value / 1e9
+                : value;
+        }
+
+        // Fill in the form; this does not submit the event.
+        for (const key of aiFieldNames) {
+            document.getElementById(key).value = proposed[key];
+        }
+
+        document.getElementById("aiSummary").textContent =
+            analysis.summary;
+
+        document.getElementById("aiReasoning").textContent =
+            analysis.reasoning;
+
+        aiResults.hidden = false;
+
+        aiStatus.textContent =
+            "Analysis complete. Review the proposed effects below.";
+
+        showMessage(
+            "AI analysis complete. Review the estimates before submitting.",
+            "success"
+        );
+
+    } catch (error) {
+        if (version === aiAnalysisVersion) {
+            aiStatus.textContent = "";
+            showMessage("AI analysis failed: " + error.message, "error");
+        }
+
+    } finally {
+        analysing = false;
+        analyseButton.disabled = false;
+        analyseButton.textContent = "✦ Analyse with AI";
+    }
+});
+
+
+document.getElementById("eventForm").addEventListener("submit", async e => {
+    e.preventDefault();
+
+    const button = document.getElementById("submitBtn");
+    button.disabled = true;
+
+    try {
+        const effects = {};
+
+        for (const key of Object.keys(indicatorNames)) {
+            const value = Number(document.getElementById(key).value);
+
+            if (!Number.isFinite(value)) {
+                throw new Error("All economic effects must be valid numbers.");
+            }
+
+            if (value !== 0) {
+                effects[key] = billionFields.includes(key)
+                    ? value * 1e9
+                    : value;
+            }
+        }
+
+        if (Object.keys(effects).length === 0) {
+            throw new Error("Enter at least one non-zero economic effect.");
+        }
+
+        await requestJSON("/api/events", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                title: document.getElementById("title").value.trim(),
+                description: document.getElementById("description").value.trim(),
+                effects
+            })
+        });
+
+        document.getElementById("eventForm").reset();
+        showMessage("Event saved successfully. It will be applied on the next simulation run.", "success");
+
+        await loadEvents();
+    } catch (error) {
+        showMessage(error.message, "error");
+    } finally {
+        button.disabled = false;
+    }
+});
+
+loadEvents().catch(error => {
+    const list = document.getElementById("eventList");
+    list.replaceChildren(
+        makeElement("div", "empty", error.message)
+    );
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "title": "How does the UK state pension compare with other countries?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Based on the summary, a comparative piece on UK state pensions is informational and unlikely to have a direct, material impact on Square Country's macro outlook or trade in the near term.",
+      "eventName": "UK state pension comparison",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Summary describes a UK government R&D spending announcement (£100m) that is modest in scale relative to an open economy and unlikely to materially shift Square Country's macro variables.",
+      "eventName": "UK £100m AI biosecurity lab investment",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "relevance": "none",
+      "reason": "This appears to be an individual criminal/civil-servant case with no apparent macroeconomic or trade implications for Square Country.",
+      "eventName": "UK civil servant fraud charge",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "A US decision to change tariffs on Canadian goods can alter trade flows and supply chains; this could affect global trade conditions that matter to a trade-exposed economy like Square Country.",
+      "eventName": "US tariff adjustments on Canadian goods (Oct 2026)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A change to UK first-time buyer loan eligibility is a domestic housing-policy measure with limited direct bearing on Square Country's macro or trade position.",
+      "eventName": "UK Your First Home earnings cap £140K",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "title": "The Indian workers filming their work to train AI",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "The summary describes labour used to produce AI training data in India; this is relevant to global AI supply chains but not an immediate macro shock for Square Country based on the summary.",
+      "eventName": "Indian workers producing AI training footage",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "title": "Lights will stay on this winter, grid operator says after concerns",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A grid operator's reassurance that 'lights will stay on' appears to be a domestic energy-supply statement; it tempers local risk but is unlikely to materially affect Square Country's economy from the summary provided.",
+      "eventName": "UK grid operator says supply adequate for winter",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "relevance": "none",
+      "reason": "Human-interest story about elderly social-media influencers has no evident macroeconomic or trade relevance for Square Country.",
+      "eventName": "Elderly TikTok influencers profile",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A legal/financial arrangement affecting an individual tech executive appears to be a corporate/tax matter with limited direct macroeconomic implications for Square Country based on the summary.",
+      "eventName": "Meta/Mark Zuckerberg tax bill arrangement",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "L'Oreal noting impact of weight-loss drugs on product sales is a company-sector signal about consumer behaviour; interesting for sectoral analysis but unlikely to be a material macro shock for Square Country on its own.",
+      "eventName": "L'Oreal: GLP-1s affecting beauty/skincare sales",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T02:18:15.052Z",
+      "status": "assessed"
+    }
+  ]
+}

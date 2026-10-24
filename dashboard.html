@@ -1,0 +1,585 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Economic Dashboard | Square Country</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js"></script>
+
+<style>
+:root {
+    --navy: #122238;
+    --blue: #2563eb;
+    --background: #f4f6fa;
+    --border: #e3e7ef;
+    --text: #172337;
+    --muted: #718096;
+}
+
+* { box-sizing: border-box; }
+
+body {
+    margin: 0;
+    background: var(--background);
+    color: var(--text);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.layout {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 245px;
+    background: var(--navy);
+    color: white;
+    padding: 30px 20px;
+    flex-shrink: 0;
+}
+
+.brand {
+    font-size: 21px;
+    font-weight: bold;
+    padding: 5px 10px 35px;
+}
+
+.brand span {
+    display: block;
+    font-size: 12px;
+    color: #93a3bc;
+    font-weight: normal;
+    margin-top: 7px;
+}
+
+.nav-item {
+    padding: 14px 16px;
+    background: #263c59;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+.sidebar-note {
+    color: #96a5ba;
+    font-size: 12px;
+    line-height: 1.7;
+    margin-top: 30px;
+    padding: 12px;
+}
+
+.main {
+    flex: 1;
+    padding: 38px;
+    min-width: 0;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 28px;
+    margin: 0 0 9px;
+    letter-spacing: -0.7px;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: var(--muted);
+    margin: 0;
+}
+
+button {
+    background: var(--blue);
+    color: white;
+    border: 0;
+    padding: 13px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+button:hover { background: #174dc6; }
+button:disabled { opacity: .55; cursor: wait; }
+
+.status {
+    display: flex;
+    gap: 9px;
+    align-items: center;
+    margin-bottom: 22px;
+    font-size: 13px;
+    color: #497358;
+}
+
+.dot {
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background: #16a34a;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.card, .panel {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 23px;
+}
+
+.card-label {
+    font-size: 13px;
+    color: var(--muted);
+    margin-bottom: 18px;
+}
+
+.card-value {
+    font-size: 29px;
+    font-weight: bold;
+    letter-spacing: -0.8px;
+}
+
+.card-detail {
+    margin-top: 13px;
+    color: var(--muted);
+    font-size: 12px;
+}
+
+.section-title {
+    margin: 32px 0 17px;
+    font-size: 19px;
+}
+
+.charts {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.panel h3 {
+    margin: 0 0 22px;
+    font-size: 16px;
+}
+
+.chart-container {
+    height: 260px;
+    position: relative;
+}
+
+.finance-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.finance-table td {
+    padding: 15px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 14px;
+}
+
+.finance-table td:last-child {
+    text-align: right;
+    font-weight: bold;
+}
+
+.finance-table tr:last-child td { border-bottom: 0; }
+
+.footer {
+    margin-top: 28px;
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+#error {
+    color: #b91c1c;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+@media (max-width: 1000px) {
+    .cards { grid-template-columns: repeat(2, 1fr); }
+    .charts { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 700px) {
+    .layout { display: block; }
+    .sidebar { width: 100%; padding: 20px; }
+    .brand { padding: 0 0 18px; }
+    .sidebar-note { display: none; }
+    .main { padding: 22px; }
+    .topbar { align-items: flex-start; flex-direction: column; }
+    .cards { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+
+<body>
+
+<div class="layout">
+
+    <aside class="sidebar">
+        <div class="brand">
+            SQUARE COUNTRY
+            <span>Economic Simulation System</span>
+        </div>
+        
+        <a class="nav-item" href="/" style="display:block; text-decoration:none; color:white;">
+            Economic Overview
+        </a>
+
+        <a class="nav-item" href="events.html" style="display:block; text-decoration:none; color:white; background:transparent;">
+            Economic Events
+        </a>
+
+        <a class="nav-item" href="/news.html" style="display:block; text-decoration:none; color:white; background:transparent;">
+            News Intelligence
+        </a>
+
+        <div class="sidebar-note">
+            Development environment<br>
+            Simulation Engine v0.1<br>
+            Fictional economic data
+        </div>
+    </aside>
+
+    <main class="main">
+
+        <div class="topbar">
+            <div>
+                <h1>Economic Overview</h1>
+                <p class="subtitle">
+                    National economic indicators and simulation history
+                </p>
+            </div>
+            <button id="simulateBtn" onclick="runSimulation()">
+                Run Next Day →
+            </button>
+        </div>
+
+        <div class="status">
+            <span class="dot"></span>
+            <span id="lastUpdated">Loading economic data...</span>
+        </div>
+
+        <div id="error" role="alert"></div>
+
+        <div class="cards">
+            <div class="card">
+                <div class="card-label">Nominal GDP</div>
+                <div class="card-value" id="gdp">—</div>
+                <div class="card-detail">Annualised nominal output</div>
+            </div>
+
+            <div class="card">
+                <div class="card-label">GDP Growth</div>
+                <div class="card-value" id="growth">—</div>
+                <div class="card-detail">Annualised real growth estimate</div>
+            </div>
+
+            <div class="card">
+                <div class="card-label">Annual Inflation</div>
+                <div class="card-value" id="inflation">—</div>
+                <div class="card-detail">Simulated inflation rate</div>
+            </div>
+
+            <div class="card">
+                <div class="card-label">Unemployment Rate</div>
+                <div class="card-value" id="unemployment">—</div>
+                <div class="card-detail">Percentage of labour force</div>
+            </div>
+
+            <div class="card">
+                <div class="card-label">Interest Rate</div>
+                <div class="card-value" id="interest">—</div>
+                <div class="card-detail">Official policy rate</div>
+            </div>
+
+            <div class="card">
+                <div class="card-label">Population</div>
+                <div class="card-value" id="population">—</div>
+                <div class="card-detail">Estimated national population</div>
+            </div>
+        </div>
+
+        <h2 class="section-title">Economic Trends</h2>
+
+        <div class="charts">
+            <div class="panel">
+                <h3>GDP Growth (%)</h3>
+                <div class="chart-container">
+                    <canvas id="growthChart"></canvas>
+                </div>
+            </div>
+
+            <div class="panel">
+                <h3>Inflation (%)</h3>
+                <div class="chart-container">
+                    <canvas id="inflationChart"></canvas>
+                </div>
+            </div>
+
+            <div class="panel">
+                <h3>Unemployment (%)</h3>
+                <div class="chart-container">
+                    <canvas id="unemploymentChart"></canvas>
+                </div>
+            </div>
+
+            <div class="panel">
+                <h3>Nominal GDP (SC$ billions)</h3>
+                <div class="chart-container">
+                    <canvas id="gdpChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="section-title">Government Finances</h2>
+
+        <div class="panel">
+            <table class="finance-table">
+                <tr>
+                    <td>Government Revenue</td>
+                    <td id="revenue">—</td>
+                </tr>
+                <tr>
+                    <td>Government Expenditure</td>
+                    <td id="expenditure">—</td>
+                </tr>
+                <tr>
+                    <td>Fiscal Balance</td>
+                    <td id="balance">—</td>
+                </tr>
+                <tr>
+                    <td>Government Debt</td>
+                    <td id="debt">—</td>
+                </tr>
+                <tr>
+                    <td>Debt-to-GDP Ratio</td>
+                    <td id="debtRatio">—</td>
+                </tr>
+                <tr>
+                    <td>Exports</td>
+                    <td id="exports">—</td>
+                </tr>
+                <tr>
+                    <td>Imports</td>
+                    <td id="imports">—</td>
+                </tr>
+                <tr>
+                    <td>Trade Balance</td>
+                    <td id="tradeBalance">—</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="footer">
+            Square Country Economic Simulation |
+            Development Dashboard<br>
+            All statistics are fictional and generated by a simulation.
+            Data is not yet connected to international news or AI.
+        </div>
+
+    </main>
+</div>
+
+<script>
+const charts = {};
+
+const setText = (id, value) => {
+    document.getElementById(id).textContent = value;
+};
+
+function money(value) {
+    const abs = Math.abs(value);
+    const sign = value < 0 ? "-" : "";
+
+    if (abs >= 1e12)
+        return sign + "SC$" + (abs / 1e12).toFixed(3) + "T";
+
+    if (abs >= 1e9)
+        return sign + "SC$" + (abs / 1e9).toFixed(2) + "B";
+
+    if (abs >= 1e6)
+        return sign + "SC$" + (abs / 1e6).toFixed(2) + "M";
+
+    return sign + "SC$" + abs.toLocaleString();
+}
+
+function percent(value) {
+    return Number(value).toFixed(2) + "%";
+}
+
+function drawChart(id, labels, values, color) {
+    if (typeof Chart === "undefined") {
+        throw new Error("Chart.js could not be loaded.");
+    }
+
+    if (charts[id]) {
+        charts[id].destroy();
+    }
+
+    const canvas = document.getElementById(id);
+
+    charts[id] = new Chart(canvas, {
+        type: "line",
+        data: {
+            labels,
+            datasets: [{
+                data: values,
+                borderColor: color,
+                backgroundColor: color + "18",
+                fill: true,
+                tension: 0.3,
+                pointRadius: 2,
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            interaction: {
+                intersect: false,
+                mode: "index"
+            },
+            plugins: {
+                legend: { display: false }
+            },
+            scales: {
+                x: {
+                    ticks: {
+                        maxTicksLimit: 6,
+                        maxRotation: 0
+                    },
+                    grid: { display: false }
+                },
+                y: {
+                    ticks: { maxTicksLimit: 6 }
+                }
+            }
+        }
+    });
+}
+
+async function loadDashboard() {
+    const [economyResponse, historyResponse] = await Promise.all([
+        fetch("/data/economy.json"),
+        fetch("/data/history.json")
+    ]);
+
+    if (!economyResponse.ok || !historyResponse.ok) {
+        throw new Error("Could not read the economic data files.");
+    }
+
+    const data = await economyResponse.json();
+    const history = await historyResponse.json();
+    const e = data.economy;
+
+    setText("lastUpdated", "Simulation date: " + data.lastUpdated);
+
+    setText("gdp", money(e.gdp));
+    setText("growth", percent(e.gdpGrowth));
+    setText("inflation", percent(e.inflation));
+    setText("unemployment", percent(e.unemployment));
+    setText("interest", percent(e.interestRate));
+    setText("population", e.population.toLocaleString());
+
+    setText("revenue", money(e.governmentRevenue));
+    setText("expenditure", money(e.governmentExpenditure));
+    setText("balance",
+        money(e.governmentRevenue - e.governmentExpenditure)
+    );
+    setText("debt", money(e.governmentDebt));
+    setText("debtRatio",
+        percent(e.governmentDebt / e.gdp * 100)
+    );
+    setText("exports", money(e.exports));
+    setText("imports", money(e.imports));
+    setText("tradeBalance",
+        money(e.exports - e.imports)
+    );
+
+    // Keep the most recent 90 simulated days.
+    const recent = history.slice(-90);
+    const dates = recent.map(item => item.lastUpdated);
+
+    drawChart(
+        "growthChart", dates,
+        recent.map(item => item.economy.gdpGrowth),
+        "#2563eb"
+    );
+
+    drawChart(
+        "inflationChart", dates,
+        recent.map(item => item.economy.inflation),
+        "#f97316"
+    );
+
+    drawChart(
+        "unemploymentChart", dates,
+        recent.map(item => item.economy.unemployment),
+        "#dc2626"
+    );
+
+    drawChart(
+        "gdpChart", dates,
+        recent.map(item => item.economy.gdp / 1e9),
+        "#16a34a"
+    );
+
+    setText("error", "");
+}
+
+async function runSimulation() {
+    const button = document.getElementById("simulateBtn");
+
+    button.disabled = true;
+    button.textContent = "Simulating...";
+
+    try {
+        const response = await fetch("/simulate", {
+            method: "POST"
+        });
+
+        if (!response.ok) {
+            throw new Error(await response.text());
+        }
+
+        await loadDashboard();
+
+    } catch (error) {
+        setText("error", error.message);
+        console.error(error);
+
+    } finally {
+        button.disabled = false;
+        button.textContent = "Run Next Day →";
+    }
+}
+
+loadDashboard().catch(error => {
+    setText("error", error.message);
+});
+
+// Refresh the display every 30 seconds.
+setInterval(() => {
+    loadDashboard().catch(console.error);
+}, 30000);
+</script>
+
+</body>
+</html>

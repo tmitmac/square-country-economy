@@ -1,0 +1,33 @@
+{
+  "proposals": [
+    {
+      "id": "news-97c227bfaa08472768aa",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "title": "US tariff adjustments on Canadian goods (Oct 2026)",
+      "importance": "medium",
+      "summary": "Limited immediate impact expected for Square Country. Headlines indicate US is easing tariffs on some Canadian goods (e.g., machinery) while imposing or raising tariffs on others (e.g., carpets). This likely causes small trade diversion toward Canada for the eased categories and possibly small opportunities where US raises tariffs on Canadian goods, but headline-level uncertainty makes immediate effects for Square Country modest and asymmetric. First-stage effect: a small net reduction in exports as some US demand shifts to Canadian suppliers; other macro variables show no clear immediate change.",
+      "reasoning": "Basis and uncertainty: source is headline/RSS only — article details not verified; product-level exposure of Square Country to the affected categories is unknown, so use conservative assumptions. Mechanism: US tariff easing on some Canadian goods tends to divert some US imports away from other suppliers (including Square Country) toward Canada; tariffs placed on other Canadian goods (e.g., carpets) could create limited substitution in favour of non-Canadian suppliers but direction and magnitude for Square Country are uncertain. Immediate (first-stage) view: effects will be small and concentrated in trade flows because tariff changes are targeted and announced to take effect in the US market; spillovers to domestic demand, prices and labour are unlikely to be measurable in the very short run. Delayed/medium-run risks: if tariff changes persist and affect sectors where Square Country is a close competitor to Canada (e.g., machinery), exports could decline further, feeding modestly into GDP, revenue and employment. Given headline uncertainty, do not assume compensating fiscal measures or sector-specific shocks.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": -500000000,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-24T00:36:47.000Z",
+          "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+        }
+      ],
+      "status": "approved",
+      "createdAt": "2026-10-24T02:20:34.000Z",
+      "reviewedAt": "2026-10-24T02:30:21.936Z"
+    }
+  ]
+}
