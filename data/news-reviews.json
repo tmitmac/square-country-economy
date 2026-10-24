@@ -119,6 +119,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-10-24T02:18:15.052Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A UK domestic public‑sector fraud case; chiefly reputational and administrative for UK public services with limited direct macro or trade spillovers to Square Country.",
+      "eventName": "UK civil servant fraud charge",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Firm‑level job cuts at a major UK bank tied to AI use; significant for the bank and UK labour market but unlikely to have large direct effects on Square Country's economy.",
+      "eventName": "Barclays AI-driven job cuts",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A retrospective UK Treasury estimate about North Sea revenues; informative domestically but not an immediate policy or market shock affecting international trade or commodity markets.",
+      "eventName": "UK North Sea proceeds hypothetical fund",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "title": "Tank barrel production returns to UK after 20 years",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Resumption of a UK defence manufacturing activity; primarily a domestic industrial policy/deployment story with limited direct trade or energy market implications for Square Country.",
+      "eventName": "UK restarts tank barrel production",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "relevance": "high",
+      "reason": "AI‑found critical vulnerabilities in PHP with a coordinated global cyber response; widespread web‑platform disruption and emergency patches could materially affect online services, trade, finance and government IT in Square Country.",
+      "eventName": "PHP vulnerability triggers global cyber response",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A commercial operational change by Starbucks in China; company‑level competition news with limited macroeconomic impact on Square Country.",
+      "eventName": "Starbucks China in-store policy change",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "relevance": "high",
+      "reason": "Reports of websites being taken down and critical updates being issued relate to the same widespread PHP vulnerability and global cyber‑security response, which could disrupt services relevant to Square Country.",
+      "eventName": "PHP vulnerability triggers global cyber response",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "title": "Is an 'AI war' complicating your job search?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Discussion of AI recruitment tools and fairness is a sectoral/ethical labour‑market topic; long‑run structural relevance but not an immediate macroeconomic shock for Square Country.",
+      "eventName": "AI recruitment tools affecting job search",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "A very large privacy fine against Meta could influence global tech sector profitability, advertising markets and regulatory trends, with possible indirect effects on Square Country's digital trade and capital flows.",
+      "eventName": "Meta $25bn privacy fine",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Airbnb's policy change on guest chores is a platform governance update with limited immediate macroeconomic implications for Square Country's tourism or trade.",
+      "eventName": "Airbnb guest chores ban",
+      "duplicateOf": "",
+      "reviewedAt": "2026-10-24T04:30:28.319Z",
+      "status": "assessed"
     }
   ]
 }
