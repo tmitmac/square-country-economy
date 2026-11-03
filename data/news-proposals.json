@@ -93,6 +93,35 @@
       "status": "pending_review",
       "createdAt": "2026-10-24T04:31:16.490Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-8d22fc4debd39ff36343",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "title": "Proposed SpaceX–Tesla mega-merger",
+      "importance": "medium",
+      "summary": "Headline report of a proposed SpaceX–Tesla mega‑merger. At headline/RSS level there is no verified information on deal scope, timing, or supply‑chain impacts relevant to Square Country. First‑stage effects are negligible.",
+      "reasoning": "The announcement is international, concerns two large US private/public firms, and at this stage is speculative (headlines only). There is no verified information on concrete transactions, production changes, supply‑chain sourcing, or investment flows that would directly affect Square Country’s real economy or government finances. As a large, trade‑exposed economy, Square Country could be affected if the merger altered global demand for autos or aerospace components sourced here or triggered sustained global financial volatility, but those are second‑order/delayed outcomes and are not supported by the headline evidence. Conservatively, assign zero first‑stage impacts and note potential future effects if/when detailed deal information emerges.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-21T23:04:03.000Z",
+          "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-03T23:22:59.249Z",
+      "reviewedAt": null
     }
   ]
 }

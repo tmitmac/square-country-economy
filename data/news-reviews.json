@@ -239,6 +239,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-10-24T04:30:28.319Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "A proposed mega-merger of two large US technology/space companies could influence global capital markets, key supply chains and technology sectors that Square Country firms trade with or whose equities are held by domestic investors.",
+      "eventName": "Proposed SpaceX–Tesla mega-merger",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Commentary on UK inflation and borrowing frames the domestic Budget challenge; primarily UK fiscal news with limited direct implications for Square Country's economy.",
+      "eventName": "UK Chancellor Budget constraints commentary",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Report of rising UK inflation and government borrowing is a domestic macro update; it is unlikely to materially affect Square Country absent further international spillovers.",
+      "eventName": "UK inflation and borrowing rise ahead of Budget",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A UK proposal to change gas billing structure is a domestic energy-pricing policy discussion with limited direct impact on Square Country's energy supplies or trade.",
+      "eventName": "UK plan to cut gas standing charges",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "relevance": "none",
+      "reason": "An apology and pause by a food delivery firm over AI-generated images is company-level reputational/newsroom material with no evident macroeconomic implications for Square Country.",
+      "eventName": "Just Eat AI image errors and apology",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "title": "What is the Budget and what could be in it?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Explainer about an upcoming UK Budget is domestic informational content; not likely to materially affect Square Country's economy on its own.",
+      "eventName": "UK Budget explainer ahead of announcements",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+      "relevance": "none",
+      "reason": "Individual civil servant admitting mistakes in holding multiple contracts is a governance/scandal story with no evident macroeconomic impact for Square Country.",
+      "eventName": "UK civil servant fraud charge",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Reporting that more UK graduates are considering emigration signals labour-market sentiment in the UK; possible relevance to migration dynamics but limited direct macro impact on Square Country.",
+      "eventName": "UK graduates considering emigration",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "title": "The tech helping crack decades-old cold cases",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Coverage of forensic/genetic genealogy technology is sectoral (criminal justice/biotech) and may have modest relevance to tech or privacy regulation, but is unlikely to materially move Square Country's economy.",
+      "eventName": "Use of genetic genealogy to solve cold cases",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "title": "Living with a stink? Technology might help",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Development of smell-monitoring technologies for nuisance odors is a niche environmental/industrial story; potential local regulatory or sectoral effects but limited macroeconomic significance for Square Country.",
+      "eventName": "Technology for monitoring industrial smells",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-03T23:22:52.322Z",
+      "status": "assessed"
     }
   ]
 }
