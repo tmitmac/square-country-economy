@@ -359,6 +359,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-03T23:22:52.322Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Summary is a descriptive supply‑chain piece about China→US toy flows; no specific disruption, tariff or price shock is mentioned that would clearly alter Square Country's macro outlook.",
+      "eventName": "China–US toy supply chain ahead of Christmas",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "title": "How long will humans be needed for translation?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Overview of AI in translation is sectoral technology change; summary does not indicate a broad labour‑market or trade shock likely to materially affect Square Country.",
+      "eventName": "AI impact on translation industry",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "title": "Why are more roofs not made of solar tiles?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Explainer on why solar tiles have not scaled is informative for the energy transition but contains no immediate supply, price or policy development that would materially affect Square Country.",
+      "eventName": "Slow adoption of solar roof tiles",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "A binding independence referendum in Alberta could alter oil production, trade and investor sentiment; the summary signals a potentially material political‑economic event, though specific market effects are not given.",
+      "eventName": "Alberta independence referendum",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Cloud‑seeding by drones is a technological/environmental development; the summary does not describe an immediate shock to agricultural output or trade likely to affect national GDP or prices.",
+      "eventName": "Drone-based cloud seeding",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "title": "The AI telling farmers when to harvest",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "AI tools advising harvest timing could influence farm productivity over time, but the summary does not report a widespread adoption or disruption that would materially change Square Country's near‑term economic metrics.",
+      "eventName": "AI harvest‑timing tools for farmers",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+      "title": "The start-ups hoping to return battery making to the US",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Start‑ups bringing battery (sodium‑ion) manufacturing to the US could shift global battery supply chains and trade patterns; summary implies potential reshoring with possible implications for commodity and manufacturing sectors.",
+      "eventName": "US sodium‑ion battery manufacturing start‑ups",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Discussion of X‑planes versus drones is defence/aviation R&D commentary; the summary does not indicate an economic disruption or policy change likely to materially affect Square Country.",
+      "eventName": "US X‑planes in era of cheap drones",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Texas shifting from oil capital identity toward large-scale solar deployment is a noteworthy energy‑transition development that could influence energy markets and investment flows relevant to Square Country over time.",
+      "eventName": "Texas solar power boom in oil capital",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "title": "Spain battles climate change on several fronts",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Spain's climate‑driven wildfires and heatwaves are significant locally, but the summary does not describe an international trade or financial shock that would clearly materially affect Square Country.",
+      "eventName": "Spain climate impacts and wildfires",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-04T23:39:58.551Z",
+      "status": "assessed"
     }
   ]
 }

@@ -122,6 +122,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-03T23:22:59.249Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-94facf81bc4dc241f9d3",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+      "title": "Alberta independence referendum",
+      "importance": "medium",
+      "summary": "Headline reports of an Alberta independence referendum are unlikely to have a measurable first‑stage impact on Square Country’s economy given the limited verification and indirect linkages. No conservative, evidence‑based immediate effects can be identified from the available summaries.",
+      "reasoning": "The story is at the headlines/RSS level only and pertains to a political process in Canada. Direct channels to Square Country would be via commodity (oil) prices, financial market risk sentiment, and bilateral trade/financial exposures. With no verified details on timing, likelihood, or market reactions, and no information on Square Country’s specific trade or financial ties to Alberta/Canada in the evidence set, there is insufficient basis to estimate a non‑zero, conservative first‑stage effect. If further verified reporting shows substantial oil price moves or material market disruption, small impacts would be reassessed. For now, set effects to zero to reflect uncertainty and avoid inventing fiscal measures or speculative spillovers.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
+          "url": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-07T23:10:13.000Z",
+          "summary": "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-04T23:40:05.926Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-0480765c69fcc60d0de5",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+      "title": "US sodium‑ion battery manufacturing start‑ups",
+      "importance": "medium",
+      "summary": "Headline reports that US start-ups are pursuing sodium‑ion battery manufacturing. Based on headline‑only evidence and the nascent nature of the technology, there is no verifiable, meaningful first‑stage macroeconomic impact on Square Country at this time.",
+      "reasoning": "The information is headline‑level only and not verified. Sodium‑ion battery production is an emerging technology with uncertain commercial scale, supply‑chain implications, and timing. Any material effects on global trade, input prices (e.g. lithium or sodium), or investment flows would be delayed and contingent on large‑scale commercial adoption and specific bilateral trade/investment links between Square Country and US manufacturers. Given the lack of detailed evidence and the instruction to be conservative, the plausible immediate (first‑stage) impacts on Square Country’s GDP growth, inflation, unemployment and fiscal/trade flows are indistinguishable from zero.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "The start-ups hoping to return battery making to the US",
+          "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-09-29T23:06:50.000Z",
+          "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-04T23:40:12.808Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-ad11e6cfb14a5b9663cb",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "title": "Texas solar power boom in oil capital",
+      "importance": "medium",
+      "summary": "Headline reports of a Texas solar-power boom are unlikely to have large immediate direct effects on Square Country. Conservatively, first‑stage impacts are negligible for GDP and employment. There is a small, delayed disinflationary and import‑bill benefit from modest downward pressure on global energy prices and reduced fossil‑fuel demand, and an uncertain longer‑term channel via renewable-tech trade and investment which is not counted here.",
+      "reasoning": "Evidence is limited to headlines/RSS; do not assume full articles or quantified global price moves. The Texas shift increases US domestic solar generation, which may modestly reduce US fossil‑fuel demand and exert small downward pressure on global oil/gas prices. For a large, trade‑exposed economy this transmits mainly through lower energy import bills and slight disinflationary pressure. Immediate real‑economy channels (output, employment) are minimal. Potential increases in renewable equipment trade or investment could affect imports/exports later, but those are delayed and uncertain given the available evidence. Therefore we report conservative, small first‑stage effects only.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": -0.03,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": -150000000
+      },
+      "sources": [
+        {
+          "title": "How the oil capital of the US welcomed a solar power boom",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-09-23T23:12:22.000Z",
+          "summary": "Texas is now the country's biggest producer of solar-farmed electricity."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-04T23:40:25.776Z",
+      "reviewedAt": null
     }
   ]
 }
