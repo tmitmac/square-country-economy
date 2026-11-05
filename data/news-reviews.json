@@ -479,6 +479,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-04T23:39:58.551Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "title": "The virtual worlds where robots are trained",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "More sophisticated simulated training for robots can raise productivity and affect manufacturing and services over time; potential implications for tradeable goods and labour markets if adopted at scale.",
+      "eventName": "Robot simulation training systems",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Practical household energy-saving tips are consumer guidance with limited direct international macroeconomic impact.",
+      "eventName": "Household energy‑saving advice",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+      "title": "Island inflation rate rises to 3%, figures show",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "An island's inflation rising to 3% (driven by food and alcohol) could matter for Square Country if there are strong trade or commodity links; otherwise impact is likely limited.",
+      "eventName": "Island inflation rises to 3%",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+      "title": "Renting in London - 'I pay £2,000 for one bedroom'",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A human-interest report on London rents signals domestic housing cost pressure in the UK but is unlikely to have a material effect on Square Country's economy by itself.",
+      "eventName": "High London rents anecdote",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo?at_medium=RSS&at_campaign=rss",
+      "title": "'I live in the dark': How rising bills are shaping daily life",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vxl21m3jo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Personal accounts of coping with higher household bills illustrate consumer stress and energy-price transmission, but contain no new international policy or market development likely to move Square Country's economy materially.",
+      "eventName": "Household bill hardship narrative",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "title": "My hometown shows that high streets have to change or die",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A local UK high‑street revival plan is a city‑level regeneration story with limited direct international economic implications for Square Country.",
+      "eventName": "Aberdeen high‑street revival bid",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "A crisis in Europe's auto sector and the prospect of defence spending shifting industry demand could affect global manufacturing, trade and supply chains; relevance depends on Square Country's exposure to European auto trade and inputs.",
+      "eventName": "European carmakers crisis and rearmament demand",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Climate-driven increases in aviation disruption could raise frictions for trade, tourism and logistics over time, with potential cost and reliability implications for an open economy like Square Country's.",
+      "eventName": "Climate impacts on aviation disruption",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Delays in UK e‑scooter regulation are a domestic transport policy story with limited international economic consequences for Square Country.",
+      "eventName": "UK e‑scooter regulatory delay",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "title": "Why Gen Z are planning for life without a state pension",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Gen Z expectations about future state pensions are important for long‑run saving behaviour but this UK‑focused narrative provides no immediate international economic development likely to affect Square Country materially.",
+      "eventName": "Gen Z planning for life without state pension",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-05T23:38:35.210Z",
+      "status": "assessed"
     }
   ]
 }

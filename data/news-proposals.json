@@ -209,6 +209,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-04T23:40:25.776Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-ca691b64f42f124bc71d",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "title": "Robot simulation training systems",
+      "importance": "medium",
+      "summary": "Headlines about more sophisticated robot simulation training systems signal a potential long-run productivity and robotics-industry benefit, but with only headline-level evidence and no identified direct shocks to Square Country (no announced investments, policy changes, trade deals or demand shifts), there is insufficient basis to assign measurable first-stage macroeconomic effects.",
+      "reasoning": "The report is a high-level technology trend piece. Possible channels: (1) higher productivity and capital deepening in manufacturing/services using robotics (positive GDP and lower unemployment long run); (2) increased private investment in robotics hardware/software (higher imports of components, later exports of robotics products); (3) modest upward pressure on wages/skill demand in tech sectors. However, none of these channels are evidenced as occurring now in Square Country (no specific firm investments, export contracts, or fiscal measures cited). Given the requirement to be conservative and to use zero when effects are uncertain from headline-only evidence, first-stage measurable impacts on aggregate demand, prices, labour market and fiscal/trade balances are set to zero. This does not rule out future effects if concrete investment or policy developments occur.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "The virtual worlds where robots are trained",
+          "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-09-17T23:00:47.000Z",
+          "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-05T23:38:44.183Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-749bb45cb1073ed3e04e",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+      "title": "Island inflation rises to 3%",
+      "importance": "medium",
+      "summary": "Headline report: an overseas 'Island' economy's inflation rose to 3%, driven by food and alcohol. Given only headline-level evidence and no verified links to Square Country, immediate measurable impacts on Square Country are judged to be negligible.",
+      "reasoning": "The report is a single headline about inflation in another (unspecified) small island economy. Potential channels to Square Country would be via (1) trade (changes in island demand or prices affecting Square's exports/imports), (2) pass-through to global food/alcohol prices and therefore domestic inflation, and (3) financial/expectations channels. None of these channels are clearly established in the headline-only evidence: the island's size, bilateral trade links, and commodity exposures are unknown. Following the instruction to use zero where evidence is insufficient and to prefer conservative estimates, I assume no first-stage measurable effects on Square Country's macro variables. If further verified information appears (e.g., large trade share, common commodity shocks, or financial linkages), small adjustments could be warranted.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Island inflation rate rises to 3%, figures show",
+          "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-23T11:58:19.000Z",
+          "summary": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-05T23:38:51.242Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-046866fdb067a13d0b9d",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "title": "European carmakers crisis and rearmament demand",
+      "importance": "medium",
+      "summary": "Headline reports that European carmakers may benefit from rearmament demand present a possible but uncertain positive near-term export opportunity for Square Country’s automotive and parts sector. Given only headline-level evidence, first-stage effects on the wider economy are likely small and concentrated in trade-exposed manufacturing and related services.",
+      "reasoning": "The source is headline-level and speculative: it suggests higher European defence-related demand could absorb excess auto-industry capacity. For Square Country — a large, trade-exposed economy — the plausible channel is increased export orders for vehicles, components or specialised conversions and modest follow-on activity in transport and business services. There is no verified information on contract sizes, timing, or whether Square Country firms are direct suppliers. Conservatively assume a small, first-stage boost to export volumes and output, with minor upward pressure on prices and a small fall in unemployment. Fiscal effects are limited and gradual; no new domestic fiscal measures are assumed. Given the uncertainty, estimates are deliberately small and could be zero if no direct trade links exist.",
+      "effects": {
+        "gdpGrowth": 0.03,
+        "inflation": 0.01,
+        "unemployment": -0.02,
+        "governmentRevenue": 50000000,
+        "governmentExpenditure": 0,
+        "exports": 300000000,
+        "imports": 150000000
+      },
+      "sources": [
+        {
+          "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-09-25T08:31:56.000Z",
+          "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-05T23:39:01.913Z",
+      "reviewedAt": null
     }
   ]
 }
