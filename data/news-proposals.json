@@ -296,6 +296,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-05T23:39:01.913Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-1d17155788833fd03f86",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "title": "Brent crude rises above $117 on Middle East escalation fears",
+      "importance": "high",
+      "summary": "A headline-driven rise in Brent above US$117 likely produces a small, adverse first-stage impact on Square Country: slightly lower GDP growth, modestly higher inflation and a marginal rise in unemployment. The immediate fiscal effect is a small increase in nominal revenue from higher VAT/excise on fuel; government spending and exports are unchanged in the short run. Imports rise due to a higher oil import bill.",
+      "reasoning": "Channels and assumptions (conservative):\n- Direct channel: Square Country is a large, trade-exposed net oil importer. Higher Brent raises the domestic cost of fuel and energy-intensive inputs, increasing import values and the trade deficit.\n- Pass-through to consumer prices is partial and gradual; initial effect boosts headline inflation through higher transport and energy components.\n- Higher energy costs weigh on real household purchasing power and business margins, producing a small drag on near-term GDP growth and a minor rise in unemployment.\n- Fiscal effect: higher nominal fuel prices increase VAT/excise receipts modestly in the near term. There is no evidence in headlines of new fiscal policy or subsidy changes, so government expenditure is assumed unchanged initially.\n- Timing and uncertainty: these are conservative, first-stage effects based on headline reports only; full macro effects depend on persistence of oil price rise and subsequent policy/market responses.\nEstimated directional impacts (first-stage, conservative):",
+      "effects": {
+        "gdpGrowth": -0.1,
+        "inflation": 0.15,
+        "unemployment": 0.05,
+        "governmentRevenue": 150000000,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 500000000
+      },
+      "sources": [
+        {
+          "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+          "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T16:48:28.000Z",
+          "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Oil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its highest level since April. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-06T23:08:26.357Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-588e3e94b49102851ad1",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "title": "Climate impacts on aviation disruption",
+      "importance": "medium",
+      "summary": "Headline evidence that climate change is increasing aviation disruption implies small, near-term negative effects on GDP and trade, slight upward inflation pressure from higher transport costs, minor upward pressure on unemployment, a small revenue loss and modest additional government spending for response/adaptation.",
+      "reasoning": "Hotter, stormier conditions increase delays, cancellations and diversions. Direct first-stage effects for Square Country (large, trade-exposed) include reduced passenger travel and tourism receipts, higher air-freight costs and delays that disrupt time-sensitive exports/imports, and modest operational and regulatory costs for airports/airlines. Indirect effects include small upward pressure on consumer prices for air-transported goods and business services, and slightly lower economic activity reducing tax receipts. Given the source is headline-level only, estimates are conservative and highly uncertain; larger or persistent climate-driven impacts would take time to materialise and could be substantially bigger than these first-stage effects.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": 0.03,
+        "unemployment": 0.02,
+        "governmentRevenue": -250000000,
+        "governmentExpenditure": 100000000,
+        "exports": -150000000,
+        "imports": -150000000
+      },
+      "sources": [
+        {
+          "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+          "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-09-05T23:20:00.000Z",
+          "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-06T23:08:39.079Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-a1bc5a10bbea12cbdaa0",
+      "rootArticleId": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
+      "title": "French protests over economic reform",
+      "importance": "medium",
+      "summary": "Headlines about mass protests in France are likely to cause only very limited, short‑run spillovers to Square Country. Immediate effects are small negative trade and growth impacts via risk‑off sentiment and minor disruption to European supply chains; no clear evidence of fiscal effects or persistent domestic inflationary pressure.",
+      "reasoning": "Evidence is limited to headlines and summaries only, so estimates are conservative. France is an important European economy, so large, prolonged unrest could affect global demand, trade routes and investor sentiment. In the first stage, these channels imply a small negative hit to Square Country's growth and a modest, temporary reduction in exports/imports to Europe. There is no verified indication of fiscal measures in France that would directly affect Square Country's revenues or spending, nor clear evidence of a substantial inflation shock. Given the uncertainty, effects are kept minimal and concentrated on trade and a slight labour market impact.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": 0,
+        "unemployment": 0.02,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": -120000000,
+        "imports": -115000000
+      },
+      "sources": [
+        {
+          "title": "The Briefing Room",
+          "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-22T13:19:00.000Z",
+          "summary": "After mass protests and violence, what will persuade the French to accept economic reform?"
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-06T23:08:49.328Z",
+      "reviewedAt": null
     }
   ]
 }

@@ -599,6 +599,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-05T23:38:35.210Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
+      "title": "The little-known investment Martin Lewis wants you to understand...",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Headline suggests personal finance/investment advice for individuals; unlikely to materially affect national macroeconomic indicators or international trade.",
+      "eventName": "Martin Lewis: little‑known investment advice",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
+      "title": "The Briefing Room",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Mass protests and resistance to economic reform in France could affect Eurozone political stability, investor confidence and regional demand; may have indirect effects on trade and markets relevant to Square Country.",
+      "eventName": "French protests over economic reform",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
+      "title": "A warning to anyone with credit card debt...",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "A consumer warning about credit‑card debt is individual financial advice; not a direct international economic shock for a trade‑exposed national economy.",
+      "eventName": "Martin Lewis: credit‑card debt warning",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "title": "UK government to make unprecedented intervention in setting of water bills",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "relevance": "medium",
+      "reason": "Unprecedented government intervention in UK utility price reviews is a significant regulatory change for the UK utilities sector and investors; limited direct impact on Square Country but relevant for investor sentiment in utilities markets.",
+      "eventName": "UK minister signals intervention in water price review",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
+      "title": "Telegraph cuts up to 100 jobs as new owner promises to turn paper into ‘AI-powered’ global business",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/media/2026/oct/23/telegraph-job-cuts-axel-springer-owner-promises-turn-paper-ai-powered-global-business",
+      "relevance": "low",
+      "reason": "Company‑level job cuts and media strategy changes are a commercial development with limited macroeconomic implications for an open national economy.",
+      "eventName": "Telegraph redundancies under new owner Axel Springer",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+      "relevance": "low",
+      "reason": "Report and expert skepticism about one firm’s AI staffing changes is notable for tech sector observers but not a clear, broad international economic development affecting core macro variables.",
+      "eventName": "Skepticism of Anthropic’s AI workplace claims",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "relevance": "high",
+      "reason": "Reported jump in Brent crude to >$117/barrel tied to Middle East escalation is a direct global commodity shock that can affect inflation, trade balances and growth for energy‑importing economies like Square Country.",
+      "eventName": "Brent crude rises above $117 on Middle East escalation fears",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+      "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+      "relevance": "low",
+      "reason": "Domestic political messaging about small‑scale public service fixes is primarily national politics and unlikely to materially affect international trade or macroeconomic conditions for Square Country.",
+      "eventName": "Burnham’s ‘everyday fixes’ political strategy",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/23/hammersmith-bridge-crumbling-traffic-delays-roadworks-london",
+      "title": "Hammersmith Bridge is a symbol of our dysfunctional times. The money is there, the joined-up thinking isn’t | Simon Jenkins",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/hammersmith-bridge-crumbling-traffic-delays-roadworks-london",
+      "relevance": "low",
+      "reason": "Opinion piece on UK local infrastructure failures highlights congestion and governance issues but lacks evidence of a material international economic impact on trade or markets.",
+      "eventName": "Hammersmith Bridge and London infrastructure dysfunction",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
+      "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
+      "relevance": "medium",
+      "reason": "Analysis of UK gas security and emergency arrangements with Belgium bears on regional energy supply resilience and could influence European gas prices and seasonal energy risk premia relevant to Square Country’s energy/import exposure.",
+      "eventName": "UK gas security concerns and Belgium pipeline deal",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-06T23:08:08.582Z",
+      "status": "assessed"
     }
   ]
 }
