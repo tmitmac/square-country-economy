@@ -383,6 +383,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-06T23:08:49.328Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-4ccb42bc81a8c9fa8d12",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "title": "UK minister signals intervention in water price review",
+      "importance": "medium",
+      "summary": "A UK minister signalling intervention in the next water-price review is unlikely to have a meaningful first‑round impact on Square Country’s macro indicators. Immediate direct channels (trade in water services/equipment, fiscal spillovers, inflation) are minimal based on headline‑level information, so estimated first‑stage effects are zero.",
+      "reasoning": "Channels considered: (1) Trade exposure — Square Country could export water‑treatment equipment or engineering services to UK utilities; a tougher price review might eventually reduce UK utility investment, but the announcement alone is preparatory and does not imply immediate cuts. (2) Financial/market channels — UK utility share price moves could affect global investors, but headline‑only evidence and the likely small relative portfolio exposure imply negligible near‑term macro impact. (3) Inflation/fiscal channels — domestic prices or UK fiscal policy are not directly affected in a way that transmits materially to Square Country in the short run. Given the limited evidence (headlines only) and absence of concrete UK policy actions or measurable trade/fiscal shocks, conservative first‑stage estimates use zeroes. If the intervention led to substantive UK investment cuts later, there could be modest delayed effects on exports of specialised equipment and services, but that is beyond first‑stage certainty.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "UK government to make unprecedented intervention in setting of water bills",
+          "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T13:51:10.000Z",
+          "summary": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ Ministers will make an unprecedented intervention in water bills and how companies prioritise investment, directing bosses to bring down costs and stop leaks and sewage overflows. Angela Eagle, the environment secretary, has told suppliers in England and Wales she plans to intervene in the next price review – conducted by the water regulator, Ofwat. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-07T21:50:23.943Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-78a7e0a88283f41e4859",
+      "rootArticleId": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
+      "title": "UK gas security concerns and Belgium pipeline deal",
+      "importance": "medium",
+      "summary": "Headline report of a UK–Belgium pipeline arrangement to shore up winter gas flows is unlikely to produce a measurable first‑stage impact on Square Country. Given only headline evidence and no direct trade or energy link specified, conservative estimate: no material immediate effect on GDP growth, inflation, unemployment, or fiscal and trade aggregates.",
+      "reasoning": "The article describes a UK domestic/European energy security arrangement. There is no clear evidence in the headline that Square Country is directly involved as a supplier, buyer, or counterparty, nor of a imminent, large change in global energy prices. With only RSS/headline information and the instruction to avoid inventing links, the prudent assumption is no meaningful first‑round effect on Square Country’s macro variables. Any second‑round or tail effects (e.g., broader European price shocks or changed LNG routing) are uncertain from the available information and thus not quantified here.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
+          "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T05:00:02.000Z",
+          "summary": "The UK still imports 60% of its gas and, even with Jackdaw, its energy supply and resilience problems are not going away After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almost 60% of its gas and the stuff has to come from somewhere. We’re now doing a deal with Belgium to ensure enough supply can flow through a connecting pipeline this winter should a “low-probability but high-impact stress event”, to quote the regulatory mouthful, occur. To be fair, the arrangement to maintain capacity from Belgium is a belt-and-braces measure. The imagined events do sound genuinely stressful and may never happen. A critical piece of infrastructure, such as the two import terminals in Milford Haven to bring in liquefied natural gas (LNG) into Britain, would have to be out of action during a prolonged cold snap in which demand is very high. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-07T21:50:29.869Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-509e1e6a5d79b0a795b9",
+      "rootArticleId": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+      "title": "Restrictions on Starshield access in Ukraine",
+      "importance": "medium",
+      "summary": "Limited first‑stage impact expected. Headline reports of Starshield/Starlink restrictions in Ukraine raise geopolitical risk and could modestly boost risk premia and energy/defence price volatility, but with only headline-level evidence and no direct trade or fiscal link to Square Country, first‑stage effects are very small.",
+      "reasoning": "Evidence is from headlines only; no verified direct link between the Starshield access restrictions and Square Country's trade or fiscal position. Plausible short‑run channels: (1) higher geopolitical risk → small rise in global risk premia and energy/commodity price volatility → modest upward pressure on inflation and a tiny drag on real activity; (2) heightened uncertainty could slightly damp investment and trade sentiment. There is insufficient evidence to attribute any immediate, measurable change to government revenue or expenditure, or to bilateral trade flows. Larger or persistent effects would require escalation or supply disruptions, which are not evidenced in the headlines and therefore are not assumed.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": 0.05,
+        "unemployment": 0.02,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
+          "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T02:16:26.000Z",
+          "summary": "A war of words has erupted over who is responsible for the restrictions on Starshield access in Ukraine A war of words has erupted between the Trump administration, officials in Kyiv and Elon Musk over who is to blame for limiting Ukraine’s access to Space X’s military-grade version of Starlink. The restrictions to Starshield have rendered many of the drones used by Kyiv to strike behind the frontlines inoperable and hampered air defence systems that stop Russian attacks, according to Ukrainian officials. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-07T21:50:39.315Z",
+      "reviewedAt": null
     }
   ]
 }

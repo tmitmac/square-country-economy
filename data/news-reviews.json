@@ -719,6 +719,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-06T23:08:08.582Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "title": "You be the chancellor: play our budget game to see if you can balance the books",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "relevance": "low",
+      "reason": "Interactive preview of the UK autumn budget rather than new policy or data. Useful context for UK fiscal stance but not an immediate material development for Square Country.",
+      "eventName": "UK autumn budget preview",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
+      "title": "Imagine if, for once, Labour decided to tell the truth about immigration | Gaby Hinsliff",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
+      "relevance": "low",
+      "reason": "Opinion piece on UK immigration policy debate. Signals political discourse but contains no confirmed policy change likely to materially affect Square Country’s economy.",
+      "eventName": "UK immigration policy debate",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "title": "Is a job guarantee the solution to mass AI unemployment?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+      "relevance": "low",
+      "reason": "Analytical / opinion discussion of a possible job‑guarantee response to AI-driven unemployment. Speculative policy debate rather than an enacted measure with immediate macroeconomic effects.",
+      "eventName": "Debate over job‑guarantee for AI unemployment",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
+      "title": "A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
+      "relevance": "low",
+      "reason": "Company-level closure and redundancies at a game studio. Industry and regional employment effect; not a systemic development for Square Country’s economy.",
+      "eventName": "EA closure of BioWare studio",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+      "title": "Trump, Musk, Zelenskyy: who is blaming whom in the Ukraine-Starlink row?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row",
+      "relevance": "medium",
+      "reason": "Dispute over restrictions to SpaceX’s Starshield affecting Ukrainian operations. Geopolitical risk that may influence defence capabilities, market sentiment and regional stability — possible secondary effects on commodity and financial markets.",
+      "eventName": "Restrictions on Starshield access in Ukraine",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+      "title": "We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+      "relevance": "medium",
+      "reason": "UK approval to begin production at the Jackdaw gasfield is a concrete change in regional supply. Could modestly affect UK/European gas flows and prices and reduce import needs this winter.",
+      "eventName": "Approval of Jackdaw North Sea gasfield",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+      "relevance": "low",
+      "reason": "US has exempted a small set of Canadian agricultural products from tariffs. Bilateral, narrowly targeted change with limited direct impact on a trade‑exposed but geographically separate economy like Square Country.",
+      "eventName": "US grants tariff exemptions to some Canadian agricultural imports",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+      "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+      "relevance": "low",
+      "reason": "Heineken warning about potential falls in beer sales from GLP‑1 drugs is a sectoral/company sales risk. Not a macro shock for Square Country’s economy.",
+      "eventName": "Heineken warns GLP‑1 weight‑loss drugs may cut beer sales",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+      "title": "Retail sales in Great Britain fall as struggling households cut back",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+      "relevance": "medium",
+      "reason": "Stronger‑than‑expected drop in UK retail sales is a negative demand signal that could reduce UK import demand and affect investor sentiment ahead of the budget — potential spillovers for trade and markets.",
+      "eventName": "Great Britain retail sales unexpectedly fall in September",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+      "title": "Some of Europe’s highest energy costs expected in Britain this winter",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+      "relevance": "medium",
+      "reason": "Official forecasts that Britain may pay premium prices to secure energy imports point to tight regional gas/electricity markets. This can push up European energy prices and affect trade and inflation transmission to other economies.",
+      "eventName": "Forecast: UK faces high energy import costs this winter",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-07T21:50:14.525Z",
+      "status": "assessed"
     }
   ]
 }
