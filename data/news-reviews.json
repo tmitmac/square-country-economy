@@ -839,6 +839,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-07T21:50:14.525Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "relevance": "medium",
+      "reason": "Sharp fall in UK consumer confidence implies weaker UK domestic demand and fiscal pressure ahead of the budget; could reduce demand for Square Country exports and affect investor sentiment in markets linked to the UK.",
+      "eventName": "UK consumer confidence plunge Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
+      "title": "Youth mobility scheme may be delayed to ensure success of UK-EU summit",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
+      "relevance": "low",
+      "reason": "Possible delay to a UK‑EU youth mobility scheme is primarily a diplomatic/immigration negotiation; limited direct, near‑term macroeconomic impact on Square Country.",
+      "eventName": "Potential delay to UK‑EU youth mobility scheme",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "title": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "relevance": "low",
+      "reason": "Local environmental pollution and fisheries damage are material for affected communities and firms but represent a localized industry shock with limited transmission to Square Country’s economy based on the summary provided.",
+      "eventName": "Teesside mass crustacean die‑off and activist response",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
+      "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
+      "relevance": "low",
+      "reason": "US consumer preference for older used cars is a domestic behaviour trend with minimal direct implications for Square Country’s macro variables or international trade from the summary.",
+      "eventName": "US young buyers shift to older used cars",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+      "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+      "relevance": "medium",
+      "reason": "Onshoring of defence manufacturing and increased rearmament can shift procurement and industrial supply chains; may affect global demand for inputs and create opportunities/pressures for trading partners like Square Country.",
+      "eventName": "Rheinmetall opens UK tank‑barrel factory in Telford",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/22/middleton-revival-mill-towns-steve-coogan-manchester",
+      "title": "Coogan, Burnham and the fight to revive Middleton: could it be grist to the mill for struggling British towns?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/22/middleton-revival-mill-towns-steve-coogan-manchester",
+      "relevance": "low",
+      "reason": "Local town regeneration and proposals (e.g., higher online‑sales tax mentioned) are primarily domestic policy/placemaking matters with limited immediate international economic impact from the summary.",
+      "eventName": "Middleton revival and high‑street policy ideas",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/22/what-makes-a-good-town-five-key-ingredients",
+      "title": "What makes a good town? Here are five key ingredients",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/what-makes-a-good-town-five-key-ingredients",
+      "relevance": "low",
+      "reason": "General analysis of town revival policies is largely domestic and conceptual; it does not present a clear, immediate channel to materially affect Square Country’s economy based on the summary.",
+      "eventName": "Policy ideas for town revival and online‑sales tax",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign",
+      "title": "‘We’ve lost a basic sense of politeness’: UK readers reveal daily reality of public transport",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign",
+      "relevance": "low",
+      "reason": "A campaign against antisocial behaviour on UK public transport is a domestic social policy initiative without evident macroeconomic or trade implications for Square Country.",
+      "eventName": "UK public transport antisocial behaviour campaign",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "relevance": "medium",
+      "reason": "Large‑scale illegal land clearing for a datacentre raises regulatory, environmental and investment risk in the tech/infrastructure sector; could influence investor sentiment and regulatory scrutiny affecting multinational projects.",
+      "eventName": "Illegal clearcut for Google datacentre in Finland",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest",
+      "title": "The race to fix huge PHP code flaw at the heart of the internet - The Latest",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest",
+      "relevance": "high",
+      "reason": "A major PHP vulnerability causing websites to be taken offline and active global exploitation poses broad operational risk to online commerce, financial services and government services; this can materially disrupt trade and financial activity relevant to Square Country.",
+      "eventName": "Major PHP vulnerability causing global web outages and attacks",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-08T22:04:33.905Z",
+      "status": "assessed"
     }
   ]
 }

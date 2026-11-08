@@ -470,6 +470,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-07T21:50:39.315Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-53218c2a2d09ca23c208",
+      "rootArticleId": "https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest",
+      "title": "Major PHP vulnerability causing global web outages and attacks",
+      "importance": "high",
+      "summary": "A major PHP vulnerability that has triggered global web outages and large-scale attack attempts is likely to cause modest, short-run negative effects on Square Country’s economic activity through disruptions to online services, e‑commerce and digital exports, and a modest rise in immediate cybersecurity spending by government and firms. Effects are conservative first‑stage estimates and based on headline reports only.",
+      "reasoning": "Headline reporting indicates widespread scanning and exploitation attempts and outages for websites worldwide. For a large, trade‑exposed economy like Square Country this mainly affects: (1) online services, e‑commerce and digital platforms (reduced transactions and temporary service downtime); (2) business and government response costs (patching, incident response, increased IT/cybersecurity spending); and (3) some interruption to digital exports and cross‑border services. Impacts are expected to be concentrated and short‑lived (days–weeks) for many firms but could persist for some sectors while patches and mitigations are deployed. Given only headlines/RSS summaries are available, effects are kept conservative and limited to immediate first‑stage impacts. Where plausible, changes are scaled to the economy using the reported GDP and trade stocks; fiscal effects reflect lower near‑term tax receipts from reduced activity plus higher one‑off response spending.",
+      "effects": {
+        "gdpGrowth": -0.08,
+        "inflation": 0,
+        "unemployment": 0.02,
+        "governmentRevenue": -196754000,
+        "governmentExpenditure": 150000000,
+        "exports": -193500000,
+        "imports": -184189000
+      },
+      "sources": [
+        {
+          "title": "The race to fix huge PHP code flaw at the heart of the internet - The Latest",
+          "url": "https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-22T17:12:07.000Z",
+          "summary": "Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. Millions of attempts have already been made to attack websites since the issue with the programming language was revealed, cybersecurity companies have said. Michael Safi speaks to global technology reporter Aisha Down Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-08T22:04:51.925Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-d4ebacb98b3cf1f67a7c",
+      "rootArticleId": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+      "title": "Approval of Jackdaw North Sea gasfield",
+      "importance": "medium",
+      "summary": "Approval of the Jackdaw North Sea gasfield is likely to have only very small first-stage spillovers to Square Country: modestly positive for near-term GDP growth, very slight downward pressure on inflation, and a negligible reduction in unemployment. There is insufficient verified evidence to attribute any direct short-term effects on government revenue, expenditure, or bilateral trade flows, so fiscal and trade effects are set to zero for the first-stage assessment.",
+      "reasoning": "The Jackdaw approval is a UK-specific energy supply decision. By increasing prospective North Sea gas output and strengthening UK/European short-term energy supply, the most plausible transmission to Square Country is: slightly lower regional wholesale gas and energy prices -> small disinflationary pressure and a modest boost to real activity via lower energy costs for households and firms. These channels are indirect, likely small relative to Square Country's large economy, and dependent on actual production volumes and timing (which remain uncertain from headline reporting). There is no verified information on changes to UK fiscal policy, large cross-border contracts, or immediate shifts in Square Country's trade with the UK, so conservative first-stage estimates assume no measurable short-run changes to government revenue, expenditure, exports or imports. Given the evidence level (headlines/RSS only) and the instruction to avoid inventing details, magnitudes are kept small and conservative.",
+      "effects": {
+        "gdpGrowth": 0.02,
+        "inflation": -0.02,
+        "unemployment": -0.01,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/22/net-zero-transition-britain-jackdaw-gasfield-jobs-energy-security-labour",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-22T17:00:45.000Z",
+          "summary": "Protecting jobs and strengthening energy security in the short term does not mean wavering on Labour’s deep commitment to a cleaner, greener future Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval On Wednesday, the energy secretary, Miatta Fahnbulleh, gave the go-ahead for gas production to begin at the Jackdaw gasfield in the North Sea. This has been the subject of fierce debate for many years, with strong views on both sides. I want to explain what the decision means and how it fits with Britain’s climate commitments. At a time of acute global instability, it makes sense to responsibly use our resources here at home. Gas from this field will begin heating our homes and powering our businesses this winter. In the longer term, it will significantly strengthen our energy security by increasing domestic gas production by about 6% and support the UK’s energy supply for more than a decade. Wednesday’s decision will also protect hundreds of jobs in Scotland and add almost £3bn to the UK economy over the lifetime of the project. Andy Burnham is prime minister of the United Kingdom Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-08T22:05:03.891Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-560902be364ab2130ca5",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+      "title": "Great Britain retail sales unexpectedly fall in September",
+      "importance": "medium",
+      "summary": "Headline report: Great Britain retail sales fell unexpectedly in September (ONS: -0.4% m/m vs -0.1% expected). Given only headline-level evidence and Square Country’s large, diversified economy, the first-stage effects on Square Country are expected to be very small and mostly indirect via trade and sentiment. I estimate a tiny negative hit to GDP growth and exports, a marginal downward impulse to inflation, a minimal rise in unemployment, and a very small reduction in government revenue. Government expenditure is unchanged in the immediate first stage.",
+      "reasoning": "Evidence level is headlines/RSS only, so effects are assessed conservatively. The UK retail weakness is a modest negative demand shock limited to the UK; absent further information on trade shares or broader financial stress, direct effects on Square Country are expected to be small. The plausible transmission channels are: (1) weaker UK final demand → small reduction in Square Country goods exports to the UK; (2) slightly weaker external demand → marginal downward pressure on domestic output and inflation; (3) small revenue loss from lower activity. No credible immediate reason to change government spending. Given Square Country’s large, trade-exposed but diversified economy, I assume only a first-stage, limited impact. All estimates are conservative and reflect headline-level uncertainty.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": -0.01,
+        "unemployment": 0.01,
+        "governmentRevenue": -50000000,
+        "governmentExpenditure": 0,
+        "exports": -120000000,
+        "imports": -80000000
+      },
+      "sources": [
+        {
+          "title": "Retail sales in Great Britain fall as struggling households cut back",
+          "url": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T10:35:55.000Z",
+          "summary": "Latest negative economic update comes as John Healey prepares to announce budget next week Retail sales in Great Britain fell more steeply than expected last month, the latest negative economic update before the chancellor, John Healey, announces his budget next week. The Office for National Statistics (ONS) said the volume of goods sold fell 0.4% month on month in September, much steeper than economists’ consensus expectations of a 0.1% fall. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-08T22:05:19.187Z",
+      "reviewedAt": null
     }
   ]
 }
