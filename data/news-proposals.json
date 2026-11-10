@@ -557,6 +557,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-08T22:05:19.187Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-9067a67942837ba29918",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+      "title": "Forecast: UK faces high energy import costs this winter",
+      "importance": "medium",
+      "summary": "Headline UK forecasts of high energy import costs this winter are likely to put modest upward pressure on international energy prices. For Square Country the first-stage effects are small: a slight rise in import costs and headline inflation, a minimal drag on GDP growth and a very small rise in unemployment. Budgetary effects are uncertain from the headlines and are set to zero in this first-stage assessment.",
+      "reasoning": "Source material is headline-level only. Direct channel: UK paying higher prices for gas/electricity to secure imports can push regional wholesale energy prices up, raising Square Country's energy import bill and domestic energy costs. Indirect channels: higher energy costs squeeze household real incomes and firm margins, tempering consumption and investment (small negative for GDP) and producing limited pass-through to consumer price inflation. Trade channel: slightly weaker UK demand and higher production/transport costs imply a small reduction in exports to the UK. No concrete fiscal measures were reported; therefore direct government revenue/expenditure effects are treated as uncertain and set to zero. Immediate impacts: higher import bill and a small uptick in inflation. Delayed impacts: if high energy prices persist, pass-through to core inflation and GDP could grow larger than these first-stage effects—but those are not quantified here given headline-level evidence.",
+      "effects": {
+        "gdpGrowth": -0.03,
+        "inflation": 0.05,
+        "unemployment": 0.02,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": -200000000,
+        "imports": 750000000
+      },
+      "sources": [
+        {
+          "title": "Some of Europe’s highest energy costs expected in Britain this winter",
+          "url": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T05:00:03.000Z",
+          "summary": "Official forecasts show country will meet energy demand by paying high prices to secure imports Great Britain is expected to pay some of the highest energy costs in Europe this winter as its reliance on imports to ensure a steady supply is forecast to deepen. Energy system operators have said the country will have enough gas and electricity to meet demand over the coldest months – in part because of paying higher market prices than neighbouring markets to secure imports. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-10T01:31:09.129Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-2fa7a6dae53326519781",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+      "title": "UK consumer confidence plunge Oct 2026",
+      "importance": "medium",
+      "summary": "Headlines indicate a sharp fall in UK consumer confidence in Oct 2026. Given only headline-level evidence and high uncertainty about persistence or additional UK policy responses, estimated first‑stage spillovers to Square Country are small and conservative: a minor hit to exports and GDP growth, slight downward pressure on inflation, and a very small rise in unemployment. Delayed effects are set to zero due to insufficient verified evidence of a persistent shock or policy response.",
+      "reasoning": "Evidence level: headlines / RSS only — do not assume full articles or further details. The reported UK confidence plunge implies weaker near‑term UK consumer demand, which could reduce demand for Square Country exports to the UK and exert mild negative demand spillovers to the wider economy. Square Country is large and trade‑exposed, so even modest UK demand weakness can affect trade flows, but without verified sectoral exposure or trade‑share data for the UK, estimates are conservative. Financial/market contagion and fiscal responses in the UK are uncertain from headlines, so no additional indirect fiscal or financial channel effects are assumed. Effects presented are first‑stage (immediate) only; delayed or persistent impacts are set to zero given headline‑only evidence.",
+      "effects": {
+        "gdpGrowth": -0.03,
+        "inflation": -0.01,
+        "unemployment": 0.02,
+        "governmentRevenue": -50000000,
+        "governmentExpenditure": 10000000,
+        "exports": -300000000,
+        "imports": -150000000
+      },
+      "sources": [
+        {
+          "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
+          "url": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-23T07:25:57.000Z",
+          "summary": "Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget Consumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating economic damage from the war in the Middle East hits Britain. With less than a week before John Healey’s first budget, the latest barometer from the data company GfK indicated confidence plunged by 11 percentage points in October to -24 amid pressure on consumers from the rising cost of living. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-10T01:31:25.481Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-9c16703de995fe7c8e0d",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+      "title": "Rheinmetall opens UK tank‑barrel factory in Telford",
+      "importance": "medium",
+      "summary": "Rheinmetall has opened a tank‑barrel factory in Telford (UK). Based on headline‑level evidence only and no reported links to Square Country, this event is judged to have no meaningful first‑stage macroeconomic impact on Square Country. Immediate and near‑term effects on GDP growth, inflation, unemployment and fiscal accounts are expected to be negligible.",
+      "reasoning": "The opening is a bilateral/UK defence‑industrial development with no information indicating contracts, supply‑chain ties, or demand shifts affecting Square Country. At headline level there is no evidence Square Country supplies inputs to or competes directly with the new facility. The factory is likely small relative to Square Country's large, trade‑exposed economy (GDP ≈ SC$1.10 trillion), so any global defence‑supply ripple effects would be minor and hard to quantify from this report. Given the limited evidence and the instruction to avoid inventing links, conservative first‑stage estimates set changes to zero.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
+          "url": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-22T16:59:54.000Z",
+          "summary": "Defence secretary says Britain must manufacture at scale as Germany’s Rheinmetall opens Midlands factory For the last 20 years, Britain was unable to put a barrel on its tanks without buying from abroad. Relying on foreign allies seemed like a reasonable choice during years of relative security (for wealthy countries at least) after the end of the cold war. But Russia’s full-scale invasion of Ukraine in 2022 has changed the calculation – and prompted a scramble to rearm among European countries, including the UK. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-10T01:31:36.840Z",
+      "reviewedAt": null
     }
   ]
 }

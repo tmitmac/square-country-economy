@@ -959,6 +959,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-08T22:04:33.905Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
+      "title": "Rosebank row: will Labour block the oilfield? – podcast",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
+      "relevance": "low",
+      "reason": "UK licensing dispute over the Rosebank North Sea oilfield is a domestic supply/permit decision; likely limited direct effect on global energy markets and thus only small indirect impact on Square Country’s economy.",
+      "eventName": "UK Rosebank oilfield licensing debate",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
+      "title": "Why we’re still so obsessed with Elizabeth Holmes - video",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
+      "relevance": "none",
+      "reason": "Cultural/biographical documentary coverage with no apparent macroeconomic, trade or financial implications in the summary provided.",
+      "eventName": "Elizabeth Holmes documentary release",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/news/video/2026/oct/21/how-bad-is-jackdaw-gasfield-approval-for-the-climate-the-latest",
+      "title": "How bad is Jackdaw gasfield approval for the climate? – The Latest",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/news/video/2026/oct/21/how-bad-is-jackdaw-gasfield-approval-for-the-climate-the-latest",
+      "relevance": "low",
+      "reason": "Coverage of the UK’s Jackdaw gasfield approval and domestic climate debate is mainly UK‑centric; any effect on global gas prices is likely to be limited and indirect for Square Country.",
+      "eventName": "UK Jackdaw gasfield approval",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/gallery/2026/oct/23/five-homes-in-england-for-sport-lovers-in-pictures",
+      "title": "Five homes in England to get sport lovers’ hearts racing – in pictures",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/gallery/2026/oct/23/five-homes-in-england-for-sport-lovers-in-pictures",
+      "relevance": "none",
+      "reason": "Real‑estate photo feature; no material economic or trade implications in the summary.",
+      "eventName": "UK sports‑themed homes property gallery",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/21/a-plan-to-ensure-energy-is-affordable-for-all",
+      "title": "A plan to ensure energy is affordable for all | Letters",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/21/a-plan-to-ensure-energy-is-affordable-for-all",
+      "relevance": "low",
+      "reason": "Letter debating a UK social tariff for energy is a domestic policy discussion; could inform wider policy thinking but has no immediate, direct impact on Square Country’s macro outlook from the provided summary.",
+      "eventName": "UK debate on targeted social energy tariff",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/21/parents-and-teachers-in-england-share-your-views-on-two-week-half-terms",
+      "title": "Parents and teachers in England: share your views on two-week half terms",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/21/parents-and-teachers-in-england-share-your-views-on-two-week-half-terms",
+      "relevance": "none",
+      "reason": "Call for views on UK school holiday length is a domestic education topic without economic implications indicated in the summary.",
+      "eventName": "UK two‑week half‑term consultation",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
+      "title": "‘I can charge my car for £6’: could new rules cut costs for EV drivers?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
+      "relevance": "low",
+      "reason": "Rule changes easing EV charging access in England affect consumer costs and infrastructure locally; limited direct macroeconomic or trade impact on Square Country from the summary.",
+      "eventName": "England cross‑pavement gully EV charging rule change",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "relevance": "medium",
+      "reason": "US initial jobless claims near historic lows signal a tight US labour market; this can influence US monetary policy expectations and global financial conditions, which matter to a trade‑exposed economy like Square Country.",
+      "eventName": "US initial jobless claims near 1960s lows",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "relevance": "low",
+      "reason": "US presidential economic approval polling is political news; only indirect and uncertain implications for economic policy or trade from the summary alone.",
+      "eventName": "US presidential economic approval rating slump (poll)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "relevance": "medium",
+      "reason": "A hotter‑than‑expected UK CPI print (3.5%) could raise Bank of England rate‑hike odds and affect global interest‑rate expectations and financial flows relevant to Square Country.",
+      "eventName": "UK CPI surprise to 3.5% in September",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T01:30:46.794Z",
+      "status": "assessed"
     }
   ]
 }

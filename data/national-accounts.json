@@ -1,31 +1,31 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "currency": "SC$",
   "gdp": {
-    "consumption": 643481297622,
-    "investment": 220801560035,
-    "governmentPurchases": 221345702104,
-    "exports": 241910304209,
-    "imports": 230270080189,
-    "nominalGDP": 1097268783781,
-    "realGDP": 1092664238287.5885,
-    "priceIndex": 100.42140534411811,
-    "estimatedRealGrowth": 7.063734848854697
+    "consumption": 643569997511,
+    "investment": 220855505850,
+    "governmentPurchases": 221498857672,
+    "exports": 241944984411,
+    "imports": 230304333456,
+    "nominalGDP": 1097565011988,
+    "realGDP": 1092870643183.8352,
+    "priceIndex": 100.42954478038578,
+    "estimatedRealGrowth": 7.070459239088733
   },
   "fiscal": {
-    "revenue": 246105491845,
-    "expenditure": 281644068321,
-    "balance": -35538576476,
-    "debt": 386743079980,
-    "debtToGDPPercent": 35.24597488751568
+    "revenue": 246130143199,
+    "expenditure": 281838946092,
+    "balance": -35708802893,
+    "debt": 386840912317,
+    "debtToGDPPercent": 35.24537572642936
   },
   "trade": {
-    "exports": 241910304209,
-    "imports": 230270080189,
-    "balance": 11640224020
+    "exports": 241944984411,
+    "imports": 230304333456,
+    "balance": 11640650955
   },
-  "population": 12717010,
-  "nominalGDPPerCapita": 86283.55122634959,
+  "population": 12717253,
+  "nominalGDPPerCapita": 86305.1959403497,
   "checks": {
     "gdpIdentity": true,
     "realNominalGDP": true,
