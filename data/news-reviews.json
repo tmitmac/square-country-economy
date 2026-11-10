@@ -1079,6 +1079,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-10T01:30:46.794Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+      "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+      "relevance": "medium",
+      "reason": "Shifts in buyer priorities (tech vs price) in major markets can alter global auto demand, pricing pressure and supply‑chain decisions that affect trade flows and manufacturers in export‑exposed economies.",
+      "eventName": "Global carbuyer tech vs price shift Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "relevance": "medium",
+      "reason": "Deterioration in US housing combined with potential additional Fed hikes could tighten global financial conditions and affect capital flows and risk premia relevant to a trade‑exposed economy.",
+      "eventName": "US housing deterioration amid potential Fed hikes",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+      "relevance": "low",
+      "reason": "Discussion of differential employment impacts of AI is important for labour policy but is a structural, sectoral issue rather than an immediate macro shock to external conditions.",
+      "eventName": "AI risk to women's employment",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+      "relevance": "low",
+      "reason": "Comments on India’s market liquidity and near‑term risks are country‑specific; materiality for Square Country is limited unless direct financial or trade linkages are strong.",
+      "eventName": "India FM flags liquidity and risks for 2027",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "relevance": "high",
+      "reason": "A near‑$2 trillion US fiscal deficit is a major development for global borrowing needs, sovereign supply and benchmark yields that influence global financing costs and exchange rates.",
+      "eventName": "US FY2026 $2T deficit",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "relevance": "medium",
+      "reason": "Uncertainty around the Fed’s October decision and unconventional communications from a Fed official could increase volatility in global rates and risk pricing.",
+      "eventName": "Fed October rate decision uncertainty (Warsh commentary)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "title": "Economists: Hot PPI shows Fed's work is not done",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "relevance": "high",
+      "reason": "Analysts tying a hot PPI print to renewed Fed tightening is directly relevant to global inflation expectations and the near‑term path of interest rates.",
+      "eventName": "Sept PPI jump and Fed hike risk",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+      "relevance": "high",
+      "reason": "A public exchange about US debt sustainability and forecasting reinforces market concerns about fiscal trajectories and yields, with spillovers to global borrowing costs.",
+      "eventName": "US fiscal stress and debt/yield concerns",
+      "duplicateOf": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+      "relevance": "high",
+      "reason": "Producer price data showing a large annual increase underpins inflation pressure that could prompt further Fed action, affecting global rates and tradeable goods prices.",
+      "eventName": "Sept PPI jump and Fed hike risk",
+      "duplicateOf": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "relevance": "high",
+      "reason": "Analysis linking large deficits to elevated Treasury yields highlights a structural challenge for global financing conditions and borrowing costs that can affect capital flows to small open economies.",
+      "eventName": "US fiscal stress and debt/yield concerns",
+      "duplicateOf": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "reviewedAt": "2026-11-10T23:21:34.840Z",
+      "status": "assessed"
     }
   ]
 }

@@ -644,6 +644,114 @@
       "status": "pending_review",
       "createdAt": "2026-11-10T01:31:36.840Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-7f8dfcf8c9f53586369b",
+      "rootArticleId": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "title": "US FY2026 $2T deficit",
+      "importance": "high",
+      "summary": "Headline reports that the US ran an almost $2 trillion FY2026 deficit and that US yields are elevated likely puts modest upward pressure on global borrowing costs. For a large, trade‑exposed Square Country the first‑stage effects are small but non‑zero: slightly weaker GDP growth, marginally lower inflation (via tighter global financial conditions), a small rise in unemployment, higher government interest spending, modest falls in exports and imports, and a small revenue hit from softer activity.",
+      "reasoning": "Channel logic (conservative, headline‑only evidence): 1) Larger US deficits financed at higher yields push up global interest rates and risk premia, raising Square Country borrowing costs and interest payments on public and private debt. 2) Tighter financial conditions mildly slow domestic activity, lowering near‑term GDP growth and tax receipts and raising unemployment a little. 3) A stronger USD / higher global rates can weigh on demand for Square exports to the US and raise import financing costs, reducing trade volumes modestly. 4) Effects are first‑stage and small relative to Square Country's large economy; we avoid assuming any US policy changes beyond the reported deficit and higher yields. Numbers are conservative and reflect short‑to‑medium‑term impacts given the evidence level.",
+      "effects": {
+        "gdpGrowth": -0.08,
+        "inflation": -0.05,
+        "unemployment": 0.03,
+        "governmentRevenue": -300000000,
+        "governmentExpenditure": 900000000,
+        "exports": -600000000,
+        "imports": -400000000
+      },
+      "sources": [
+        {
+          "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+          "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-16T22:34:29.000Z",
+          "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year."
+        },
+        {
+          "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+          "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-15T13:42:32.000Z",
+          "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook."
+        },
+        {
+          "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+          "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-16T22:33:05.000Z",
+          "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-10T23:21:50.789Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-bc5f52fd881b50f7b470",
+      "rootArticleId": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+      "title": "Sept PPI jump and Fed hike risk",
+      "importance": "high",
+      "summary": "Headline US PPI surprise raises odds of further Fed tightening. Conservatively, this generates a small near-term tightening of global financial conditions that slightly slows domestic activity, marginally raises imported inflation risks, and has minor trade and fiscal effects for Square Country.",
+      "reasoning": "Evidence level: headlines/RSS only. The jump in US producer prices and market commentary about an increased probability of another Fed rate hike imply tighter global financial conditions and a firmer US dollar risk‑premium. For a large, trade‑exposed economy like Square Country, first‑stage channels: (1) financial conditions and higher external rates -> tighter credit, modest reduction in near‑term demand and investment (downward pressure on GDP growth); (2) firmer external/inflationary impulses -> small upward pressure on import prices and headline inflation; (3) softer activity -> slight rise in unemployment and lower tax receipts; (4) higher global yields -> modestly higher sovereign interest costs; (5) exchange rate/competitiveness channels and weaker external demand -> small adverse effect on net exports. Estimates are conservative and refer to near‑term first‑round impacts; if the Fed actually hikes further or global conditions deteriorate, second‑round effects could be larger. Given the limited article detail, I avoid attributing larger fiscal policy responses or big shifts in trade flows.",
+      "effects": {
+        "gdpGrowth": -0.1,
+        "inflation": 0.05,
+        "unemployment": 0.05,
+        "governmentRevenue": -500000000,
+        "governmentExpenditure": 200000000,
+        "exports": -200000000,
+        "imports": 200000000
+      },
+      "sources": [
+        {
+          "title": "Economists: Hot PPI shows Fed's work is not done",
+          "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-15T15:37:59.000Z",
+          "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns"
+        },
+        {
+          "title": "Wholesale prices jumped 6.3% annually in September, biggest gain since 2022",
+          "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-15T16:15:44.000Z",
+          "summary": "September producer prices were expected to increase 0.6% month over month and 5.5% annually, according to the consensus estimate by Dow Jones."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-10T23:22:08.319Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-0cce61e47c3830dc417f",
+      "rootArticleId": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "title": "Illegal clearcut for Google datacentre in Finland",
+      "importance": "medium",
+      "summary": "Headlines report an illegal large-scale clearcut by Google for a datacentre in Finland. The incident appears localized to Finland and, based on headline-level evidence only, is unlikely to produce a measurable first-stage macroeconomic impact on Square Country. No credible, immediate transmission channels to Square Country’s aggregate demand, prices or labour market are identifiable from the available summaries.",
+      "reasoning": "The reported event is a domestic environmental and regulatory incident in Finland involving a single multinational’s site activity. With only headlines/RSS summaries and no verified broader disruption (e.g. to multinational operations, supply chains, sanctions, or major commodity markets), there is insufficient evidence of a direct economic shock to Square Country. Potential channels (reputational effects for the firm, future regulatory tightening in Europe, or localized environmental remediation costs in Finland) are speculative at this stage and lack confirmed links to Square Country’s trade, investment or fiscal positions. Following the instruction to use zero when evidence is insufficient and to provide conservative first-stage effects, all immediate macro and fiscal/trade impacts on Square Country are set to zero. If later reporting shows material spillovers (e.g. fines, changes in investment flows, or supply-chain disruptions involving Square Country firms), estimates should be updated.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+          "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-22T11:22:23.000Z",
+          "summary": "Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest push Behind a wire fence lies a vast gaping wound of earth. Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland. Now they are all gone. After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches. Residents say that brown water flowing off the site is going into a stream that feeds the Oulujoki River. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-10T23:22:15.428Z",
+      "reviewedAt": null
     }
   ]
 }
