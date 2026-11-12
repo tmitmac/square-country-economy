@@ -752,6 +752,100 @@
       "status": "pending_review",
       "createdAt": "2026-11-10T23:22:15.428Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-30dad3fe4557b0352726",
+      "rootArticleId": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "title": "US inflation expectations becoming entrenched",
+      "importance": "high",
+      "summary": "Headline reports that U.S. inflation expectations may be becoming entrenched could, if confirmed, lead to tighter U.S. monetary policy and modest spillovers to global financial conditions. For Square Country the most likely near-term effects are small: slightly slower GDP growth, a small rise in domestic inflation via imported inflation and tighter financial conditions, a small rise in unemployment, modestly lower exports and imports as external demand softens, slightly lower government revenue and a small near-term rise in social spending. Effects are conservative given the limited (headline-only) evidence.",
+      "reasoning": "Channels and judgement: Headlines about entrenched U.S. inflation raise the risk the Federal Reserve keeps policy tighter for longer (or hikes further). That would push global interest rates and risk premia up, tightening financing conditions and slowing U.S. and global demand — directly reducing Square Country’s exports and GDP growth. Higher U.S. and global inflation expectations can pass through to import prices (commodities and tradables), producing a small upward effect on domestic inflation. Slower activity implies a small rise in unemployment and lower tax receipts; some automatic social spending (unemployment benefits, targeted support) may increase expenditure modestly. Because the prompt is headline-level only, I adopt conservative, small first-stage effects and do not assume major policy responses or large second-round dynamics. Immediate impact is mainly financial-market driven and small; larger effects would require persistent confirmation of entrenched U.S. inflation or concrete Fed actions.",
+      "effects": {
+        "gdpGrowth": -0.1,
+        "inflation": 0.1,
+        "unemployment": 0.1,
+        "governmentRevenue": -700000000,
+        "governmentExpenditure": 200000000,
+        "exports": -1200000000,
+        "imports": -900000000
+      },
+      "sources": [
+        {
+          "title": "How high inflation became a 'fact of life' in the U.S.",
+          "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-14T17:20:23.000Z",
+          "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-12T00:44:27.927Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-40282fcd37b011c20029",
+      "rootArticleId": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "title": "US CPI 3.7% yoy in September (gas spike)",
+      "importance": "high",
+      "summary": "US headline CPI came in at 3.7% yoy in September, driven by a gasoline price spike. On first-stage, conservative assessment, this is likely to put modest upward pressure on Square Country inflation and import costs (energy bill), shave a small amount off near-term GDP growth, and slightly raise unemployment and nominal government receipts/expenditure. Effects are small and concentrated in the short run.",
+      "reasoning": "The US CPI increase appears driven by a gas price spike — a globally traded commodity shock that can transmit quickly via energy prices and trade. As a large, trade-exposed economy, Square Country would see a modest rise in domestic inflation through higher fuel and transport costs, and a larger import bill if it is a net energy importer. Higher headline inflation also raises nominal tax receipts marginally (higher VAT/GST and income/ corporate nominal bases), and can mechanically increase some indexed expenditures. Real GDP growth faces a small near-term drag from reduced real household purchasing power and higher production costs; unemployment may edge up slightly with weaker demand. Given the evidence is headlines-only and the shock appears partly temporary (gas spike), estimates are conservative and limited to first-stage impacts; no assumptions about policy responses or persistent global monetary tightening are applied.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": 0.1,
+        "unemployment": 0.03,
+        "governmentRevenue": 246154768,
+        "governmentExpenditure": 200000000,
+        "exports": 300000000,
+        "imports": 900000000
+      },
+      "sources": [
+        {
+          "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+          "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-14T13:53:28.000Z",
+          "summary": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast."
+        },
+        {
+          "title": "The latest inflation data is expected to show price increases are accelerating",
+          "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-13T18:05:57.000Z",
+          "summary": "Economists expect the consumer price index for September to rise 0.6% on the month and 3.6% year over year."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-12T00:44:42.128Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-3368c50291daa1b51c0c",
+      "rootArticleId": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "title": "IMF warning of disorderly bond yield spike",
+      "importance": "high",
+      "summary": "Headline IMF warning raises probability of a disorderly global bond-yield spike. With only headline-level evidence, immediate effects on Square Country are likely small but negative via tighter financial conditions: slightly lower GDP growth, a small drop in inflationary pressure, a small rise in unemployment, modest hit to revenues from weaker activity, and modest additional fiscal interest costs. Trade volumes may fall a little as demand and financing conditions tighten.",
+      "reasoning": "The IMF headline increases perceived global risk in government bond markets and could push risk premia and sovereign yields modestly higher. For Square Country (a large, trade-exposed economy) the main channels are: 1) higher yields → higher borrowing costs and tighter financial conditions → reduced investment and consumption → small downward effect on GDP growth and upward on unemployment; 2) tighter conditions and a small growth hit → slightly lower domestic inflation in the near term; 3) higher yields raise government debt service costs given the stock of public debt; 4) weaker domestic demand and greater uncertainty reduce exports and imports modestly. Given only headline-level evidence, I use a conservative scenario: assume a small short-term increase in sovereign yields of around 0.10 percentage points (0.1 ppt) as a plausible immediate market reaction, and limited knock-on effects. I do not assume any new fiscal measures or large persistent shocks because the article is unverified beyond the headline.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": -0.03,
+        "unemployment": 0.05,
+        "governmentRevenue": -500000000,
+        "governmentExpenditure": 450000000,
+        "exports": -300000000,
+        "imports": -200000000
+      },
+      "sources": [
+        {
+          "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+          "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-13T04:54:07.000Z",
+          "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-12T00:45:01.605Z",
+      "reviewedAt": null
     }
   ]
 }

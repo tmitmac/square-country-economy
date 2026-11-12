@@ -1199,6 +1199,126 @@
       "duplicateOf": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
       "reviewedAt": "2026-11-10T23:21:34.840Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "relevance": "medium",
+      "reason": "China signalling continued rare‑earth flows to the EU affects global tech and input supply; could influence input costs and supply chains relevant to a trade‑exposed economy like Square Country.",
+      "eventName": "China commits rare‑earth exports to EU despite US deal lapse",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "title": "UK economy grew 0.1% in August, beating expectations",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+      "relevance": "low",
+      "reason": "A 0.1% monthly UK growth surprise is principally a domestic datapoint; limited direct, material impact on Square Country unless the UK is a major trading partner or financial link.",
+      "eventName": "UK GDP growth 0.1% in August 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "title": "How high inflation became a 'fact of life' in the U.S.",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/14/high-inflation-fed-expectations.html",
+      "relevance": "high",
+      "reason": "Analysis that US inflation expectations may be becoming entrenched is material for global monetary conditions and could influence central‑bank policy, capital flows and borrowing costs for Square Country.",
+      "eventName": "US inflation expectations becoming entrenched",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "relevance": "high",
+      "reason": "A reported 3.7% annual CPI (with a gas price spike) is a major US inflation datapoint that can affect Fed decisions, global rates and energy/commodity prices relevant to Square Country.",
+      "eventName": "US CPI 3.7% yoy in September (gas spike)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "relevance": "medium",
+      "reason": "A severe El Niño scenario pushing Philippine inflation highlights regional supply and energy/shock risks that can affect commodity prices and trade flows important to Square Country.",
+      "eventName": "Severe El Niño raises Philippines inflation risk",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "title": "The latest inflation data is expected to show price increases are accelerating",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+      "relevance": "high",
+      "reason": "Preview of the September CPI release refers to the same US inflation datapoint; duplicate reporting of the CPI release above.",
+      "eventName": "US CPI 3.7% yoy in September (gas spike)",
+      "duplicateOf": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "title": "In charts: How one of the world's biggest economies got trapped by debt",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "relevance": "medium",
+      "reason": "Rising deficits and debt pressures in a large euro‑area economy could influence European bond markets and risk premia, with potential spillovers to global financing conditions.",
+      "eventName": "France budget and rising debt pressures for 2027",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "relevance": "high",
+      "reason": "An IMF warning that bond yields could spike disorderly is a global financial‑stability signal; such a shock would have material implications for borrowing costs and capital flows to Square Country.",
+      "eventName": "IMF warning of disorderly bond yield spike",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "relevance": "high",
+      "reason": "The IMF raising 2026 global growth forecasts while warning of energy and fiscal constraints is a major multilateral assessment that can affect global demand and commodity markets relevant to Square Country.",
+      "eventName": "IMF raises 2026 global growth forecast to 3.1%, flags limits to resilience",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+      "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+      "relevance": "medium",
+      "reason": "India's retail inflation at 5.54% raises prospects of further policy tightening in a large economy, with potential effects on regional demand and commodity prices that matter to Square Country.",
+      "eventName": "India retail inflation rises to 5.54% in September",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-12T00:44:08.141Z",
+      "status": "assessed"
     }
   ]
 }
