@@ -846,6 +846,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-12T00:45:01.605Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-ac02d1f764fb7f216b72",
+      "rootArticleId": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "title": "IMF raises 2026 global growth forecast to 3.1%, flags limits to resilience",
+      "importance": "high",
+      "summary": "IMF's modest upward revision to 2026 global growth and warning about constrained resilience are likely to produce small, positive first‑stage effects on Square Country: a slight lift to GDP growth and exports, a very small upward pressure on inflation, a marginal fall in unemployment, and a small increase in government revenue. No clear evidence of an immediate change in government expenditure.",
+      "reasoning": "The IMF raised its 2026 global growth forecast to 3.1% driven by sectors (e.g., AI) that boost demand in open economies. Square Country is large and trade‑exposed, so a small positive external demand shock is plausible. Given the evidence level (headline only) and the IMF's caution about limits to resilience (energy/fiscal risks), I apply conservative first‑stage magnitudes: a modest positive growth impulse, minor inflationary pressure from stronger external demand and possible energy constraints, and a small labour market improvement. Revenue should rise modestly with higher nominal activity; there is no verified information on new fiscal spending so expenditure is set to zero. Exports and imports move up with global and domestic demand; increases are small and conservative. Effects are presented as immediate first‑stage changes and do not attempt to project second‑round or policy responses.",
+      "effects": {
+        "gdpGrowth": 0.1,
+        "inflation": 0.05,
+        "unemployment": -0.05,
+        "governmentRevenue": 250000000,
+        "governmentExpenditure": 0,
+        "exports": 1210071329,
+        "imports": 921491104
+      },
+      "sources": [
+        {
+          "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+          "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-15T06:35:31.000Z",
+          "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-12T23:39:49.198Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-56400d52be12d0053f15",
+      "rootArticleId": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "title": "US initial jobless claims near 1960s lows",
+      "importance": "medium",
+      "summary": "US initial jobless claims near 1960s lows point to a very tight US labour market. For trade-exposed Square Country the most likely first‑stage effects are a small lift to external demand (higher exports), a modest positive GDP impulse, slight downward pressure on unemployment, and negligible upward pressure on inflation. Fiscal effects are small and positive (higher revenue), with a minor fall in unemployment-related expenditure.",
+      "reasoning": "A persistently tight US labour market supports US consumption and imports. As a large, trade‑exposed economy, Square Country should see a conservative, short‑run rise in exports to the US and related activity. I assume a modest incremental increase in exports (SC$ 400m) as a conservative first‑stage effect given headline‑level evidence only. That export rise directly raises GDP by roughly the same amount (≈SC$400m), which equals about 0.036 percentage points of Square Country's GDP. A small fall in unemployment follows from higher demand for goods/services (assumed −0.03 p.p.). Inflationary impact is minimal in the first stage (assumed +0.01 p.p.) because the shock is demand‑side and relatively small for a large economy; any larger monetary policy reaction abroad is uncertain from headline evidence and not assumed. Government revenue should increase roughly in line with the GDP/export gain (conservatively +SC$90m). Government expenditure likely falls slightly because of lower unemployment benefit payments (conservatively −SC$10m). Higher activity implies some import content; assume a modest import rise (SC$80m). All figures are conservative, first‑stage estimates based on headline evidence only and do not assume additional policy changes or second‑round effects.",
+      "effects": {
+        "gdpGrowth": 0.036,
+        "inflation": 0.01,
+        "unemployment": -0.03,
+        "governmentRevenue": 90000000,
+        "governmentExpenditure": -10000000,
+        "exports": 400000000,
+        "imports": 80000000
+      },
+      "sources": [
+        {
+          "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+          "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-22T16:40:09.000Z",
+          "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-12T23:40:09.864Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-647a53aaaa913b9ac01c",
+      "rootArticleId": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "title": "UK CPI surprise to 3.5% in September",
+      "importance": "medium",
+      "summary": "Headline UK CPI surprise to 3.5% (motor fuels-driven) is unlikely to produce large immediate first‑round effects on Square Country. At the margin it raises global rate/inflation expectations and could cause very small near‑term impacts via financial channels and imported inflation. I estimate only tiny, conservative first‑stage effects.",
+      "reasoning": "Evidence is limited to headlines and cites a UK motor‑fuel contribution. There is no verified signalling of major BoE action or global commodity shocks in the source material. Given Square Country's large, trade‑exposed economy, some transmission is plausible (financial market repricing, small imported inflation pass‑through and modest trade volatility), but the headline event alone provides insufficient basis for meaningful non‑zero fiscal shocks or material trade dislocations. Estimates are conservative and reflect limited, immediate pass‑through rather than durable shocks or fiscal responses.",
+      "effects": {
+        "gdpGrowth": -0.01,
+        "inflation": 0.02,
+        "unemployment": 0.01,
+        "governmentRevenue": -150000000,
+        "governmentExpenditure": 0,
+        "exports": -100000000,
+        "imports": -120000000
+      },
+      "sources": [
+        {
+          "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+          "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-21T07:50:10.000Z",
+          "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-12T23:40:30.182Z",
+      "reviewedAt": null
     }
   ]
 }
