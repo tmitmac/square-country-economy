@@ -933,6 +933,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-12T23:40:30.182Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-21dbdcd2c30cf824d85b",
+      "rootArticleId": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+      "title": "Global carbuyer tech vs price shift Oct 2026",
+      "importance": "medium",
+      "summary": "Headline evidence that global car buyers are pushing for lower prices in the US/EU and more tech in China suggests modest, first‑stage effects on Square Country: a small drag on near‑term GDP growth, a tiny downward impulse to inflation (through lower car/durable prices), a marginal rise in unemployment from pressure on domestic auto manufacturing, and small trade and fiscal impacts reflecting lower auto sector receipts and modest short‑run support costs.",
+      "reasoning": "Bain headlines indicate simultaneous price pressure in developed markets and stronger tech preferences in China. For Square Country (a large, trade‑exposed economy) this implies two offsetting channels: (1) price competition from major export markets tends to compress global auto prices and OEM margins, reducing near‑term revenues, exports and investment from the auto sector; (2) stronger tech demand (especially for EV/connected components) could raise demand for higher‑value parts, partly offsetting losses but likely with longer lead times. Given only headline evidence and no country‑specific auto sector share data, I use conservative, small first‑stage effects focused on the immediate quarter(s): modest negative GDP impact from weaker auto sales/margins; a slight reduction in measured inflation via lower vehicle/durable prices; a minor rise in unemployment from manufacturing and related services; small declines in exports and imports reflecting lower vehicle shipments and component trade; small fiscal revenue losses from reduced corporate/VAT receipts and slightly higher near‑term social spending. Larger or longer‑term effects (retooling, capex shifts to tech, supply‑chain reallocation) are plausible but not estimated here due to insufficient verified detail.",
+      "effects": {
+        "gdpGrowth": -0.03,
+        "inflation": -0.03,
+        "unemployment": 0.02,
+        "governmentRevenue": -100000000,
+        "governmentExpenditure": 50000000,
+        "exports": -500000000,
+        "imports": -300000000
+      },
+      "sources": [
+        {
+          "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+          "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-21T01:01:01.000Z",
+          "summary": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-13T23:33:32.515Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-b4619394bd673048b2bd",
+      "rootArticleId": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "title": "US housing deterioration amid potential Fed hikes",
+      "importance": "medium",
+      "summary": "Headline reports of US housing deterioration alongside the prospect of further Fed hikes pose modest downside risks to Square Country through weaker external demand and higher global interest rates. Given the limited evidence (headlines only), first‑stage effects are small and conservative: a slight drag on growth, a small disinflationary impulse, a minor rise in unemployment, modest falls in exports and imports, and small fiscal impacts.",
+      "reasoning": "Channels considered: (1) Demand channel — weaker US housing and related activity tends to reduce US imports of goods and services, lowering Square Country exports. (2) Financial/interest rate channel — the prospect of further Fed hikes can push up global interest rates, raising borrowing costs, tightening domestic demand and exerting small downward pressure on inflation. (3) Spillovers to labour and fiscal positions — lower activity raises unemployment slightly and reduces tax revenue, with a small increase in cyclical spending (unemployment benefits etc.). Evidence level is headlines-only, so estimates are conservative and limited to first‑round effects; larger or more persistent impacts would require fuller confirmation of US developments and transmission magnitudes.",
+      "effects": {
+        "gdpGrowth": -0.1,
+        "inflation": -0.05,
+        "unemployment": 0.05,
+        "governmentRevenue": -1200000000,
+        "governmentExpenditure": 300000000,
+        "exports": -1100000000,
+        "imports": -600000000
+      },
+      "sources": [
+        {
+          "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-21T11:20:58.000Z",
+          "summary": "Housing data deteriorated further in September, according to separate reports Tuesday."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-13T23:33:46.694Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-3bbae259c523355189ef",
+      "rootArticleId": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "title": "Fed October rate decision uncertainty (Warsh commentary)",
+      "importance": "medium",
+      "summary": "Headline-level commentary raising uncertainty about the Fed’s October decision. Given only headline/RSS evidence and no confirmed policy change, expected first-stage macro impacts on Square Country are negligible in the near term.",
+      "reasoning": "The available information is a single commentary/headline suggesting possible uncertainty about whether the Fed will pause in October. There is no verified change in US monetary policy or clear market reaction documented in the evidence provided. While Fed communication can influence global financial conditions (risk premia, FX, capital flows) these effects require either a confirmed policy shift or observable market moves to produce measurable first-stage effects on a large, trade-exposed economy like Square Country. Under the guidance to use zero when effects are uncertain and to be conservative, I assume no measurable immediate impact. Continued monitoring of market volatility, USD moves, and any confirmed Fed action is recommended.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+          "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-16T16:27:31.000Z",
+          "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-13T23:33:53.742Z",
+      "reviewedAt": null
     }
   ]
 }

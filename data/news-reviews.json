@@ -1319,6 +1319,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-12T00:44:08.141Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+      "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+      "relevance": "low",
+      "reason": "Prize recognizes research on models used by central banks; notable academically but no immediate material effect on Square Country’s economy.",
+      "eventName": "Nobel economics prize to Hall & Woodford Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "relevance": "medium",
+      "reason": "IMF warning that AI could severely disrupt global labour markets and World Bank call for employment support could influence global growth and policy responses relevant to trade‑exposed economies.",
+      "eventName": "IMF warns of AI 'tsunami' for jobs; World Bank urges crisis‑era support",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "relevance": "medium",
+      "reason": "Worsening US household ability to meet debt payments could weigh on US consumption and financial stability, with potential spillovers to global demand and markets.",
+      "eventName": "US household debt servicing deterioration Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "relevance": "low",
+      "reason": "Appointment of a controversial adviser to the US Treasury may signal policy preferences, but the personnel change alone is unlikely to have direct, immediate material impact on Square Country.",
+      "eventName": "US Treasury hires Judy Shelton as adviser",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "relevance": "medium",
+      "reason": "NY Fed finding that tariffs added materially to inflation in many consumer categories is relevant for global trade policy, inflation dynamics and import prices for open economies.",
+      "eventName": "NY Fed: tariffs raised inflation in many consumer goods",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "relevance": "medium",
+      "reason": "A rise in US one‑year consumer inflation expectations could affect Fed policy expectations and global interest‑rate and inflation outlooks relevant to Square Country.",
+      "eventName": "US one‑year inflation expectations rise to 3.9% (Fed survey)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+      "title": "ICE came to town and left behind weakened economies",
+      "source": "CNBC Economy",
+      "url": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+      "relevance": "low",
+      "reason": "Research linking ICE enforcement surges to lasting local economic declines is a US domestic labour/enforcement issue with limited direct implications for Square Country’s macroeconomy.",
+      "eventName": "ICE enforcement linked to weakened local US economies",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+      "title": "Rising demand from families needing Christmas help",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Rising demand for Christmas help is a UK social/domestic welfare development; unlikely to materially affect Square Country’s economy.",
+      "eventName": "UK Christmas charity demand Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Charity expects demand for Christmas present campaign",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Charity expecting higher demand for a Christmas present campaign covers the same UK domestic social demand theme as the other BBC piece.",
+      "eventName": "UK Christmas charity demand Oct 2026",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
+      "title": "Most levelling up projects still unfinished years after funding allocated",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
+      "relevance": "low",
+      "reason": "Widespread unfinished UK regional projects point to domestic fiscal execution problems; primarily a UK political/fiscal governance story with limited direct effect on Square Country.",
+      "eventName": "Many UK levelling‑up projects remain unfinished",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-13T23:33:20.635Z",
+      "status": "assessed"
     }
   ]
 }
