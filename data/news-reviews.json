@@ -1439,6 +1439,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-13T23:33:20.635Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "relevance": "medium",
+      "reason": "Chancellor pledges 'hundreds of millions' in the upcoming budget for a UK AI strategy — notable for global tech investment and competitiveness but unlikely to produce immediate large macro effects for Square Country.",
+      "eventName": "Healey's debut budget — AI & tech spending pledge",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
+      "title": "More than third of post offices in TG Jones stores to shut by early 2027",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
+      "relevance": "low",
+      "reason": "Large number of UK post‑office closures within a retail chain signals domestic retail/postal network contraction and local service loss, with limited direct impact on Square Country's macro outlook.",
+      "eventName": "TG Jones / Post Office branch closures in UK",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
+      "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
+      "relevance": "medium",
+      "reason": "Commentary on Healey's debut budget and its ability to address cost‑of‑living issues; covers the same policy event as the Chancellor's AI spending pledge and budget choices.",
+      "eventName": "Healey's debut budget — AI & tech spending pledge",
+      "duplicateOf": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+      "relevance": "medium",
+      "reason": "Lobbying over proposed bank tax changes ahead of the budget could affect financial‑sector competitiveness and policy outcomes; directly tied to Healey's upcoming budget decisions.",
+      "eventName": "Healey's debut budget — AI & tech spending pledge",
+      "duplicateOf": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+      "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+      "relevance": "medium",
+      "reason": "A $110bn megamerger creating a global media conglomerate could reshape content markets, distribution and competition internationally; relevant to services trade and foreign investment trends affecting open economies like Square Country's.",
+      "eventName": "Skydance megamerger of Paramount and WBD",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "relevance": "medium",
+      "reason": "Local opposition to hyperscale datacentre development highlights rising AI infrastructure demand and potential strains on electricity grids and planning — a relevant signal for global energy and investment trends.",
+      "eventName": "Local opposition to hyperscale datacentre in Newport",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "relevance": "low",
+      "reason": "Reports of London restaurateurs opening Gulf outposts because of UK tax/policy pressures illustrate services‑sector relocation and tax competition, but have limited immediate macro implications for Square Country.",
+      "eventName": "London restaurants opening Gulf outposts amid UK tax rise",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
+      "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
+      "relevance": "low",
+      "reason": "Household stockpiling in the UK following government emergency‑preparedness guidance may indicate precautionary consumer behaviour, but is unlikely to materially affect Square Country's economy.",
+      "eventName": "UK government emergency stockpiling campaign uptake",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
+      "title": "What essentials to keep, what rubbish to get rid of? Burnham, Badenoch, Farage don’t know either | Robert Hutton",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
+      "relevance": "medium",
+      "reason": "Commentary states Labour has dropped a commitment to ban new North Sea drilling — if accurate, this policy shift could influence UK energy supply and markets and is therefore relevant to international energy developments.",
+      "eventName": "UK policy reversal on North Sea new drilling (reported in commentary)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/24/headphone-dodgers-antisocial-behaviour-britain-japan",
+      "title": "Fine ‘headphone dodgers’ if you will, but to really tackle antisocial behaviour, Britain should look to Japan | Emily Bratt",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/24/headphone-dodgers-antisocial-behaviour-britain-japan",
+      "relevance": "none",
+      "reason": "Opinion piece on antisocial behaviour (public headphone use) contains no apparent macroeconomic or trade‑relevant content for Square Country.",
+      "eventName": "Opinion: tackling antisocial behaviour (headphone use) in UK",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-14T22:23:51.195Z",
+      "status": "assessed"
     }
   ]
 }

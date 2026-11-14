@@ -1020,6 +1020,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-13T23:33:53.742Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-05ffa2ff336e2fad92d8",
+      "rootArticleId": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "title": "China commits rare‑earth exports to EU despite US deal lapse",
+      "importance": "medium",
+      "summary": "Headline: China signals it will continue rare‑earth exports to the EU despite a lapse in a U.S. trade deal. With only headline-level evidence, likely first‑stage effects on Square Country are small: modest improvement in manufacturing supply‑chain confidence and slightly lower input cost pressure, producing a very small positive lift to GDP and exports, and a tiny downward effect on inflation and unemployment. Fiscal effects are negligible.",
+      "reasoning": "Evidence level is headlines only, so estimates are conservative. If China keeps rare‑earth flows to the EU, global market tightness and price volatility for rare earths are likely reduced. As a large, trade‑exposed economy with substantial manufacturing and trade links, Square Country would benefit modestly through lower input costs for electronics and high‑tech manufacturing, slightly improved export competitiveness, and reduced inflationary pressure on components. Effects are first‑stage and small because the information is limited, the event concerns flows to the EU (not directly Square Country), and substitution and inventory buffers mute immediate impacts. No direct fiscal measures are reported, so government expenditure is unchanged and revenue moves only minimally via trade‑related tax receipts.",
+      "effects": {
+        "gdpGrowth": 0.02,
+        "inflation": -0.01,
+        "unemployment": -0.01,
+        "governmentRevenue": 10000000,
+        "governmentExpenditure": 0,
+        "exports": 100000000,
+        "imports": 75000000
+      },
+      "sources": [
+        {
+          "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
+          "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-15T09:02:31.000Z",
+          "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-14T22:24:03.772Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-e6bfe2239478a55f4090",
+      "rootArticleId": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+      "title": "Severe El Niño raises Philippines inflation risk",
+      "importance": "medium",
+      "summary": "Headline reports of a severe El Niño raising inflation risk in the Philippines are likely to have only small, first‑stage spillovers to Square Country. Primary channels are modest upward pressure on food and commodity prices via regional supply disruptions and possible shifts in trade flows; direct fiscal effects are unclear from headlines and are set to zero.",
+      "reasoning": "Evidence level is headlines/RSS only; full articles not verified, so estimates are conservative and small. Channels considered: (1) global/regional food and soft‑commodity price pass‑through raising domestic inflation modestly; (2) supply‑chain/distribution disruptions that can shave a small amount off near‑term growth; (3) reduced Philippine demand or rerouted shipments causing a small hit to exports and a small rise in imports (substitute food/inputs); (4) minimal immediate fiscal impact visible in headlines, so government revenue/expenditure effects set to zero. Square Country is a large, diversified and trade‑exposed economy, so pass‑through is muted — effects are small and concentrated in the near term. Conservative first‑stage estimates below reflect uncertainty and limited headline information.",
+      "effects": {
+        "gdpGrowth": -0.03,
+        "inflation": 0.05,
+        "unemployment": 0.02,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": -250000000,
+        "imports": 350000000
+      },
+      "sources": [
+        {
+          "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+          "url": "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-14T04:24:28.000Z",
+          "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-14T22:24:16.281Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-b1258c5564b67efd506f",
+      "rootArticleId": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+      "title": "France budget and rising debt pressures for 2027",
+      "importance": "medium",
+      "summary": "Limited first‑round spillovers to Square Country from headline news about rising French 2027 debt pressures. With only headlines available and no direct Franco‑Square policy or trade shock identified, effects are small and concentrated via modest financial market risk‑off and weaker external demand.",
+      "reasoning": "Evidence is headlines-only about France budget/debt pressures. Direct links to Square Country are weak. Plausible transmission channels: (1) modest global risk‑off raising borrowing costs and equity volatility, (2) small hit to euro area demand that slightly reduces external demand for Square Country exports, and (3) limited automatic‑stabiliser effects on revenues/expenditure from a small GDP hit. Given uncertainty and the instruction to be conservative, I assume only a very small immediate impact. Larger effects could emerge if the French situation escalates into a broad EMU sovereign stress episode, but that is outside first‑stage evidence.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": 0,
+        "unemployment": 0.02,
+        "governmentRevenue": -120000000,
+        "governmentExpenditure": 60000000,
+        "exports": -150000000,
+        "imports": -100000000
+      },
+      "sources": [
+        {
+          "title": "In charts: How one of the world's biggest economies got trapped by debt",
+          "url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-15T09:54:54.000Z",
+          "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-14T22:24:33.190Z",
+      "reviewedAt": null
     }
   ]
 }
