@@ -1107,6 +1107,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-14T22:24:33.190Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-0087571a4b5f753e6dbe",
+      "rootArticleId": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+      "title": "India retail inflation rises to 5.54% in September",
+      "importance": "medium",
+      "summary": "India's retail inflation uptick to 5.54% is primarily a domestic shock with limited immediate transmission to Square Country based on headline-only information. Conservatively, there are no meaningful first‑stage effects on Square Country's GDP growth, domestic inflation, unemployment, fiscal flows or trade in the absence of confirmed broader commodity, exchange-rate, or policy spillovers.",
+      "reasoning": "The report is a headline-only indication that inflation in India rose above estimates. Key points informing a conservative assessment: 1) The shock is domestic to India; pass-through to Square Country requires stronger channels (large direct trade link, a commodity price move, or confirmed global rate spillovers) which are not evidenced in the headline. 2) The article notes the rise may raise prospects of an RBI rate hike, but a single headline does not confirm a policy move or a material global rates shift. 3) Without details on changes to commodity prices, exchange rates, or bilateral trade flows, there is insufficient evidence to quantify an impact on Square Country’s real economy or fiscal accounts. Following guidance to avoid inventing effects and to use zero when evidence is insufficient, I conservatively set first‑stage impacts to zero.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "India’s retail inflation jumps to 5.54% in September, above estimates",
+          "url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-12T10:49:24.000Z",
+          "summary": "India inflations jumps for the 11-straight month, raising prospects of a further interest rate hike"
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-15T22:48:25.247Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-672a8977790e06832b9e",
+      "rootArticleId": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "title": "IMF warns of AI 'tsunami' for jobs; World Bank urges crisis‑era support",
+      "importance": "medium",
+      "summary": "Headlines that the IMF warns of an AI \"slow‑moving tsunami\" for jobs and the World Bank urges crisis‑era employment support imply a global risk to labour markets. For Square Country, first‑stage effects are likely small and concentrated on labour‑market sentiment and near‑term hiring, with larger impacts uncertain and delayed. I therefore estimate a small near‑term rise in unemployment and a very small drag on GDP growth; no immediate measurable effect on inflation, trade, or the budget given headline‑level evidence.",
+      "reasoning": "The IMF warning signals elevated downside risk to employment from AI-driven automation, particularly for younger and entry‑level workers. As a large, open economy, Square Country is exposed to these global trends, but the shock is described as gradual rather than sudden, and the available information is headline‑only (no country‑specific policy moves). Therefore immediate real effects should be small: some firms may slow hiring or reallocate labour, producing a modest uptick in unemployment and a small negative effect on near‑term GDP growth. Inflationary effects are ambiguous and unlikely in the first stage. There is no verified evidence that Square Country will adopt additional fiscal support now, so I do not assume changes to spending programs; likewise, trade flows are unlikely to move materially from this global warning alone. Larger productivity and employment reallocations would be expected later and would depend on policy responses, education/training, and firm investment decisions.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": 0,
+        "unemployment": 0.1,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+          "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-13T13:09:55.000Z",
+          "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-15T22:48:39.931Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-196614d0b2936be6a756",
+      "rootArticleId": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "title": "US household debt servicing deterioration Oct 2026",
+      "importance": "medium",
+      "summary": "Headline reports of US household debt‑servicing deterioration pose a modest downside risk to Square Country via weaker US demand and higher global risk premia. Given headline‑level evidence only, first‑stage effects are small and conservative: a minor growth hit, slight disinflationary pressure, a small rise in unemployment, modest falls in exports/imports and a small revenue loss. No immediate change to government expenditure is assumed.",
+      "reasoning": "Channels considered: (1) Demand channel — weaker US household ability to service debt likely reduces US consumption/imports, lowering demand for Square Country exports. (2) Financial/confidence channel — elevated household stress can raise global risk premia, marginally tightening financing conditions and weighing on investment and growth. (3) Income channel — lower export receipts reduce domestic income and imports. Evidence level is headlines only, so estimates are conservative and limited to plausible near‑term (first‑stage) impacts rather than large or policy‑driven responses. Immediate effects are expected to be small; larger effects could emerge later if US distress intensifies, but that is beyond headline confirmation here.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": -0.03,
+        "unemployment": 0.03,
+        "governmentRevenue": -200000000,
+        "governmentExpenditure": 0,
+        "exports": -600000000,
+        "imports": -300000000
+      },
+      "sources": [
+        {
+          "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+          "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-09T19:18:24.000Z",
+          "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-15T22:48:52.894Z",
+      "reviewedAt": null
     }
   ]
 }

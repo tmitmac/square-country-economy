@@ -1559,6 +1559,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-14T22:23:51.195Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
+      "title": "America must reverse Trump’s moral squalor | Robert Reich",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-moral-squalor",
+      "relevance": "low",
+      "reason": "Opinion piece on US politics; no concrete policy or market development reported to affect Square Country materially.",
+      "eventName": "Op‑ed: Reich on 'Trump moral squalor' Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
+      "title": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
+      "relevance": "low",
+      "reason": "Food trend coverage of UK consumer tastes; unlikely to move macro variables or trade materially for Square Country.",
+      "eventName": "UK porridge consumption trend Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/24/can-new-scheme-help-revive-grimsby-britain-struggling-town-centres",
+      "title": "Can a £5.8bn scheme help revive Grimsby and other town centres?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-new-scheme-help-revive-grimsby-britain-struggling-town-centres",
+      "relevance": "medium",
+      "reason": "£5.8bn UK town‑centre regeneration programme could modestly affect UK construction and retail demand and related imports; impact uncertain and likely localized.",
+      "eventName": "UK £5.8bn town‑centre regeneration scheme (Grimsby) Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/24/london-batman-litter-fuel-fredos",
+      "title": "He wants to clean up the city and banish high prices. But who is ‘London’s Batman’?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/24/london-batman-litter-fuel-fredos",
+      "relevance": "low",
+      "reason": "Local civic/charity actions and consumer price stunts; not a macroeconomic development for Square Country.",
+      "eventName": "'London's Batman' local civic action Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/24/budget-tax-talking-points-explained-john-healey",
+      "title": "Five key tax talking points before next week’s budget",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/24/budget-tax-talking-points-explained-john-healey",
+      "relevance": "medium",
+      "reason": "Pre‑budget analysis of likely tax choices ahead of UK chancellor's budget; fiscal changes could affect UK demand and trade flows but specifics are pending.",
+      "eventName": "UK budget — tax and fiscal options ahead of Healey's budget Oct 2026",
+      "duplicateOf": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Analysis of revenue‑raising options for the upcoming UK budget; could foreshadow fiscal changes that affect UK demand and trade exposure, but no concrete measures yet.",
+      "eventName": "UK budget — fiscal options ahead of Healey's budget Oct 2026",
+      "duplicateOf": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Reports a specific planned £1bn budget allocation for social/affordable housing; a tangible fiscal measure that could modestly boost construction activity and related imports in the UK.",
+      "eventName": "UK budget — £1bn for social and affordable housing Oct 2026",
+      "duplicateOf": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "title": "Will a new code end 'rip-off parking charges'?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Coverage of a government consumer‑protection code on parking charges; limited macro impact for Square Country.",
+      "eventName": "UK 'rip‑off parking charges' code discussion Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Profile of the Rosebank oil field controversy; potential implications for UK North Sea production and broader energy markets could affect prices and trade exposure, though outcome is uncertain.",
+      "eventName": "Rosebank oil field political dispute Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "California ballot proposal to tax billionaires is a US state fiscal/political development; limited direct impact on Square Country's macro variables.",
+      "eventName": "California ballot: proposed billionaires' tax Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-15T22:48:16.113Z",
+      "status": "assessed"
     }
   ]
 }

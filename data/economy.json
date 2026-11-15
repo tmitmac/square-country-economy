@@ -1,25 +1,25 @@
 {
   "country": "Square Country",
   "currency": "SC$",
-  "lastUpdated": "2026-11-15",
+  "lastUpdated": "2026-11-16",
   "economy": {
-    "population": 12718468,
-    "gdp": 1099044261679,
-    "gdpGrowth": 7.0974981010209826,
-    "inflation": 2.9884,
-    "unemployment": 3.996,
+    "population": 12718711,
+    "gdp": 1099339867749,
+    "gdpGrowth": 7.101592630362963,
+    "inflation": 2.9879,
+    "unemployment": 3.9935,
     "interestRate": 3.75,
-    "governmentRevenue": 246253122599,
-    "governmentExpenditure": 282813267241,
-    "governmentDebt": 387337070916,
-    "exports": 242118150876,
-    "imports": 230475434766,
-    "exchangeRateUSD": 0.71013
+    "governmentRevenue": 246277693095,
+    "governmentExpenditure": 283008152279,
+    "governmentDebt": 387437702311,
+    "exports": 242152766831,
+    "imports": 230509650036,
+    "exchangeRateUSD": 0.71015
   },
   "simulation": {
     "version": 2,
-    "priceIndex": 100.47012357826779,
-    "realGDP": 1093901572463.8055,
+    "priceIndex": 100.47822794078763,
+    "realGDP": 1094107539791.4532,
     "activeShocks": [
       {
         "eventId": "8e04c45a-e6f7-400b-a236-b4ff41e72c3d",
@@ -40,15 +40,14 @@
       "8e04c45a-e6f7-400b-a236-b4ff41e72c3d"
     ],
     "sectors": {
-      "consumption": 644012952684,
-      "investment": 221124010587,
-      "governmentPurchases": 222264582298,
-      "exports": 242118150876,
-      "imports": 230475434766
+      "consumption": 644101516640,
+      "investment": 221177490738,
+      "governmentPurchases": 222417743576,
+      "exports": 242152766831,
+      "imports": 230509650036
     },
-    "outputGap": 0.6401030954442666,
+    "outputGap": 0.6525120185085331,
     "growthWindow": [
-      0.00018512688960614643,
       0.00018536971180571973,
       0.00018560177318932385,
       0.00018584348884843953,
@@ -77,8 +76,9 @@
       0.00018867500090151857,
       0.00018857859325054126,
       0.00018847208949378458,
-      0.00018837170959873852
+      0.00018837170959873852,
+      0.00018826916866192898
     ],
-    "potentialRealGDP": 1086944010209.3618
+    "potentialRealGDP": 1087014638631.4741
   }
 }
