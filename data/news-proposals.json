@@ -1194,6 +1194,128 @@
       "status": "pending_review",
       "createdAt": "2026-11-15T22:48:52.894Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-a84fe8cf6450589fd1b6",
+      "rootArticleId": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "title": "NY Fed: tariffs raised inflation in many consumer goods",
+      "importance": "medium",
+      "summary": "Headline finding (NY Fed) that tariffs raised inflation in many consumer goods suggests a modest upward pressure on Square Country's CPI via import-price pass-through. Given this is based on international headlines (not a verified full study) and absent evidence Square Country recently changed tariff policy, I estimate small, conservative first‑stage effects: a slight uptick in inflation, minor dampening of GDP growth and a minimal rise in unemployment. I set fiscal and trade-value effects to zero because there is insufficient evidence of immediate changes in tariff receipts or in export/import volumes for Square Country.",
+      "reasoning": "The NY Fed result (2.9 percentage points in affected categories) is a US-focused estimate. To map to Square Country conservatively I scale that headline magnitude by Square Country's trade exposure and the likelihood only a subset of imports are in the affected consumer categories. Imports/GDP ≈ 21% implies limited passthrough of foreign tariff-driven price changes to overall domestic inflation; applying a conservative fraction of the 2.9pp headline yields an immediate CPI effect of about +0.15 percentage points. Real GDP growth is likely to be slightly negative in the short run as higher consumer prices reduce real incomes and consumption; I estimate a modest -0.05 percentage‑point impact on annual GDP growth. Unemployment typically moves only slightly for such a small demand shock; I estimate a +0.02 percentage‑point rise. There is no verified evidence in the headlines that Square Country changed tariff rates or that partner countries' tariffs changed in ways that would materially alter tariff receipts or import/export values in the first stage, so government revenue, expenditure and trade‑value effects are set to zero. These are conservative, first‑stage estimates and subject to revision if more detailed, country‑specific evidence appears.",
+      "effects": {
+        "gdpGrowth": -0.05,
+        "inflation": 0.15,
+        "unemployment": 0.02,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+          "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-08T17:31:03.000Z",
+          "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-17T01:52:40.380Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-8700e69f4853507fe1e5",
+      "rootArticleId": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "title": "US one‑year inflation expectations rise to 3.9% (Fed survey)",
+      "importance": "medium",
+      "summary": "Headline rise in U.S. one‑year inflation expectations to 3.9% is likely to have only small first‑order effects on Square Country. Expect modest upward pressure on domestic inflation via imported price passthrough and slightly tighter global financial conditions that marginally depress near‑term GDP growth and raise unemployment. Fiscal and trade impacts are small in absolute terms and subject to high uncertainty given headline‑only evidence.",
+      "reasoning": "Channels considered: (1) financial‑conditions channel — higher U.S. near‑term inflation expectations can lift global nominal yields and risk premia, tightening financing conditions and weighing on investment and growth; (2) trade/competitiveness channel — shifts in U.S. yields and the USD can affect export demand and the exchange rate, but direction and magnitude are uncertain from this single headline; (3) price passthrough — higher U.S. inflation expectations can feed into global commodity and import prices, adding modest upward pressure to consumer prices and nominal government receipts/expenditure (indexation, debt service). Given the source is headlines/RSS only and there is no reported U.S. policy change or large shock, effects are kept conservative and small. Immediate (days–weeks): effectively negligible. First‑stage (next 1–3 quarters): small impacts as quantified below. Uncertainty remains high; numbers are conservative, not forecasts.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": 0.04,
+        "unemployment": 0.01,
+        "governmentRevenue": 80000000,
+        "governmentExpenditure": 60000000,
+        "exports": -100000000,
+        "imports": 80000000
+      },
+      "sources": [
+        {
+          "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+          "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+          "source": "CNBC Economy",
+          "publishedAt": "2026-10-07T18:44:36.000Z",
+          "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-17T01:52:54.468Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-900659a2b19d688ec547",
+      "rootArticleId": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "title": "Healey's debut budget — AI & tech spending pledge",
+      "importance": "medium",
+      "summary": "Headline reports that the UK chancellor plans to commit “hundreds of millions” to AI/tech in his budget. Based on headlines only and no firm cross-border fiscal or trade measures, the immediate first‑stage impact on Square Country is negligible.",
+      "reasoning": "Evidence is limited to headlines; amounts described (hundreds of millions GBP) are tiny relative to Square Country’s economy (GDP ~ SC$1.099 trillion). The announcement is a UK domestic fiscal decision with no reported UK–Square bilateral contracts, tariff or tax changes, or large, immediate procurement opportunities that would transmit materially to Square Country. Potential indirect channels (global tech demand, supply‑chain effects, investment re‑routing) are speculative from these summaries and likely to be very small and slow. Given the guidance to be conservative and to use zero where effects are uncertain, I estimate no measurable first‑stage changes to Square Country’s macro variables.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T05:00:24.000Z",
+          "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI that would capitalise on the benefits of the frontier technology. Continue reading..."
+        },
+        {
+          "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T09:00:29.000Z",
+          "summary": "The chancellor has promised ‘breathing space’ for households and small businesses but global events cannot be ignored You be the chancellor: play our budget game to see if you can balance the books Every Sunday night, the chancellor, John Healey, slips next door to Andy Burnham’s Downing Street flat where they order a curry and chew over politics on the prime minister’s sofa. An Indian takeaway is one of the totemic issues in British politics, a “treat” fewer people can afford, like a pint at the football or soft play for the kids. Continue reading..."
+        },
+        {
+          "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T11:00:31.000Z",
+          "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week’s budget would leave London less competitive than rival financial hubs. UK Finance, which represents banks including Lloyds, JP Morgan and Revolut, commissions an annual report tallying up all the taxes shouldered by a large bank, including corporation tax, social security, VAT and bank-specific levies. Continue reading..."
+        },
+        {
+          "title": "Five key tax talking points before next week’s budget",
+          "url": "https://www.theguardian.com/money/2026/oct/24/budget-tax-talking-points-explained-john-healey",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T07:00:26.000Z",
+          "summary": "As the chancellor prepares for 28 October, we unpack the facts and figures – and the implications any changes could mean for you As John Healey prepares his first budget as chancellor, tax is the small word that is likely to cast a large shadow over next week’s big fiscal announcement. In its election manifesto, Labour promised not to increase the “big three”: income tax, national insurance and VAT. Continue reading..."
+        },
+        {
+          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T06:00:15.000Z",
+          "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
+        },
+        {
+          "title": "Budget to include £1bn for social and affordable housing",
+          "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T10:03:17.000Z",
+          "summary": "The move will take funding for the 10-year programme to more than £40bn."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-17T01:53:02.872Z",
+      "reviewedAt": null
     }
   ]
 }
