@@ -1316,6 +1316,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-17T01:53:02.872Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-60a5f8f3c28a09ea19a3",
+      "rootArticleId": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+      "title": "Skydance megamerger of Paramount and WBD",
+      "importance": "medium",
+      "summary": "A US $110bn megamerger creating 'Skydance' is a large industry consolidation in global media. For Square Country the immediate first‑stage effects are likely very small and concentrated in the audiovisual/creative services sector (possible local contractors, licensing and distribution links). Conservatively expect a tiny drag on GDP growth, a marginal rise in unemployment from any local job losses among suppliers/contractors, negligible impact on inflation, a small fall in export receipts for audiovisual services and a modest one‑off hit to tax revenue with a small rise in unemployment-related spending.",
+      "reasoning": "Evidence is limited (headlines only) and the deal is US‑centric. Direct exposures for Square Country would come from: (1) local subsidiaries, vendors, post‑production/VFX and independent contractors that serve Paramount/WBD; (2) licensing and distribution income from film/TV rights sold to local platforms; and (3) advertising and subscription changes if the merged firm restructures regional operations. Headlines reference job cuts, which plausibly reduce demand for some external suppliers and lower royalty/licensing flows in the short run. There is insufficient evidence to infer meaningful effects on import volumes, broad consumer prices, or fiscal policy changes by the Square government. Estimates are conservative first‑stage impacts (immediate to within a few quarters) and do not attempt to capture longer‑term industry restructuring or global market responses.",
+      "effects": {
+        "gdpGrowth": -0.01,
+        "inflation": 0,
+        "unemployment": 0.01,
+        "governmentRevenue": -100000000,
+        "governmentExpenditure": 25000000,
+        "exports": -120000000,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
+          "url": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T12:00:32.000Z",
+          "summary": "Battle far from over after Paramount and Warner Bros deal creates new global entertainment powerhouse “It feels like the calm before the storm,” says an executive at Skydance, the newly minted media empire formed from the megamerger of Paramount and Warner Bros Discovery (WBD). “David has got what he wanted, but now there is a price to pay.” Earlier this month, David Ellison, Skydance’s chief executive, sealed the $110bn (£82bn) deal, creating a global powerhouse spanning two Hollywood studios each more than a century old, the TV networks HBO, MTV and Discovery, and news outlets CBS and CNN. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-18T00:58:15.561Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-3e8922c315573e9a1fd9",
+      "rootArticleId": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "title": "Local opposition to hyperscale datacentre in Newport",
+      "importance": "medium",
+      "summary": "Local opposition to a single hyperscale datacentre in Newport is likely to have only very small near-term macro effects for Square Country. The most plausible first-stage impacts are a tiny drag on GDP growth and a marginal rise in unemployment from delayed construction and local hiring, modest foregone near-term government revenue from delayed investment and business taxes, slightly higher planning/legal expenditure, and a small reduction in imports of specialised equipment. Inflation and exports are effectively unchanged.",
+      "reasoning": "Evidence is limited (headlines/RSS only) and concerns a single local project. Hyperscale datacentres can generate sizable investment and equipment imports, plus local construction and operational jobs, but a single site in a large, trade-exposed economy will have very small aggregate effects unless the project is cancelled or scaled up — neither of which is confirmed. Conservative first-stage assumptions: short delays or uncertainty reduce near-term construction activity and equipment imports (lowering GDP and imports slightly), defer some business/property tax receipts (reducing near-term revenue), and impose small extra planning/legal costs on government. Broad price effects and exports are negligible at this scale. Numbers are conservative and reflect immediate/near-term outcomes rather than any larger/longer-term scenario.",
+      "effects": {
+        "gdpGrowth": -0.01,
+        "inflation": 0,
+        "unemployment": 0.01,
+        "governmentRevenue": -25000000,
+        "governmentExpenditure": 5000000,
+        "exports": 0,
+        "imports": -20000000
+      },
+      "sources": [
+        {
+          "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+          "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T11:00:32.000Z",
+          "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting back Dale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of prefabricated panels. The 23 metre-high grey hulk looming over him and his neighbours is a hyperscale datacentre. It is heralded by the area’s Labour politicians as a job creator, yet all Johnston can think about is what he has lost: “Before, the sun used to come around here and it was lovely.” The way residents have been treated is “disgusting”. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-18T00:58:28.659Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-439fd66024b5d12d9a39",
+      "rootArticleId": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
+      "title": "UK policy reversal on North Sea new drilling (reported in commentary)",
+      "importance": "medium",
+      "summary": "Headlines report the UK reversing a policy to ban new North Sea oil and gas drilling. Evidence is limited to summaries/headlines and the economic impact on Square Country is uncertain and likely small in the near term. I estimate no first-stage measurable effects for Square Country based on available information.",
+      "reasoning": "Evidence level: headlines and RSS only; full details and implementation are unverified. Even if the UK permits more North Sea drilling, additional output would take years to materialise and is small relative to global energy markets. Any effect on global oil/gas prices would be indirect, delayed and likely minor. Square Country is trade-exposed, but absent clear, immediate changes to UK production, prices, or policy spillovers (and no new fiscal measures announced), there is insufficient credible basis to assign non-zero near-term effects. Following the instruction to be conservative and to use zero when effects are uncertain, first-stage impacts are set to zero.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "What essentials to keep, what rubbish to get rid of? Burnham, Badenoch, Farage don’t know either | Robert Hutton",
+          "url": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T07:00:27.000Z",
+          "summary": "After a fractious week, they probably agree that no one at all needs Liz Truss’s new book, but then the political housekeeping decisions get much harder What are you stockpiling? Wes Streeting says we need water and food to last 72 hours in case of national emergency, as well as wind-up radios so that we can check in on how the apocalypse is developing in Ambridge. Personally, I have a two-week supply of jokes about the government that I can draw upon even as the zombies break down my front door. Andy Burnham, far from stockpiling, is busy chucking stuff out. This week Labour’s much cherished commitment not to allow new drilling for oil and gas in the North Sea went into the skip round the back of Downing Street, where it lies next to a complete set of European Union red lines, a plan for digital ID and a signed photograph of Peter Mandelson. Robert Hutton is an author and journalist Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-18T00:58:36.951Z",
+      "reviewedAt": null
     }
   ]
 }

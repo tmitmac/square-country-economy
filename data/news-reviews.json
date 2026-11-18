@@ -1679,6 +1679,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-15T22:48:16.113Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
+      "title": "Heating oil costs 'more than double' ahead of winter",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Focuses on a local community reliant on heating oil; highlights high household bills for specific off‑gas locations but provides no evidence of a broader national energy shock.",
+      "eventName": "Local heating‑oil price spike (Teesdale)",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss",
+      "title": "How families are cutting the cost of Halloween as spending grows",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Describes household cost‑cutting for a seasonal event; a micro consumer behaviour story with no clear material macroeconomic implications for Square Country.",
+      "eventName": "Household cost‑cutting for Halloween",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+      "title": "Firms 'holding back' on new jobs ahead of Budget",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Reports businesses delaying hiring ahead of the UK Budget — an example of policy uncertainty that could damp UK demand and investment, with potential indirect effects on trading partners.",
+      "eventName": "UK firms delay hiring ahead of Budget Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+      "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Summarises public sentiment and policy choices facing the chancellor ahead of the Budget; fiscal decisions could affect UK domestic demand and thus external trade partners if enacted.",
+      "eventName": "UK Budget debate on measures for squeezed middle",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "relevance": "medium",
+      "reason": "Reports senior ministers supporting a debate on restoring free movement with the EU; if this progresses to policy change it could materially affect labour mobility, services and trade linkages.",
+      "eventName": "UK debate on returning to free movement with EU",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "relevance": "medium",
+      "reason": "Conveys City economists' views on the Bank of England path and market expectations; changes in UK rates and rate expectations can influence financial conditions, exchange rates and capital flows relevant to trading countries.",
+      "eventName": "City economists' view on Bank of England rate path",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "relevance": "medium",
+      "reason": "Large Volkswagen investment in a US plant shifts production and employment patterns and is linked in the summary to tariffs and EV transition — a development that can alter auto supply chains and trade flows.",
+      "eventName": "Volkswagen $4bn Audi SUV plant in Macon, Georgia",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
+      "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
+      "relevance": "low",
+      "reason": "Opinion piece criticising a pre‑Budget regulatory promise; reflects debate rather than a confirmed policy change, and so has limited immediate economic effect.",
+      "eventName": "Debate over 'red tape' pledge ahead of Budget",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+      "title": "‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+      "relevance": "low",
+      "reason": "Feature on a single small manufacturer and artisanal production; interesting for sectoral skills but not a material national economic development.",
+      "eventName": "Ettinger leather manufacturing feature",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
+      "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
+      "relevance": "low",
+      "reason": "Documents rising UAE‑linked land ownership in Greater Manchester; signals a pattern in foreign property investment but does not indicate a wider, immediately material shift for Square Country's economy.",
+      "eventName": "Increase in UAE‑linked land ownership in Greater Manchester",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-18T00:58:03.947Z",
+      "status": "assessed"
     }
   ]
 }
