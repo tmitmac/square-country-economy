@@ -1799,6 +1799,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-18T00:58:03.947Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
+      "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
+      "relevance": "low",
+      "reason": "Study highlights risks in UK insolvency practice (pre‑pack/‘phoenix’ deals) that mainly affect creditor recoveries and corporate governance domestically; potential policy or lender responses could have limited, indirect effects on international credit markets, but no clear immediate macro shock for Square Country.",
+      "eventName": "Study on 'phoenix' pre‑pack insolvency failures Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+      "title": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+      "relevance": "low",
+      "reason": "Company‑level workforce reduction at a UK mutual following a takeover; relevant to sectoral employment and banking consolidation but not a major international economic development for Square Country.",
+      "eventName": "Nationwide to cut 275 jobs after Virgin Money takeover Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+      "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+      "relevance": "medium",
+      "reason": "US military granting SpaceX access to restricted orbital‑tracking data could shift competitive dynamics in the global space services market and raise security/regulatory issues for satellite operators; potential international implications for firms and markets that rely on space infrastructure, though scale and timing are uncertain.",
+      "eventName": "US grants SpaceX access to restricted space‑tracking data Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/25/100k-salary-income-cliff-edge-tax-personal-allowance-children",
+      "title": "What is the £100k income ‘cliff-edge’?",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/25/100k-salary-income-cliff-edge-tax-personal-allowance-children",
+      "relevance": "low",
+      "reason": "Explainer of a UK personal tax/benefit cliff affecting households around a £100k threshold; primarily domestic fiscal detail with limited direct bearing on Square Country’s macro outlook.",
+      "eventName": "UK £100k income personal‑allowance 'cliff‑edge' explainer Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/25/as-a-young-man-magazines-were-my-window-to-the-world-that-wonder-will-be-lost-when-all-the-shops-have-gone",
+      "title": "As a young man, magazines were my window to the world. That wonder will be lost when all the shops have gone | John Harris",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/25/as-a-young-man-magazines-were-my-window-to-the-world-that-wonder-will-be-lost-when-all-the-shops-have-gone",
+      "relevance": "none",
+      "reason": "Opinion piece on cultural effects of retail closures; no material economic content affecting Square Country’s trade, finance or macro conditions.",
+      "eventName": "Opinion on retail closures and cultural loss Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/25/tech-firms-should-pay-the-creators-whose-work-they-use",
+      "title": "Tech firms should pay the creators whose work they use | Letter",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/25/tech-firms-should-pay-the-creators-whose-work-they-use",
+      "relevance": "low",
+      "reason": "Letter calling for payments from tech firms to creators could inform policy debate around AI and content monetisation in the UK; currently an advocacy item with limited immediate international economic impact for Square Country.",
+      "eventName": "Letter: tech firms should pay creators Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
+      "title": "The Guardian view on Oxford Street’s pedestrianisation: cities should be designed around people, not cars | Editorial",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/25/the-guardian-view-on-oxford-streets-pedestrianisation-cities-should-be-designed-around-people-not-cars",
+      "relevance": "low",
+      "reason": "Editorial on Oxford Street pedestrianisation concerns UK urban planning and retail footfall; may inform city policy debates but unlikely to materially affect Square Country’s economy.",
+      "eventName": "Oxford Street pedestrianisation opens Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/retail-leads-way-paternity-leave-government-urged-improve-offer",
+      "title": "Retail leads the way on paternity leave as government urged to improve offer",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/retail-leads-way-paternity-leave-government-urged-improve-offer",
+      "relevance": "low",
+      "reason": "Corporate changes to paternity leave by major UK retailers signal shifts in employer benefits that could influence labour market norms; mostly a domestic labour‑market development with limited immediate macroeconomic relevance to Square Country.",
+      "eventName": "UK retailers extend paternity leave Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
+      "title": "Sam Fender tells fans high ticket prices for Proper Massive tour are ‘getting changed’",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
+      "relevance": "none",
+      "reason": "Artist statement about concert ticket pricing is entertainment‑industry news without material implications for Square Country’s economy.",
+      "eventName": "Sam Fender to lower stadium ticket prices Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
+      "title": "All aboard the TrainTok trend: spotters and staff boost rail content online",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
+      "relevance": "none",
+      "reason": "Social‑media trend boosting rail content is cultural/consumer media news and does not constitute a material economic development for Square Country.",
+      "eventName": "TrainTok surge in UK rail content Oct 2026",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-19T00:22:28.065Z",
+      "status": "assessed"
     }
   ]
 }

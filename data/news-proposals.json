@@ -1403,6 +1403,100 @@
       "status": "pending_review",
       "createdAt": "2026-11-18T00:58:36.951Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-322315c951a03eb33f46",
+      "rootArticleId": "https://www.theguardian.com/uk-news/2026/oct/24/can-new-scheme-help-revive-grimsby-britain-struggling-town-centres",
+      "title": "UK £5.8bn town‑centre regeneration scheme (Grimsby) Oct 2026",
+      "importance": "medium",
+      "summary": "A £5.8bn UK town‑centre regeneration programme (Grimsby) is a UK‑domestic infrastructure/urban renewal project. Based on headlines only there is no verifiable direct link to Square Country firms, trade or finances. First‑stage impacts on Square Country are therefore negligible and uncertain.",
+      "reasoning": "The project is a domestic UK regeneration scheme with no reported procurement or financing ties to Square Country in the available headlines/RSS summary. There is insufficient evidence to attribute any direct export orders, inward investment to Square Country, or changes to Square Country fiscal balances. Given Square Country is a large, trade‑exposed economy we would pick up measurable effects only if there were clear trade, supply‑chain or financial linkages; none are reported. Following the instruction to use zero when evidence is insufficient and to be conservative, set first‑stage effects to zero rather than speculate.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Can a £5.8bn scheme help revive Grimsby and other town centres?",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-new-scheme-help-revive-grimsby-britain-struggling-town-centres",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-24T06:00:26.000Z",
+          "summary": "Turning boarded-up shops into community spaces is a bigger and more complex task than just adding funding Most levelling up projects still unfinished years after funding allocated “It is nice to see something happening for once,” says Jack Vincent, a Grimsby resident, as he considers a wave of change finally arriving in a town that had become a byword for deprivation. In June, King Charles visited the Lincolnshire coastal town, celebrating the opening of a youth centre in a previously derelict Victorian warehouse building and a Care charity community drop-in centre in a vacant bank on the high street. Scaffolding also shrouds one end of the town’s shopping centre, part of which is being converted to house leisure facilities including a cinema and a food market. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-19T00:22:36.764Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-02986a017ad14e8ee89e",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "title": "Rosebank oil field political dispute Oct 2026",
+      "importance": "medium",
+      "summary": "Headlines indicate a political dispute over the Rosebank North Sea oil field. With only headlines/RSS and no verified article detail, first-stage effects on Square Country are likely small and uncertain. I estimate a very modest, immediate upward pressure on energy prices that slightly raises headline inflation and import costs; effects on GDP, unemployment and fiscal balances are negligible at this stage.",
+      "reasoning": "Rosebank is a single North Sea field; headline-level political dispute could delay or constrain future output, producing modest upward pressure on crude prices. Given the limited evidence (headlines only) and uncertainty about scale/timing, assume only a small first-round pass-through to Square Country via higher energy import costs and consumer prices. Direct fiscal or trade-channel effects (on revenues, exports) lack sufficient evidence; therefore set those to zero. Effects are conservative, immediate, and small; larger or sustained impacts would require confirmation of significant production loss, sustained price moves, or policy responses, which are not present in the evidence provided.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": 0.05,
+        "unemployment": 0.01,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 500000000
+      },
+      "sources": [
+        {
+          "title": "Rosebank: Life on the oil field at the centre of a political storm",
+          "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T07:15:38.000Z",
+          "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-19T00:22:48.334Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-c5982621af5408b80d01",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+      "title": "UK firms delay hiring ahead of Budget Oct 2026",
+      "importance": "medium",
+      "summary": "UK firms signalling they will delay hiring ahead of the October 2026 Budget is a UK‑domestic development with only minor short‑run spillovers to Square Country. Expected first‑stage effects on Square Country are negligible to very small: a tiny hit to GDP growth and exports, and a minimal rise in unemployment. No discernible immediate impact on inflation, government revenue or expenditure is apparent from headlines alone.",
+      "reasoning": "Evidence is limited to headlines and brief summaries; there is no detailed data on the scale or duration of UK hiring freezes, nor on which sectors or how reliant they are on imports from Square Country. As a large, trade‑exposed economy, Square Country could be affected if UK demand falls, but the reported behaviour is precautionary and likely concentrated in UK labour markets until Budget decisions are known. Direct channels: (1) weaker UK employment/demand could reduce UK imports from Square Country. (2) small negative confidence spillovers via trade partners. Indirect macro channels (wider demand contraction, monetary policy) would require larger or more persistent UK shocks than these headlines indicate. Therefore I apply conservative, small first‑stage adjustments and set zero where evidence is insufficient to justify non‑zero effects.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": 0,
+        "unemployment": 0.01,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": -250000000,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Firms 'holding back' on new jobs ahead of Budget",
+          "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T07:06:12.000Z",
+          "summary": "Some businesses say they want to see employment costs come down in the October Budget."
+        },
+        {
+          "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T06:21:23.000Z",
+          "summary": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?"
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-19T00:22:59.089Z",
+      "reviewedAt": null
     }
   ]
 }
