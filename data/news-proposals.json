@@ -1584,6 +1584,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-20T00:38:30.812Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-097ce32a83063d9a7579",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "title": "Volkswagen $4bn Audi SUV plant in Macon, Georgia",
+      "importance": "medium",
+      "summary": "Headline: Volkswagen (Audi) to build a $4bn SUV plant in Macon, Georgia (4,500 jobs). Based on headlines only and no verified links to Square Country, first‑stage effects on Square Country are negligible — set to zero for conservative assessment.",
+      "reasoning": "The announcement describes a US domestic investment by Volkswagen/Audi. From headlines alone there is no verified evidence that Square Country supplies the VW/Audi supply chain, will lose/ gain market share, or will be affected by related policy changes. Given Square Country's large economy (GDP ≈ SC$1.10 trillion) a single foreign plant in the US is unlikely to have a measurable immediate macro effect unless direct supply‑chain linkages or trade diversion are documented. The evidence level is headlines/RSS only and the guidance cautions against assuming full articles; therefore we use zero for first‑stage impacts. If follow‑up shows substantial procurement from Square Country firms or re‑routing of exports, estimates should be revised.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+          "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-25T13:43:19.000Z",
+          "summary": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump. The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a campaign rally on Saturday night to announce the factory in Macon, Georgia, in an unusual move by a big European brand just days before the US midterm elections. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-20T23:59:32.808Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-9679049c03ff86245cab",
+      "rootArticleId": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+      "title": "US grants SpaceX access to restricted space‑tracking data Oct 2026",
+      "importance": "medium",
+      "summary": "Headlines that the US granted SpaceX access to restricted space‑tracking data are unlikely to have a measurable, first‑stage economic impact on Square Country based on available information. No immediate, quantifiable effects on GDP growth, inflation, unemployment, fiscal balances or trade can be robustly inferred from the summary evidence.",
+      "reasoning": "The report is an international policy decision affecting US military-data access and a single private firm. Headlines alone do not establish any direct disruption to Square Country’s trade, investment, or government budgets. Square Country is a large, open economy, but there is no verified information linking this US decision to: (a) immediate changes in demand for Square Country exports or imports, (b) a shift in Square Country government revenue or expenditure, or (c) a measurable near‑term impact on aggregate demand or prices. Potential indirect effects (changes in global space‑services markets, future regulatory responses, or national‑security supply‑chain decisions) are possible but uncertain and likely to materialize only with further actions and time. Under the guidance to use conservative, evidence‑based first‑stage estimates and to set effects to zero where evidence is insufficient, I report no immediate measurable impacts.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+          "url": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-25T12:00:05.000Z",
+          "summary": "This gives the company an advantage in tracking objects in orbit, raising national security concerns and fears of greater control over the space industry The US military has given Elon Musk’s SpaceX access to restricted space tracking data, raising a new round of questions about whether the Trump administration is attempting to hand over traffic control in Earth’s orbit to a controversial donor. The access also raises new national security questions, industry observers say. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-20T23:59:41.019Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-e070fb278b64a849d96c",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "title": "UK tariff cuts on staple foods in pre‑Budget package",
+      "importance": "medium",
+      "summary": "UK headline that the Chancellor will cut tariffs on a small set of staple foods (e.g. marmalade, gherkins) is unlikely to produce a measurable first‑stage impact on Square Country’s macro indicators. Given only headline-level evidence and the narrow product scope, set first-stage effects to zero.",
+      "reasoning": "Evidence is limited to headlines and the measure appears narrowly targeted at a few grocery items. For a large, trade‑exposed economy like Square Country, meaningful transmission would require (a) a significant share of Square Country exporters to the UK in these specific products, or (b) a large pass‑through effect on global food prices or consumer inflation. Neither condition is supported by the available information. Direct fiscal impacts are to the UK, not Square Country. Possible indirect channels (small changes in UK import demand or global spot prices) are plausibly negligible in the near term. Therefore conservative, first‑stage estimates are zero for GDP growth, inflation, unemployment and for fiscal/trade absolute changes.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-26T22:30:02.000Z",
+          "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-20T23:59:54.010Z",
+      "reviewedAt": null
     }
   ]
 }
