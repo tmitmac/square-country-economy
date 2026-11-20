@@ -1919,6 +1919,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-19T00:22:28.065Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+      "title": "Cookie theft: how fraudsters get the digital key to your accounts",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+      "relevance": "low",
+      "reason": "Describes session‑hijacking cybercrime that raises operational and consumer‑protection risks for banks and payments firms; generally a security/operational issue rather than a direct macro shock.",
+      "eventName": "Session‑cookie theft and session hijacking",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
+      "title": "The boss whose twice-bust business appears to be back despite £3m debts",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/25/recruitment-boss-twice-bust-business-resurface-debts",
+      "relevance": "low",
+      "reason": "Company‑level story about a recruitment boss and alleged unpaid debts. May illustrate governance/phoenix risks in the sector but no clear systemic or macroeconomic implication from the summary.",
+      "eventName": "Recruitment boss with phoenix‑style revival and unpaid debts",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Reports planned tariff removals on staple imports in a pre‑Budget package; could affect import prices, consumer inflation and bilateral trade flows where applicable.",
+      "eventName": "UK tariff cuts on staple foods in pre‑Budget package",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Coverage of Anthropic ahead of a major IPO and its stated risk concerns; large tech listings can influence global tech valuations, investor flows and market sentiment.",
+      "eventName": "Anthropic IPO and catastrophic‑risk warning",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Additional reporting on Anthropic’s IPO prospectus and company disclosures; pertains to the same IPO event and potential market implications.",
+      "eventName": "Anthropic IPO and catastrophic‑risk warning",
+      "duplicateOf": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Policy change shielding low‑income pensioners from income tax affects household disposable income and could influence consumption and public finances.",
+      "eventName": "UK Budget: shield low‑income pensioners from income tax",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Opinion/analysis on the Budget and near‑term UK economic risks; useful for context on UK outlook but not a discrete policy shock in itself.",
+      "eventName": "Analysis: risks to UK's post‑Budget economic momentum",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "relevance": "medium",
+      "reason": "Explains rising public and environmental pushback against data‑centre growth; relevant to electricity demand, local regulation and corporate investment patterns in digital infrastructure.",
+      "eventName": "Growing backlash against data‑centre expansion",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Sectoral lobbying by salons for a VAT cut is a narrow, industry‑level story with limited immediate macroeconomic implications.",
+      "eventName": "Hair and beauty salons urge VAT cut ahead of Budget",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+      "title": "Business Daily",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+      "relevance": "high",
+      "reason": "Discusses a Chinese export surge and its wider implications; sizable shifts in Chinese exports can materially affect global trade flows, commodity demand and external demand for export‑dependent economies.",
+      "eventName": "Chinese export surge and global implications",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-20T00:37:37.595Z",
+      "status": "assessed"
     }
   ]
 }

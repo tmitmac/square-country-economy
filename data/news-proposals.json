@@ -1497,6 +1497,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-19T00:22:59.089Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-c9ccb0f0cf7633e09f9b",
+      "rootArticleId": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+      "title": "Chinese export surge and global implications",
+      "importance": "high",
+      "summary": "Headline reports of a Chinese export surge are likely to exert small, first-stage negative pressure on Square Country's external demand and domestic output (via export competition), put modest downward pressure on inflation (cheaper tradables), and raise import volumes slightly. Fiscal spending responses are not assumed.",
+      "reasoning": "Evidence level: headlines only, so estimates are conservative and limited to plausible direct and short-term channels. A Chinese export surge increases competition in global goods markets, which can reduce demand and prices for competing exporters like Square Country (especially manufacturing and tradables). That reduces net exports and GDP growth modestly and can raise unemployment slightly through export-sensitive sectors. Cheaper Chinese goods put downward pressure on import prices and overall inflation; this also tends to increase import volumes. Given headline-only information, there is no verified reason to assume government fiscal responses, so expenditure is unchanged and revenue effects are modest and tied to slightly weaker growth and trade receipts. Estimates reflect a large, trade-exposed economy but remain small, first-stage effects.",
+      "effects": {
+        "gdpGrowth": -0.12,
+        "inflation": -0.08,
+        "unemployment": 0.08,
+        "governmentRevenue": -500000000,
+        "governmentExpenditure": 0,
+        "exports": -1500000000,
+        "imports": 1000000000
+      },
+      "sources": [
+        {
+          "title": "Business Daily",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T19:00:00.000Z",
+          "summary": "A Chinese export surge has implications far beyond its borders"
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-20T00:38:05.622Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-b1e724fe68ca75bfe81f",
+      "rootArticleId": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "title": "UK debate on returning to free movement with EU",
+      "importance": "medium",
+      "summary": "Headlines only about a UK political debate on returning to free movement with the EU. No confirmed policy change or negotiated outcome; first‑stage economic impact on Square Country is negligible and uncertain.",
+      "reasoning": "The reports are high‑level political commentary with no implemented UK policy shift or binding EU agreement. Any change to UK free movement rules would affect migration, regulatory alignment and trade patterns only if and when negotiated and enacted. Given the evidence level (headlines/RSS summaries only) and absence of concrete measures, there is insufficient basis to quantify immediate effects on Square Country’s real economy, prices or public finances. Possible indirect or delayed effects (via UK–EU trade, migration or investor sentiment) exist but are speculative and outside first‑stage scope. Under the Treasury’s conservative approach, we assign zero to immediate measurable impacts.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
+          "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-25T19:57:13.000Z",
+          "summary": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concern Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers but risked a rift with “red wall” Labour MPs, who say it could jeopardise Brexit-voting seats. The prime minister made his plea for an “honest discussion” about freedom of movement in an interview with the Sunday Times, making clear that staying out of it would no longer be a red line in talks with the EU. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-20T00:38:17.998Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-2a3b7cbf755ad7ecabaf",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "title": "City economists' view on Bank of England rate path",
+      "importance": "medium",
+      "summary": "Headline reports that City economists think the Bank of England is unlikely to lift rates to 4.75% by next summer and may cut by end-2027. Headline-only evidence is limited; no reliable transmission channel to Square Country is identifiable for a first-stage effect.",
+      "reasoning": "The item is a UK interest-rate expectation story based on City economists' views (headlines only). Transmission to Square Country would operate through global financial markets, risk premia and exchange rates. Given the limited evidence (no full article, no direct link to Square Country policy or trade shocks) and the requirement to be conservative, there is insufficient, verifiable information to quantify a near-term impact on Square Country’s real economy, prices, labour market or fiscal position. Possible second-round effects through international yields or capital flows exist but cannot be credibly sized from this headline alone, so we record zero first-stage effects.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+          "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-25T12:00:05.000Z",
+          "summary": "Experts say Bank of England unlikely to increase rates by full percentage point – and could lower them by end of 2027 Financial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe. According to market-implied interest rate expectations, the Bank is likely to raise interest rates at least four times over the next year, lifting the bank rate from 3.75% today to 4.75% by the end of July, and possibly to 5% – meaning five rises – by December 2027. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-20T00:38:30.812Z",
+      "reviewedAt": null
     }
   ]
 }
