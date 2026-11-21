@@ -1671,6 +1671,100 @@
       "status": "pending_review",
       "createdAt": "2026-11-20T23:59:54.010Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-9f1f4370953f00a90b69",
+      "rootArticleId": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "title": "European gas prices jump to four‑year high on winter supply fears",
+      "importance": "high",
+      "summary": "Headline-driven spike in European wholesale gas prices driven by winter supply fears. For Square Country the most likely first-stage effects are a modest rise in imported energy costs (higher imports), a small upward impulse to headline inflation, and a slight near-term drag on GDP and employment. Effects are conservative given limited verification.",
+      "reasoning": "Higher European gas/LNG prices typically push up global wholesale gas and LNG prices, raising the cost of energy imports for large, trade-exposed economies. Higher energy import bills directly increase nominal imports and feed through to domestic consumer and producer prices, producing a modest increase in headline inflation and reducing real disposable incomes and margins, which depresses near-term output and employment slightly. Given the evidence is headline-only and the timing/volume of actual supply disruptions is uncertain, estimates are conservative and limited to first-stage impacts. There is insufficient verified evidence to attribute direct effects on government revenues, discretionary fiscal spending, or exports at this stage.",
+      "effects": {
+        "gdpGrowth": -0.1,
+        "inflation": 0.15,
+        "unemployment": 0.05,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 1500000000
+      },
+      "sources": [
+        {
+          "title": "European gas prices soar to four-year high over winter supply fears",
+          "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-26T10:35:24.000Z",
+          "summary": "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this winter and the conflict in the Middle East. Wholesale gas prices hit €97 (£81) a megawatt-hour on Monday, as temperatures across Europe fell and traders priced in stronger demand for heating. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-21T23:15:39.831Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-b7e0a7314df9ab0934d3",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "title": "Anthropic IPO and catastrophic‑risk warning",
+      "importance": "medium",
+      "summary": "Anthropic's IPO and accompanying catastrophic‑risk warning are primarily a foreign financial‑market event. With only headline summaries available and no direct links to Square Country's trade, fiscal policy or large-scale capital flows, immediate first‑stage economic effects on Square Country are negligible.",
+      "reasoning": "The event concerns a US AI firm's share listing and risk statements; its direct channels to Square Country would be via global equity markets, investor sentiment and (over time) technology investment and trade in AI goods/services. Given the evidence level (headlines/RSS only) and absence of specific shocks to Square Country’s trade, fiscal position or financial system, there is insufficient basis to attribute measurable immediate impacts. Any material effects (higher foreign investment, changes in tech investment, productivity gains or regulatory responses) would be medium‑to‑longer term and are uncertain. Therefore conservative first‑stage estimates set changes to zero.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-26T16:27:17.000Z",
+          "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
+        },
+        {
+          "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-26T19:57:23.000Z",
+          "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-21T23:15:48.517Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-48726c8e96bae6628b1b",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "title": "UK Budget: shield low‑income pensioners from income tax",
+      "importance": "medium",
+      "summary": "UK Budget plan to shield low‑income pensioners from income tax is a narrowly targeted domestic fiscal measure. Based on headlines-only evidence and the limited scope of the policy, there is no reliable basis to identify a meaningful first‑stage impact on Square Country’s economy. All estimated first‑stage effects set to zero.",
+      "reasoning": "The announced change is a targeted UK income‑tax adjustment for a specific group (low‑income pensioners). Evidence is headlines/RSS only and provides no details on the fiscal scale, timing, or associated spending/offsets. Potential transmission channels to Square Country (slightly higher UK consumption, small shifts in UK demand for imports, tourism or financial flows) are likely to be very small relative to Square Country’s large, diversified economy and are not quantifiable from the available information. Following the instruction to use zero when effects are uncertain and to avoid inventing measures, conservative first‑stage impacts are set to zero. If detailed fiscal costings or estimates of changes in UK household spending become available, a reassessment could quantify small trade and demand effects.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Healey to shield low-income pensioners from income tax in the Budget",
+          "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-26T10:28:12.000Z",
+          "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-21T23:15:56.184Z",
+      "reviewedAt": null
     }
   ]
 }

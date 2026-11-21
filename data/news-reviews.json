@@ -2039,6 +2039,126 @@
       "duplicateOf": "",
       "reviewedAt": "2026-11-20T00:37:37.595Z",
       "status": "assessed"
+    },
+    {
+      "articleId": "https://www.bbc.co.uk/sounds/play/w3ct9kk8?at_medium=RSS&at_campaign=rss",
+      "title": "The Documentary",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct9kk8?at_medium=RSS&at_campaign=rss",
+      "relevance": "low",
+      "reason": "Feature about a city's green landscape appears to be a local/illustrative story without clear, direct implications for national trade, fiscal or financial conditions.",
+      "eventName": "City benefits from new green landscape documentary",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "title": "Anthropic reveals rapid revenue gains and larger losses in stock market filing",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "relevance": "medium",
+      "reason": "A very large AI company filing for a major IPO could influence global investor sentiment, capital flows into AI and tech valuations, with indirect effects on financial markets relevant to a trade‑exposed economy.",
+      "eventName": "Anthropic public filing for major IPO",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+      "title": "iPhone Duo owners report cracks in Apple’s first foldable handset",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/iphone-duo-owners-cracks-apple-first-foldable-handset",
+      "relevance": "low",
+      "reason": "A product‑quality issue at a single consumer electronics launch is company‑level news and unlikely to have material macroeconomic effects for the national economy.",
+      "eventName": "Reports of cracks in Apple’s first foldable iPhone",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+      "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+      "relevance": "medium",
+      "reason": "A reported programme affecting tens of thousands of employees at a global tech firm could affect labour markets, services demand and local tech ecosystems where Microsoft operates, with possible second‑round effects on consumption and services trade.",
+      "eventName": "Microsoft offers buyouts to 60,000 employees",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
+      "title": "Meta plans $95bn stock offering to help cover AI expansion",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
+      "relevance": "medium",
+      "reason": "A very large capital raise by a major tech firm for AI and datacentre expansion could influence global capital markets and energy/datacentre demand, creating indirect spillovers for tradeable energy and investment flows.",
+      "eventName": "Meta proposes $95bn stock offering for AI expansion",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
+      "title": "Visa and Mastercard threatened with potential £5bn UK lawsuit over fees",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/26/visa-mastercard-potential-uk-lawsuit-interchange-fees-compensation",
+      "relevance": "low",
+      "reason": "A UK group claim over card interchange fees is sectoral legal news; while it could alter payment costs for merchants, it is jurisdiction‑specific and unlikely to be immediately material to broad national macro indicators.",
+      "eventName": "Potential UK group claim against Visa and Mastercard on interchange fees",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "relevance": "low",
+      "reason": "Clarification of a UK politician's stance on freedom of movement is political news with limited direct, immediate macroeconomic implications for an external national economy absent further policy action.",
+      "eventName": "No 10 clarification of Andy Burnham's freedom-of-movement stance",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "title": "European gas prices soar to four-year high over winter supply fears",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "relevance": "high",
+      "reason": "Marked rise in European wholesale gas prices driven by winter supply fears is a major commodity price and energy‑supply development that can feed inflation, production costs and external energy bills for trade‑exposed economies.",
+      "eventName": "European gas prices jump to four‑year high on winter supply fears",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "title": "Audi boss under fire in Germany for Trump rally appearance",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
+      "relevance": "low",
+      "reason": "Corporate reputational and political fallout around an executive's public appearance and an associated investment announcement is company‑level and unlikely to be materially relevant to national macro indicators.",
+      "eventName": "Audi chief criticised for Trump rally appearance amid US investment announcement",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
+    },
+    {
+      "articleId": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
+      "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
+      "source": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
+      "relevance": "low",
+      "reason": "Debate among UK MPs over how to drive domestic reindustrialisation is a domestic policy/process story; unless it produces major policy shifts affecting trade, it is unlikely to have immediate material effects abroad.",
+      "eventName": "Labour MPs urge centralised drive for UK reindustrialisation from No 10 North",
+      "duplicateOf": "",
+      "reviewedAt": "2026-11-21T23:15:25.218Z",
+      "status": "assessed"
     }
   ]
 }
