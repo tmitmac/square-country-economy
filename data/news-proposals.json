@@ -1765,6 +1765,93 @@
       "status": "pending_review",
       "createdAt": "2026-11-21T23:15:56.184Z",
       "reviewedAt": null
+    },
+    {
+      "id": "news-842f3b34c2cc681d6206",
+      "rootArticleId": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "title": "Growing backlash against data‑centre expansion",
+      "importance": "medium",
+      "summary": "Headlines indicate a growing backlash to data‑centre expansion. With only headline-level evidence, first‑stage effects on Square Country are likely small: a modest drag on investment and GDP growth, a tiny rise in unemployment from stalled construction/operations hiring, slightly lower imports of equipment, and negligible immediate fiscal or inflationary impact.",
+      "reasoning": "The story (headlines only) suggests possible regulatory/approval delays or stricter requirements for data centres. Direct first‑round channels: delayed/curtailed data‑centre construction and equipment imports reduce investment and import demand; some operational expansion may be deferred, slightly lowering services output and hiring. Indirect channels (energy policy, higher compliance costs) could matter later but cannot be assumed from headlines. Given Square Country's large, diversified economy, these effects should be small and concentrated in the ICT/construction/equipment import sectors. I convert a conservative assumed short‑run growth drag into scaled fiscal and trade impacts using current GDP and revenue ratios. I set zero where evidence is insufficient to justify non‑zero fiscal or inflation changes.",
+      "effects": {
+        "gdpGrowth": -0.03,
+        "inflation": 0,
+        "unemployment": 0.02,
+        "governmentRevenue": -73945000,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": -30000000
+      },
+      "sources": [
+        {
+          "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Business",
+          "publishedAt": "2026-10-25T23:44:34.000Z",
+          "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-22T23:37:34.589Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-8cef9d6af68621e1052b",
+      "rootArticleId": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+      "title": "Anthropic public filing for major IPO",
+      "importance": "medium",
+      "summary": "Headline-only report of Anthropic's confidential US IPO filing — treated as a US equity market event with no demonstrated immediate, direct impact on Square Country's real economy or fiscal accounts. Conservative first-stage assumption: no measurable macro effect.",
+      "reasoning": "The information is limited to headlines/RSS summaries and concerns a US-based private equity event. Direct channels to Square Country (trade in goods/services, immediate fiscal changes, or large-scale cross-border investment shifts) are not evidenced. While a very large IPO can affect global risk sentiment and capital flows, there is insufficient verified information to quantify any near-term transmission to Square Country. Given the developer instruction to use zero where evidence is insufficient and to be conservative, assume no first-stage impact on growth, inflation, unemployment, government fiscal balances, or trade for the immediate horizon. Monitor for subsequent developments (secondary market moves, material cross-border investment flows, or announcements involving Square Country entities) that could warrant revision.",
+      "effects": {
+        "gdpGrowth": 0,
+        "inflation": 0,
+        "unemployment": 0,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Anthropic reveals rapid revenue gains and larger losses in stock market filing",
+          "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-26T16:22:28.000Z",
+          "summary": "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of the AI boom’s financial viability Anthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history. The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dollar AI boom. Analysts and investors have valued the San Francisco-based company, founded in 2021, at more than $1.5tn. The company, which will will list under the symbol ANT, confidentially filed with US financial regulators for an initial public offering in June. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-22T23:37:41.133Z",
+      "reviewedAt": null
+    },
+    {
+      "id": "news-f805951fdf8d14c66cb7",
+      "rootArticleId": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "importance": "medium",
+      "summary": "Microsoft offering buyouts to about 60,000 employees is a significant firm-level event but, based on headlines only, there is insufficient direct evidence of sizeable fiscal or trade linkages to Square Country. Conservatively, expect only very small first‑stage macro spillovers: a tiny drag on GDP growth, a negligible disinflationary effect, and a very small rise in unemployment. No clear evidence to change government revenue, expenditure, exports or imports at this stage.",
+      "reasoning": "The announcement is large for Microsoft but headlines do not specify how many affected employees are located in Square Country or the size/timing of severance and reabsorption into other firms. As a large, diversified economy, Square Country’s exposure to a single firm’s workforce reduction is limited. Likely channels: reduced demand for local tech services and contractors, downward pressure on tech wages/prices, and modest negative sentiment for business investment in the tech sector. Those channels imply only very small immediate impacts. Fiscal and trade effects require evidence on local layoffs, changes in cross‑border services or supply contracts; absent that evidence, conservative assumption is no measurable change to government revenue, expenditure or trade flows in the first stage.",
+      "effects": {
+        "gdpGrowth": -0.02,
+        "inflation": -0.01,
+        "unemployment": 0.02,
+        "governmentRevenue": 0,
+        "governmentExpenditure": 0,
+        "exports": 0,
+        "imports": 0
+      },
+      "sources": [
+        {
+          "title": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+          "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts",
+          "source": "The Guardian Business",
+          "publishedAt": "2026-10-26T18:44:31.000Z",
+          "summary": "Tech company offers buyouts in an effort to reduce costs amid the rising use of AI, according to reports Microsoft announced that it would offer buyouts to 60,000 employees in an effort to reduce costs amid the rising use of artificial intelligence, according to reports, the latest example of how AI is reshaping tech companies and the greater workforce. This is the latest of several trimmings Microsoft has made to its workforce this year. The company announced in April that it was offering voluntary retirement to about 7% of its US workforce, which consisted of about 125,000 employees at the time. Its global workforce is made up of about 223,000 workers globally. Continue reading..."
+        }
+      ],
+      "status": "pending_review",
+      "createdAt": "2026-11-22T23:37:49.903Z",
+      "reviewedAt": null
     }
   ]
 }
